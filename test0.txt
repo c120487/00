@@ -4,7 +4,7 @@
  
 "sites": [
 
-{"key": "date", "name": "20220813", "type": 0, "api": ""},
+{"key": "date", "name": "20220813Github", "type": 0, "api": ""},
 
 
 //type3 api from 91a.jar
