@@ -2,7 +2,8 @@
 
 //2nd jar format, "jar":"filename.jar"
 //"spider":"https://gitea.com/c120487/00/raw/branch/main/00tv0.jar",
-"spider":"https://raw.githubusercontent.com/c120487/00/main/00tv0.jar",
+"spider":"https://github.com/c120487/00/blob/main/00tv0.jar?raw=true",
+//"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 
 //live source https://gitea.com/c120487/00/raw/branch/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYzEyMDQ4Ny8wMC9yYXcvYnJhbmNoL21haW4vMDB0dmxpdmUudHh0"]} ]}],
