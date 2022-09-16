@@ -1,17 +1,12 @@
 ﻿{
 
 //2nd jar format, "jar":"filename.jar"
-"spider":"https://gitea.com/c120487/00/raw/branch/main/00tv0.jar",
-//"spider":"https://gitea.com/c120487/00/raw/branch/main/0630.jar",
-//"spider":"https://gitea.com/c120487/00/raw/branch/main/91a.jar" 2nd JAR
-
-"wallpaper": "https://gitea.com/c120487/00/raw/branch/main/00tv0.png",
+//"spider":"https://gitea.com/c120487/00/raw/branch/main/00tv0.jar",
+"spider":"https://raw.githubusercontent.com/c120487/00/main/00tv0.jar",
 
 //live source https://gitea.com/c120487/00/raw/branch/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYzEyMDQ4Ny8wMC9yYXcvYnJhbmNoL21haW4vMDB0dmxpdmUudHh0"]} ]}],
 
-//有台灣台 live source https://github.com/heroaku/TVboxo/raw/main/tv/bc.txt
-//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2hlcm9ha3UvVFZib3hvL3Jhdy9tYWluL3R2L2JjLnR4dA=="]}]}],
 
 "categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
 
