@@ -1,25 +1,21 @@
 ﻿{
-
 //2nd jar format, "jar":"filename.jar"
 //"spider":"https://gitea.com/c120487/00/raw/branch/main/00tv0.jar",
 "spider":"https://github.com/c120487/00/blob/main/00tv0.jar?raw=true",
-//"spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+
 
 //live source https://gitea.com/c120487/00/raw/branch/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYzEyMDQ4Ny8wMC9yYXcvYnJhbmNoL21haW4vMDB0dmxpdmUudHh0"]} ]}],
 
 
+//{"key":"key_(资源名称)", "name":"资源名称", "type":0, "api":"csp_(jar内文件名称)", "searchable":1, "quickSearch":1, "filterable":0, "jar":"(jar文件地址)", "ext":"(txt json文件地址)", "playUrl": "〔播放解析地址〕", "categories":["(自定义资源列表)", "(自定义资源列表)"] }
+//Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫, 
+//type 3 need jar for api, 
+//type 0 and 1 donot need jar for api, api is url
 "categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
-
 "sites": [
 //設定日期版本, merge to one JAR
 {"key":"date","name":"🇹🇼 20220908WWW 🇹🇼","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-//{"key":"key_(资源名称)", "name":"资源名称", "type":0, "api":"csp_(jar内文件名称)", "searchable":1, "quickSearch":1, "filterable":0, 
-//"jar":"(jar文件地址)", "ext":"(txt json文件地址)", "playUrl": "〔播放解析地址〕", "categories":["(自定义资源列表)", "(自定义资源列表)"] }
-//Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫, 
-//3需要jar for api, 
-//0 1 不需, api 就是 url
 
 //type:3 api: from spider xxx.jar 應該是自定義
 //{"key":"csp_Nbys","name":"🐞泥巴(VPN)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
