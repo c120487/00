@@ -595,7 +595,7 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 ##
 
 
-📶SatMD,#genre#
+📶SatSport,#genre#
 MD1,rtmp://59.124.75.138/sat/md011
 MD2,rtmp://59.124.75.138/sat/md021
 MD3,rtmp://59.124.75.138/sat/md031
@@ -614,6 +614,22 @@ MD6,rtmp://59.124.75.150/sat/md061
 MD7,rtmp://59.124.75.150/sat/md071
 MD8,rtmp://59.124.75.150/sat/md081
 MD9,rtmp://59.124.75.150/sat/md091
+
+博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+博斯运动1,http://59.125.101.187:8521/http/61.221.81.94:8088/hls/68/810/ch23.m3u8
+博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
+博斯高球台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn05&hd=720
+博斯无限台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn10&hd=720
+博斯网球台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn09&hd=720
+博斯魅力网,mitv://ns2.hellotvvod.com:9906/1833e803aab746e4a22b33e6a524edf3
+博斯网球台,mitv://ns2.hellotvvod.com:9906/e44c75283ac4431c965a083d4a5a450b
+博斯无限台,mitv://ns2.hellotvvod.com:9906/b95182b6589f4f97b295c2f6e131cb12
+博斯高球1台,mitv://ns2.hellotvvod.com:9906/5cbde72cdc614129b87c82a80ba28550
+博斯高球2台,mitv://ns2.hellotvvod.com:9906/c78b81415e3a43d1a3ab33ea770ff6b0
+博斯运动一台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn07&hd=720
+博斯无限二台,mitv://ns2.hellotvvod.com:9906/0c5558f0a06645de9966f8fda7898b86
+博斯运动一台,mitv://ns2.hellotvvod.com:9906/47c9e046ce954e389b4e9c302072111c
+博斯运动二台,mitv://ns2.hellotvvod.com:9906/64e92f5b70064a429cb4fb4daf276781
 
 ##
 
