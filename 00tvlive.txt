@@ -615,23 +615,47 @@ MD7,rtmp://59.124.75.150/sat/md071
 MD8,rtmp://59.124.75.150/sat/md081
 MD9,rtmp://59.124.75.150/sat/md091
 
-博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
-非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
-非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8081/hls/68/812/ch01.m3u8
-非凡商业,http://61.219.170.95:18510/.m3u8
-非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
-非凡新闻,http://59.125.122.90:18510/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
-非凡商业,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-非凡新闻,http://209.141.56.65/litvts.php?id=4gtv-4gtv010
-非凡商业,http://209.141.56.65/litvts.php?id=4gtv-4gtv048
-非凡商業,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch56.m3u8?token=
-非凡商业台,mitv://ns2.hellotvvod.com:9906/43baf7aae87b4059871b599c67848324
-非凡新闻台,mitv://ns2.hellotvvod.com:9906/f63e84b4c3a5431691ca6cd3419f678d
+##
+
+
+
+📶NLTV,#genre#
+Discovery,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+Discovery,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
+Eleven1,http://50.7.220.74:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+EYE TV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+EYE TV戲劇,http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+Hollywood HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
+Hollywood HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+Hollywood HD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+TVBS新聞,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+中視新聞,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+中視新聞,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+中視經典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+東森財經,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
+東森電影,http://50.7.220.74:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+東森綜合 ,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+東森戲劇,http://50.7.220.74:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+星空衛視,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+時尚頻道,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
+博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
+博斯運動2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+鳳凰衛視,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
+緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
 
 ##
-
 
 📻Radio,#genre#
 AsiaFM 亞洲天空台,http://funradio.cn:8000/funradio
