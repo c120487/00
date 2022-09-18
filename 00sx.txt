@@ -1,22 +1,11 @@
 ﻿{
-//"spider":"https://gitea.com/c120487/00/raw/branch/main/00tvx0.jar",
-"spider":"https://github.com/c120487/00/blob/main/00tvx0.jar?raw=true",
 
-
-//live source https://gitea.com/c120487/00/raw/branch/main/00tvlivex.txt
-//"lives":[{"group":"redirect","channels":[{"name":"liveX","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYzEyMDQ4Ny8wMC9yYXcvYnJhbmNoL21haW4vMDB0dmxpdmV4LnR4dA=="]}]}],
-//live source https://raw.githubusercontent.com/c120487/00/main/00tvlivex.txt
-"lives":[{"group":"redirect","channels":[{"name":"liveX","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZXgudHh0"]}]}],
-
-
-//{"key":"key_(资源名称)", "name":"资源名称", "type":0, "api":"csp_(jar内文件名称)", "searchable":1, "quickSearch":1, "filterable":0, "jar":"(jar文件地址)", "ext":"(txt json文件地址)", "playUrl": "〔播放解析地址〕", "categories":["(自定义资源列表)", "(自定义资源列表)"], "jar":"jar文件地址.jar" }
+//{"key":"key_(资源名称)", "name":"资源名称", "type":0, "api":"csp_(jar内文件名称)", "searchable":1, "quickSearch":1, "filterable":0, "jar":"(jar文件地址)", "ext":"(txt json文件地址)", "playUrl": "〔播放解析地址〕", "categories":["(自定义资源列表)", "(自定义资源列表)"] }
 //Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫, 
-//type 3, api from jar, 
-//type 1, Json, api file end with /provide/vod/
-//type 0, MacCMS, api file end with /at/xml/
+//type 3 need jar for api, 
+//type 0 and 1 donot need jar for api, api is url
 "sites":[
-// {"key": "date", "name": "🔞🈲20220904WWW🈲🔞", "type": 0, "api": ""},
- {"key":"date","name":"🔞🈲20220831WWW🈲🔞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"date","name":"🇹🇼 20220918x 🇹🇼","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["动作片","科幻片","喜剧片","爱情片","犯罪片","剧情片","战争片","纪录片","欧美剧","国产剧","日剧","台剧","港剧","韩剧","国产综艺","欧美动漫","日本动漫"]},
 
 //🐝 type: 1 官方采集 api:"url with end by _api.php_provide_vod", 同Biubiu采集站, 官方提供, with own M3U8player playUrl
  {"key":"00CK","name":"🐝CKv","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://ckm3u8.cc/?url="},
