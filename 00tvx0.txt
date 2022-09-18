@@ -14,14 +14,15 @@
 //type 3, api from jar, 
 //type 1, Json, api file end with /provide/vod/
 //type 0, MacCMS, api file end with /at/xml/
+"categories":["福利","福利片","伦理片"],
 "sites":[
 // {"key": "date", "name": "🔞🈲20220904WWW🈲🔞", "type": 0, "api": ""},
  {"key":"date","name":"🔞🈲20220831WWW🈲🔞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 //🐝 type: 1 官方采集 api:"url with end by _api.php_provide_vod", 同Biubiu采集站, 官方提供, with own M3U8player playUrl
- {"key":"00CK","name":"🐝CKv","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://ckm3u8.cc/?url="},
- {"key":"00艾旦影视","name":"🐝艾旦","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
- {"key": "00影库资源",  "name": "🐝影库v",  "type": 1,  "api": "https://api.ykapi.net/api.php/provide/vod/",  "playUrl":"http://jx.ykyunbo.com/m3u8.php?url=",  "searchable": 1,  "quickSearch": 1 },
+ {"key":"00CK","name":"🐝CKv","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["福利","福利片","伦理片"],"playUrl":"https://ckm3u8.cc/?url="},
+ {"key":"00艾旦影视","name":"🐝艾旦","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"categories":["福利","福利片","伦理片"],"quickSearch":1},
+ {"key": "00影库资源",  "name": "🐝影库v",  "type": 1,  "api": "https://api.ykapi.net/api.php/provide/vod/",  "playUrl":"http://jx.ykyunbo.com/m3u8.php?url=",  "searchable": 1, "quickSearch": 1 },
  {"key": "00酷伦理",  "name": "🐝酷伦理v",  "type": 1,  "api": "https://api.kudian70.com/api.php/provide/vod/",  "playUrl":"https://jx.kujiexi.net/m3u8.php?url=",  "searchable": 1,  "quickSearch": 1 },
  {"key": "KKzy",  "name": "🐝KK",  "type": 1,  "api": "https://kkzy.me/api.php/provide/vod/",  "searchable": 1,  "quickSearch": 1 },
  {"key": "KKzysea",  "name": "🐝KKsea",  "type": 0,  "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",  "searchable": 1,  "quickSearch": 1 },
