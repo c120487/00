@@ -16,8 +16,7 @@
 //type 0, MacCMS, api file end with /at/xml/
 "categories":["福利","福利片","伦理片"],
 "sites":[
-// {"key": "date", "name": "🔞🈲20220904WWW🈲🔞", "type": 0, "api": ""},
- {"key":"date","name":"🔞🈲20220831WWW🈲🔞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+ {"key":"date","name":"🔞🈲 20220918 🈲🔞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 //🐝 type: 1 官方采集 api:"url with end by _api.php_provide_vod", 同Biubiu采集站, 官方提供, with own M3U8player playUrl
  {"key":"00CK","name":"🐝CKv","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["福利","福利片","伦理片"],"playUrl":"https://ckm3u8.cc/?url="},

@@ -4,8 +4,9 @@
 //Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫, 
 //type 3 need jar for api, 
 //type 0 and 1 donot need jar for api, api is url
+"categories":["福利","福利片","伦理片"],
 "sites":[
-{"key":"date","name":"🇹🇼 20220918x 🇹🇼","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["动作片","科幻片","喜剧片","爱情片","犯罪片","剧情片","战争片","纪录片","欧美剧","国产剧","日剧","台剧","港剧","韩剧","国产综艺","欧美动漫","日本动漫"]},
+{"key":"date","name":"🔞🈲 20220918x 🈲🔞","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["动作片","科幻片","喜剧片","爱情片","犯罪片","剧情片","战争片","纪录片","欧美剧","国产剧","日剧","台剧","港剧","韩剧","国产综艺","欧美动漫","日本动漫"]},
 
 //🐝 type: 1 官方采集 api:"url with end by _api.php_provide_vod", 同Biubiu采集站, 官方提供, with own M3U8player playUrl
  {"key":"00CK","name":"🐝CKv","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["福利","福利片","伦理片"],"playUrl":"https://ckm3u8.cc/?url="},
