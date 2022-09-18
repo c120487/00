@@ -616,20 +616,19 @@ MD8,rtmp://59.124.75.150/sat/md081
 MD9,rtmp://59.124.75.150/sat/md091
 
 博斯高球I,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
-博斯运动1,http://59.125.101.187:8521/http/61.221.81.94:8088/hls/68/810/ch23.m3u8
-博斯运动2,http://58.99.33.16:1935/liveedge17/live_244_3.stream/chunklist.m3u8
-博斯高球台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn05&hd=720
-博斯无限台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn10&hd=720
-博斯网球台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn09&hd=720
-博斯魅力网,mitv://ns2.hellotvvod.com:9906/1833e803aab746e4a22b33e6a524edf3
-博斯网球台,mitv://ns2.hellotvvod.com:9906/e44c75283ac4431c965a083d4a5a450b
-博斯无限台,mitv://ns2.hellotvvod.com:9906/b95182b6589f4f97b295c2f6e131cb12
-博斯高球1台,mitv://ns2.hellotvvod.com:9906/5cbde72cdc614129b87c82a80ba28550
-博斯高球2台,mitv://ns2.hellotvvod.com:9906/c78b81415e3a43d1a3ab33ea770ff6b0
-博斯运动一台,https://4g.52sf.ga/channel.m3u8?fid=litv-longturn07&hd=720
-博斯无限二台,mitv://ns2.hellotvvod.com:9906/0c5558f0a06645de9966f8fda7898b86
-博斯运动一台,mitv://ns2.hellotvvod.com:9906/47c9e046ce954e389b4e9c302072111c
-博斯运动二台,mitv://ns2.hellotvvod.com:9906/64e92f5b70064a429cb4fb4daf276781
+非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
+非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
+非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8081/hls/68/812/ch01.m3u8
+非凡商业,http://61.219.170.95:18510/.m3u8
+非凡商业,http://59.125.122.90:18510/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
+非凡新闻,http://59.125.122.90:18510/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
+非凡商业,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+非凡新闻,http://209.141.56.65/litvts.php?id=4gtv-4gtv010
+非凡商业,http://209.141.56.65/litvts.php?id=4gtv-4gtv048
+非凡商業,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch56.m3u8?token=
+非凡商业台,mitv://ns2.hellotvvod.com:9906/43baf7aae87b4059871b599c67848324
+非凡新闻台,mitv://ns2.hellotvvod.com:9906/f63e84b4c3a5431691ca6cd3419f678d
+
 
 ##
 
