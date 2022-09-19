@@ -352,10 +352,10 @@ VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 亞洲旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 東森 LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
 東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森美洲3,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
