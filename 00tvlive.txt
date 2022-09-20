@@ -114,7 +114,7 @@ MOMO綜合,p2p://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 ##
 
 
-📶SatSport,#genre#
+🏓SatSport,#genre#
 MD1,rtmp://59.124.75.138/sat/md011
 MD2,rtmp://59.124.75.138/sat/md021
 MD3,rtmp://59.124.75.138/sat/md031
@@ -303,7 +303,7 @@ TVBS歡樂,p2p://54.39.16.152:9906/62585f330007fbe70fddfe2f12feb8b6
 ##
 
 
-📶4gTV,#genre#
+🛰4gTV,#genre#
 Arirang,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
@@ -357,7 +357,7 @@ VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 ##
 
 
-📶SatTV,#genre#
+🛰SatTV,#genre#
 Eleven1,rtmp://59.124.75.138/sat/tv731
 Eleven1,rtmp://59.124.75.150/sat/tv731
 Eleven2,rtmp://59.124.75.138/sat/tv741
@@ -413,7 +413,7 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8?blog.ntnas.
 ##
 
 
-📶NLTV,#genre#
+🛰NLTV,#genre#
 Discovery,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 Discovery,http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
 Discovery,http://50.7.220.74:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B1462900214629002&ct=18393&tsum=ce9990e01102bf91728bdbbb549b04a7
@@ -717,7 +717,7 @@ VOA美國之音,http://stream.radiojar.com/7thwu53r92quv
 ##
 
 
-📺0906台港澳,#genre#
+🇵0906台港澳,#genre#
 amc最愛電影,p2p://fccs.word-tv.com:9906/62674eb900041ef4163efcc6b4c8cd0b
 AXN,p2p://fccs.word-tv.com:9906/6258d52d000490df11aad5dfc8e0641c
 BBC Earth,p2p://fccs.word-tv.com:9906/62612d0100000350184ee5c7d2e06684
