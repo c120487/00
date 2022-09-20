@@ -310,13 +310,6 @@ ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-l
 ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
 LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8?blog.ntnas.top
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8?blog.ntnas.top
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8?blog.ntnas.top
 TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
 TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
@@ -332,19 +325,11 @@ VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
 中視菁采,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv064&nid=123
 中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-公视,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
 民視1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
 民視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 民視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
 民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
@@ -352,17 +337,9 @@ VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
 亞洲旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 東森 LIVE,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
-東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
-東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-東森美洲3,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
-東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森衛視,http://38.64.72.148/hls/modn/list/2024/chunklist0.m3u8
 客家電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 博斯無限,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn10&nid=51
@@ -375,6 +352,7 @@ VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 滾動人文紀實,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
 寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
 鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+
 
 ##
 
@@ -408,6 +386,29 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 緯來育樂,rtmp://59.124.75.150/sat/tv701
 緯來體育,rtmp://59.124.75.138/sat/tv721
 緯來體育,rtmp://59.124.75.150/sat/tv721
+
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8?blog.ntnas.top
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8?blog.ntnas.top
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8?blog.ntnas.top
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8?blog.ntnas.top
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
+東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
+東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+東森美洲3,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
+東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
+東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8
+東森衛視,http://38.64.72.148/hls/modn/list/2024/chunklist0.m3u8
 
 ##
 
