@@ -75,7 +75,7 @@ KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 KBS World,https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-KCTVCH05,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 Korea Economy TV (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/KoreaEconomyTV.m3u8
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 Korean Election TV,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index.m3u8
@@ -102,33 +102,19 @@ Professional Baseball 2 (1080p) [Not 24/7],https://allanf181.github.io/adaptive-
 Professional Baseball 3 (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball3.m3u8
 Professional Baseball 4 (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball4.m3u8
 Professional Baseball 5 (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball5.m3u8
-RTHK32,http://teslagram.com/live/channel_32.m3u8
-RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?WithCaption
 SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 TBC 大邱,http://221.157.125.239:1935/live/psike/playlist.m3u8
 TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
-TBS News,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=H3D90-436C4
 The K-POP,https://git.io/JgYAE
 TJB SBS 綜藝,http://1.245.74.5:1935/live/tv/.m3u8
 TRT World (720p) [Not 24/7],https://tv-trtworld.live.trt.com.tr/master.m3u8
 TVN,https://epg.pm/stream/0bf51fb7f41424f6e28a9d99fe887ebcadaf7119e53df12a2238d513792a0031.php
 TVN,https://epg.pm/stream/747b954b28609a9674509d761eaaa9f2f1d3074bd54c42a365caa0ac977af453.m3u8
 TVN,https://epg.pm/stream/aa8a3e5c201af8a4d31418aa44e1f206051ad446ed8b06337335ce9c21cf7802.m3u8
-ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
-ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-Weather Channel (ウェザーニュース) (BS | WNI) (720p),http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-Weather News,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 時尚頻道,http://50.7.220.74:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
 時尚頻道,http://juyunlive.juyun.tv/live/24950198.m3u8
