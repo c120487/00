@@ -19,7 +19,7 @@
 //Type 0-xml 1-json  
 //新資源, 自有資源
 {"key":"00快播资源","name":"🐝快播","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"00番茄资源","name":"🐝番茄v","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://dp.fqplayer.com/dplayer/?url=",},
+{"key":"00番茄资源","name":"🐝番茄v","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://dp.fqplayer.com/dplayer/?url="},
 {"key":"00量子资源","name":"🐝量子v","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://lziplayer.com/?url="},
 
 {"key":"11飘零影视","name":"🐝飘零","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
