@@ -311,13 +311,15 @@ ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-l
 LUXE TV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
 SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
 TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tvbs
+//TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
 三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
 三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
 大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?id=daai
 大愛2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live106&nid=230
 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
@@ -325,6 +327,7 @@ VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
 中視菁采,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv064&nid=123
 中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?id=zsxw
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
@@ -340,6 +343,7 @@ VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ft
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
 東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?id=dsxw
 客家電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
 博斯無限,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn10&nid=51
