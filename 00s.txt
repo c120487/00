@@ -13,7 +13,7 @@
 
 "sites": [
 //設定日期版本, merge to one JAR
-{"key":"date","name":"🇹🇼 0918x 🇹🇼","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"date","name":"🇹🇼 0924s 🇹🇼","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
 //{"key":"00if101","name":"🐝if101","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
 
 //Type 0-xml 1-json  
