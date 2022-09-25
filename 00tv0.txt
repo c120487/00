@@ -31,8 +31,6 @@
 //Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 4-服务器爬虫, 
 {"key":"type01","name":"🐝官方采集-年份🐝","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["动作片","科幻片","喜剧片","爱情片","犯罪片","剧情片","战争片","纪录片","欧美剧","国产剧","日剧","台剧","港剧","韩剧","国产综艺","欧美动漫","日本动漫"]},
 //{"key":"00if101","name":"🐝if101","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
-{"key":"00if101json","name":"🐝if101json","type":1,"api":"http://api.if101.tv/v1/vod","searchable":1,"quickSearch":1},
-{"key":"00if101xml","name":"🐝if101xml","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 
 //新資源, 自有資源
 {"key":"00快播资源","name":"🐝快播","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","科幻片","喜剧片","爱情片","剧情片","战争片","纪录片","欧美剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","动漫","欧美动漫","日本动漫"]},
