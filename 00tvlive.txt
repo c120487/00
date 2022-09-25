@@ -459,6 +459,34 @@ ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=1833
 ##
 
 
+🇹🇼0925台灣,#genre#
+民視,rtmp://59.124.75.138/sat/tv051
+台視,rtmp://59.124.75.138/sat/tv071
+中視,rtmp://59.124.75.138/sat/tv091
+華視,rtmp://59.124.75.138/sat/tv111
+中天新闻台,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8
+TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS新闻,http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
+TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
+TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
+民视新闻HD,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8 
+台视新闻HD,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
+東森財經新聞,rtmp://59.124.75.138/sat/tv571
+東森超視,rtmp://59.124.75.138/sat/tv521
+緯來育樂,rtmp://59.124.75.138/sat/tv701
+緯來體育,rtmp://59.124.75.138/sat/tv721
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
+緯來日本,rtmp://59.124.75.138/sat/tv771
+MOMO綜合,rtmp://59.124.75.138/sat/tv761
+ELTA體育2,rtmp://59.124.75.138/sat/md011
+ELEVEN2,rtmp://59.124.75.138/sat/md021
+ELTA體育3,rtmp://59.124.75.138/sat/md041
+ELTA體育1,rtmp://59.124.75.138/sat/md051
+##
+
+
 🇹🇼0904台灣,#genre#
 TVBS HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
