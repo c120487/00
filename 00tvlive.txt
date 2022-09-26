@@ -88,7 +88,6 @@ MOMO綜合,p2p://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 緯來體育,rtmp://59.124.75.138/sat/tv721
 緯來體育,rtmp://59.124.75.150/sat/tv721
 
-
 ##
 
 
@@ -116,10 +115,8 @@ MD9,rtmp://59.124.75.150/sat/md091
 
 
 📰News,#genre#
-TVBS 56,http://98.142.138.122:1637/zhiboyuandakaTV/tvbs562517350.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://98.142.138.122:1636/zhiboyuandakaTV/tvbsasia5673.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
@@ -130,8 +127,7 @@ TVBS新聞HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live0
 TVBS新聞HD,p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
 TVBS新聞HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
 TVBS新聞HD,rtmp://59.124.75.150/sat/tv551
-TVBS新闻,http://98.142.138.122:1633/zhiboyuandakaTV/tvbs562517350.m3u8
-TVBS新闻,rtmp://59.124.75.138/sat/tv551
+TVBS新聞HD,rtmp://59.124.75.138/sat/tv551
 TVBS精采,p2p://54.39.16.152:9906/6259b507000647d0151541dfdfa4429f
 TVBS精采,p2p://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
 TVBS歡樂,p2p://54.39.16.152:9906/62585f330007fbe70fddfe2f12feb8b6
@@ -154,7 +150,6 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 中天新聞,https://ytb.arp220.us/jmsytb.m3u8?c=5
 中天新聞,p2p://54.39.16.152:9906/625af85e0000d79c001149459e0c9b4f
 中天新聞,p2p://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
-中天新闻台,http://98.142.138.122:1635/zhiboyuandakaTV/zhongtian98432987.m3u8
 中天綜合,p2p://54.39.16.152:9906/62585815000447950fc2300ce37be3da
 中天綜合,p2p://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
 中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
@@ -188,7 +183,6 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 台視,rtmp://59.124.75.150/sat/tv071
 台視財經,p2p://54.39.16.152:9906/626928870002ef3e0375515fa02e33ba
 台視財經,p2p://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
-台视新闻HD,http://98.142.138.122:1638/zhiboyuandakaTV/ebcnews92755.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
@@ -207,7 +201,6 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 民視,rtmp://59.124.75.138/sat/tv051
 民視1,p2p://54.39.16.152:9906/626927db000004640372b0c04cca9ca3
 民視1,p2p://fccs.word-tv.com:9906/626927db000004640372b0c04cca9ca3
-民视新闻HD,http://98.142.138.122:1634/zhiboyuandakaTV/mingshi838552450.m3u8 
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://61.219.170.95:18563/.m3u8
