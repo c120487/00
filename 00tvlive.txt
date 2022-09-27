@@ -1,5 +1,5 @@
 ﻿🐈‍⬛🐈‍⬛ 0926 🐈‍⬛🐈‍⬛,#genre#
-test,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live
+test,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5n0y6b0Q25o
 一代宗師,https://v4.cdtlas.com/20211215/Iff7R3PC/index.m3u8
 一代宗師,https://vip.lz-cdn2.com/20220528/7739_46a377b4/index.m3u8
 壯志淩雲2：獨行俠,https://m3u.if101.tv/xm3u8/3cd4073d8090aa70651feeac5c08a7e5161a81f4148759d22394199a3a5bdca99921f11e97d0da21.m3u8
