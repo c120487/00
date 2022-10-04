@@ -4,7 +4,7 @@
 "spider":"https://github.com/c120487/00/blob/main/00tv0.jar?raw=true",
 
 
-//live source https://github.com/c120487/00/blob/main/00tvlive.txt
+//live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
 
 
@@ -16,10 +16,10 @@
 "categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
 "sites": [
 //設定日期版本, merge to one JAR
-{"key":"date","name":"🐈‍⬛🐈‍⬛ 0925 🐈‍⬛🐈‍⬛","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"date","name":"🐈‍⬛🐈‍⬛ 1005 🐈‍⬛🐈‍⬛","type": 3,"api": "csp_Nbys","searchable":0,"quickSearch":0,"filterable": 1},
+//{"key":"csp_Nbys","name":"🐞泥巴(VPN)","type": 3,"api": "csp_Nbys","searchable":0,"quickSearch":0,"filterable": 1},
 
 //type:3 api: from spider xxx.jar 應該是自定義
-//{"key":"csp_Nbys","name":"🐞泥巴(VPN)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Lezhu","name": "🐞乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -109,13 +109,13 @@
 {"key":"11影图","name":"🐝影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"00乐活影视","name":"🐝乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"00海外电影","name":"🐝海外","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"00速影","name":"🐝速影","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":1,"quickSearch":1},
+{"key":"00速影","name":"🐝速影","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
 
 //slow
 {"key":"00天天看","name":"天天看-----","type":1,"api":"https://www.ttky8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"00橘猫影视","name":"橘猫","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"00韩剧资源","name":"韩剧","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
-{"key":"00百度资源","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"00韩剧资源","name":"韩剧","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"00百度资源","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"00鱼乐资源","name":"鱼乐v","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jx.ylbfq.com/dplayer/?url="},
 
 {"key":"0039影视","name":"39","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
