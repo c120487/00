@@ -1,10 +1,16 @@
 🏓🏓 1028 🏓🏓,#genre#
-Demo,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=GdNjjhJUibU&list=PLNqMCkPUgFYQo-EDCtDd7CxnRqQOb7pFE&index=6&P=1080
-
+Demo1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=D7pTfSQUK-8&P=1080
+Demo2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=e2WnzX84jHY&P=1080
+Nasa,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=86YLFOog4GM&P=1080
+ 
 台北,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=z_fY1pj1VBw&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=15&P=1080
 加路蘭,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ce4RYcnuXPA&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=9&P=1080
 多良,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=UCG1aXVO8H8&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=12&P=1080
 都歷,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Hb7MeMTVGdM&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=10&P=1080
+船帆石,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=MqDYaYzE5K4&P=1080
+白沙灣,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=St4GHsJzfg4&P=1080
+墾丁1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Y9kOU1xFio8&P=1080
+墾丁2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EfJ-6N9P4tw&P=1080
 
 一代宗師,https://v4.cdtlas.com/20211215/Iff7R3PC/index.m3u8
 一代宗師,https://vip.lz-cdn2.com/20220528/7739_46a377b4/index.m3u8
