@@ -1,5 +1,5 @@
 ﻿🐈‍⬛🐈‍⬛ 1004 🐈‍⬛🐈‍⬛,#genre#
-MV,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=j3fArBpGCH4&list=RDj3fArBpGCH4&start_radio=1&P=1080
+MV,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=c/ctitv/live&P=1080
 CTiNews,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live
 CTVNews,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live
 EuroNews,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
