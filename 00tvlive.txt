@@ -1,12 +1,11 @@
 ﻿🐈‍⬛🐈‍⬛ 1004 🐈‍⬛🐈‍⬛,#genre#
-MV,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=c/ctitv/live&P=1080
-CTiNews,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ctitv/live
-CTVNews,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/twctvnews/live
+寰宇,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=1&P=1080
+東森財經,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ABn_ccXn_jc&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=2&P=1080
+大愛1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=MIqUplvSRWA&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=7&P=1080
+大愛2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=DTNkEm6jaqQ&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=8&P=1080
 EuroNews,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 NHKWorld,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
-TTVNews,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ttvnewsview/live
-Mirror,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live
-test,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5n0y6b0Q25o
+
 一代宗師,https://v4.cdtlas.com/20211215/Iff7R3PC/index.m3u8
 一代宗師,https://vip.lz-cdn2.com/20220528/7739_46a377b4/index.m3u8
 壯志淩雲2：獨行俠,https://m3u.if101.tv/xm3u8/3cd4073d8090aa70651feeac5c08a7e5161a81f4148759d22394199a3a5bdca99921f11e97d0da21.m3u8
