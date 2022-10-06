@@ -104,34 +104,34 @@ MOMO綜合,p2p://fccs.word-tv.com:9906/62580818000c773d0e89bddcd1b0c221
 緯來體育,p2p://fccs.word-tv.com:9906/62dbbd45000a0aa0137fb226e5d4fbce
 緯來體育,rtmp://59.124.75.138/sat/tv721
 緯來體育,rtmp://59.124.75.150/sat/tv721
+##
+
+
+🏓MDSport,#genre#
+博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯運動2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+
+CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+CCTV5,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000064?fmt=ts2hls
+CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8
+CCTV5+,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000246
+
+MD1,rtmp://59.124.75.138/sat/md011
+MD2,rtmp://59.124.75.138/sat/md021
+MD3,rtmp://59.124.75.138/sat/md031
+MD4,rtmp://59.124.75.138/sat/md041
+MD5,rtmp://59.124.75.138/sat/md051
+MD1,rtmp://59.124.75.150/sat/md011
+MD2,rtmp://59.124.75.150/sat/md021
+MD3,rtmp://59.124.75.150/sat/md031
+MD4,rtmp://59.124.75.150/sat/md041
+MD5,rtmp://59.124.75.150/sat/md051
 
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-##
-
-
-🏓MDSport,#genre#
-MD1,rtmp://59.124.75.138/sat/md011
-MD2,rtmp://59.124.75.138/sat/md021
-MD3,rtmp://59.124.75.138/sat/md031
-MD4,rtmp://59.124.75.138/sat/md041
-MD5,rtmp://59.124.75.138/sat/md051
-MD6,rtmp://59.124.75.138/sat/md061
-MD7,rtmp://59.124.75.138/sat/md071
-MD8,rtmp://59.124.75.138/sat/md081
-MD9,rtmp://59.124.75.138/sat/md091
-MD1,rtmp://59.124.75.150/sat/md011
-MD2,rtmp://59.124.75.150/sat/md021
-MD3,rtmp://59.124.75.150/sat/md031
-MD4,rtmp://59.124.75.150/sat/md041
-MD5,rtmp://59.124.75.150/sat/md051
-MD6,rtmp://59.124.75.150/sat/md061
-MD7,rtmp://59.124.75.150/sat/md071
-MD8,rtmp://59.124.75.150/sat/md081
-MD9,rtmp://59.124.75.150/sat/md091
 ##
 
 
