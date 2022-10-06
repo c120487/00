@@ -1,6 +1,6 @@
 🐘🐘 0814 🐘🐘,#genre#
 Demo1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=D7pTfSQUK-8&P=1080
-Demo2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=kfu1gbvHUio&P=1080
+Demo2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=rkPCR6Ujtak&P=1080
 Nasa,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=86YLFOog4GM&P=1080
  
 台北,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=z_fY1pj1VBw&P=1080
@@ -12,7 +12,7 @@ Nasa,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=86YLFOog4GM&P=1080
 墾丁1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Y9kOU1xFio8&P=1080
 墾丁2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EfJ-6N9P4tw&P=1080
 直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-LiveList,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=AJ_nJgUfAOY&list=PLNqMCkPUgFYR10r1wjpieDMlgc2faDpyW&index=1&P=1080
+LiveList,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vUyxrd0Ku2w&P=1080
 
 寰宇,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
 東森財經,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ABn_ccXn_jc&P=1080
