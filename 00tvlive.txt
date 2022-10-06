@@ -1,21 +1,22 @@
 ﻿🐈‍⬛🐈‍⬛ 1006 🐈‍⬛🐈‍⬛,#genre#
-Demo1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=tAuXNZ5TSlA&list=PLNqMCkPUgFYR10r1wjpieDMlgc2faDpyW&index=2&P=1080
+Demo1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=D7pTfSQUK-8&P=1080
 Demo2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=kfu1gbvHUio&P=1080
 Nasa,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=86YLFOog4GM&P=1080
  
-台北1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=z_fY1pj1VBw&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=15&P=1080
-台北2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=dEqmzhiaYcg&P=1080
-加路蘭,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ce4RYcnuXPA&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=9&P=1080
-多良,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=UCG1aXVO8H8&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=12&P=1080
-都歷,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Hb7MeMTVGdM&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=10&P=1080
+台北1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=z_fY1pj1VBw&P=1080
+加路蘭,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ce4RYcnuXPA&P=1080
+多良,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=UCG1aXVO8H8&P=1080
+都歷,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Hb7MeMTVGdM&P=1080
 船帆石,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=MqDYaYzE5K4&P=1080
 白沙灣,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=St4GHsJzfg4&P=1080
 墾丁1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Y9kOU1xFio8&P=1080
 墾丁2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EfJ-6N9P4tw&P=1080
 直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+LiveList,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=AJ_nJgUfAOY&list=PLNqMCkPUgFYR10r1wjpieDMlgc2faDpyW&index=1&P=1080
 
-寰宇,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=1&P=1080
-東森財經,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ABn_ccXn_jc&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=2&P=1080
+
+寰宇,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
+東森財經,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=ABn_ccXn_jc&P=1080
 
 一代宗師,https://v4.cdtlas.com/20211215/Iff7R3PC/index.m3u8
 一代宗師,https://vip.lz-cdn2.com/20220528/7739_46a377b4/index.m3u8
@@ -153,7 +154,6 @@ MD6,rtmp://59.124.75.150/sat/md061
 MD7,rtmp://59.124.75.150/sat/md071
 MD8,rtmp://59.124.75.150/sat/md081
 MD9,rtmp://59.124.75.150/sat/md091
-
 ##
 
 
@@ -181,10 +181,10 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛1,p2p://54.39.16.152:9906/6257e958000647f20e119e47becddbf1
 大愛1,p2p://fccs.word-tv.com:9906/6257e958000647f20e119e47becddbf1
-大愛1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=MIqUplvSRWA&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=7&P=1080
+大愛1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=oV_i3Hsl_zg&P=1080
 大愛2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live106&nid=230
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=DTNkEm6jaqQ&list=PLNqMCkPUgFYRiS5w7TWTJcwVW_impxmxp&index=8&P=1080
+大愛2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=OKvWtVoDR8I&P=1080
 
 中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 中天亞洲,p2p://54.39.16.152:9906/626610e20008d9cf11656e24ac45db0e
