@@ -16,13 +16,13 @@
 "categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
 "sites": [
 //設定日期版本, merge to one JAR
-{"key":"date","name":"🐈‍⬛🐈‍⬛ 1005 🐈‍⬛🐈‍⬛","type": 3,"api": "csp_Nbys","searchable":1,"quickSearch":0,"filterable": 1},
-//{"key":"csp_Nbys","name":"🐞泥巴(VPN)","type": 3,"api": "csp_Nbys","searchable":0,"quickSearch":0,"filterable": 1},
+{"key":"date","name":"🐈‍⬛🐈‍⬛ 1005 🐈‍⬛🐈‍⬛","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 
 //type:3 api: from spider xxx.jar 應該是自定義
+{"key":"csp_Nbys","name":"🐞泥巴(VPN)","type": 3,"api": "csp_Nbys","searchable":0,"quickSearch":0,"filterable": 1},
 {"key":"csp_If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Lezhu","name": "🐞乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_Lezhu","name": "🐞乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
 //🐝 type: 1 官方采集 api:"url with end by _api.php_provide_vod", 同Biubiu采集站, 官方提供, with own M3U8player playUrl
 //官方解析 end with v, "playUrl": "filename url="
@@ -189,7 +189,14 @@
 //{"key":"33迪迪影院","name":"33迪迪影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2"},
 //{"key":"33淘剧社","name":"33淘剧社","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
 
-{"key":"end","name":" 🏁if101v1","type":0,"api":""}
+{"key":"t4_搜片","name":"📡搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=7","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4_合集","name":"📡合集(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4a","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4聚合","name":"📡T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4public","name":"📡T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://ju990c.i996.me/TS/token.json&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"t4AnLao","name":"📡T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":0}
+
 ],
 
 "parses":[
