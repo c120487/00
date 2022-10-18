@@ -142,146 +142,147 @@ ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 📰News,#genre#
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-TVBS新聞,p2p://54.39.16.152:9906/6254121e00022e5c0955285ee55f9ec4
-TVBS新聞,p2p://fccs.word-tv.com:9906/62bc5630000d8b431230ce1e9b2441a1
-TVBS新聞HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-TVBS新聞HD,p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
-TVBS新聞HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
-TVBS新聞HD,rtmp://59.124.75.150/sat/tv551
-TVBS新聞HD,rtmp://59.124.75.138/sat/tv551
-TVBS精采,p2p://54.39.16.152:9906/6259b507000647d0151541dfdfa4429f
-TVBS精采,p2p://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
-TVBS歡樂,p2p://54.39.16.152:9906/62585f330007fbe70fddfe2f12feb8b6
-TVBS歡樂,p2p://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
-TVBS歡樂,rtmp://59.124.75.138/sat/tv421
-TVBS歡樂,rtmp://59.124.75.150/sat/tv421
-大愛1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live106&nid=230
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛全球1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=MIqUplvSRWA&P=1080
-大愛全球2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=DTNkEm6jaqQ&P=1080
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻台,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+TVBS新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
+TVBS新闻台,p2p://54.39.16.152:9906/6254121e00022e5c0955285ee55f9ec4
+TVBS新闻台,p2p://fccs.word-tv.com:9906/62bc5630000d8b431230ce1e9b2441a1
+TVBS新闻台HD,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+TVBS新闻台HD,p2p://54.39.16.152:9906/62541264000b8c2809563c340355f46f
+TVBS新闻台HD,p2p://fccs.word-tv.com:9906/62541264000b8c2809563c340355f46f
+TVBS新闻台HD,rtmp://59.124.75.150/sat/tv551
+TVBS新闻台HD,rtmp://59.124.75.138/sat/tv551
+TVBS精采台,p2p://54.39.16.152:9906/6259b507000647d0151541dfdfa4429f
+TVBS精采台,p2p://fccs.word-tv.com:9906/6259b507000647d0151541dfdfa4429f
+TVBS欢乐台,p2p://54.39.16.152:9906/62585f330007fbe70fddfe2f12feb8b6
+TVBS欢乐台,p2p://fccs.word-tv.com:9906/62585f330007fbe70fddfe2f12feb8b6
+TVBS欢乐台,rtmp://59.124.75.138/sat/tv421
+TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
+大爱一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱一台,p2p://54.39.16.152:9906/6257e958000647f20e119e47becddbf1
+大爱一台,p2p://fccs.word-tv.com:9906/6257e958000647f20e119e47becddbf1
+大爱二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live106&nid=230
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
 
-中天亞洲,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-中天亞洲,p2p://54.39.16.152:9906/626610e20008d9cf11656e24ac45db0e
-中天亞洲,p2p://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
-中天娛樂,p2p://54.39.16.152:9906/62585ecd000adfc10fdc707c21a26424
-中天娛樂,p2p://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
+中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
+中天亚洲台,p2p://54.39.16.152:9906/626610e20008d9cf11656e24ac45db0e
+中天亚洲台,p2p://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
+中天娱乐台,p2p://54.39.16.152:9906/62585ecd000adfc10fdc707c21a26424
+中天娱乐台,p2p://fccs.word-tv.com:9906/62585ecd000adfc10fdc707c21a26424
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
 中天新聞,https://ytb.arp220.us/jmsytb.m3u8?c=5
 中天新聞,p2p://54.39.16.152:9906/625af85e0000d79c001149459e0c9b4f
 中天新聞,p2p://fccs.word-tv.com:9906/625af85e0000d79c001149459e0c9b4f
-中天綜合,p2p://54.39.16.152:9906/62585815000447950fc2300ce37be3da
-中天綜合,p2p://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
-中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-中視,p2p://54.39.16.152:9906/6257e968000a66d90e11ddd52825327a
-中視,p2p://fccs.word-tv.com:9906/6257e968000a66d90e11ddd52825327a
-中視,rtmp://59.124.75.138/sat/tv091
-中視,rtmp://59.124.75.150/sat/tv091
-中視菁采,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv064&nid=123
-中視菁采,p2p://54.39.16.152:9906/6269290b000463f70377555ece4c7fca
-中視菁采,p2p://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
-中視新聞,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
-中視新聞,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-中視新聞,https://ytb.arp220.us/jmsytb.m3u8?c=9
-中視新聞,p2p://54.39.16.152:9906/626928b800072a99037611dc7cf5b636
-中視新聞,p2p://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
-中視經典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-中視經典,p2p://54.39.16.152:9906/626928e3000ce0de0376bb4ad8c2f741
-中視經典,p2p://fccs.word-tv.com:9906/626928e3000ce0de0376bb4ad8c2f741
+中天综合台,p2p://54.39.16.152:9906/62585815000447950fc2300ce37be3da
+中天综合台,p2p://fccs.word-tv.com:9906/62585815000447950fc2300ce37be3da
+中视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+中视,p2p://54.39.16.152:9906/6257e968000a66d90e11ddd52825327a
+中视,p2p://fccs.word-tv.com:9906/6257e968000a66d90e11ddd52825327a
+中视,rtmp://59.124.75.138/sat/tv091
+中视,rtmp://59.124.75.150/sat/tv091
+中视菁采台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv064&nid=123
+中视菁采台,p2p://54.39.16.152:9906/6269290b000463f70377555ece4c7fca
+中视菁采台,p2p://fccs.word-tv.com:9906/6269290b000463f70377555ece4c7fca
+中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+中视新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+中视新闻,https://ytb.arp220.us/jmsytb.m3u8?c=9
+中视新闻,p2p://54.39.16.152:9906/626928b800072a99037611dc7cf5b636
+中视新闻,p2p://fccs.word-tv.com:9906/626928b800072a99037611dc7cf5b636
+中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+中视经典,p2p://54.39.16.152:9906/626928e3000ce0de0376bb4ad8c2f741
+中视经典,p2p://fccs.word-tv.com:9906/626928e3000ce0de0376bb4ad8c2f741
 公視,p2p://54.39.16.152:9906/6257e9950008c4a20e128d3209b54839
 公視,p2p://fccs.word-tv.com:9906/6257e9950008c4a20e128d3209b54839
-公視3,p2p://54.39.16.152:9906/62692af700080a87037ed82d98f82f9d
-公視3,p2p://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
+公视三台,p2p://54.39.16.152:9906/62692af700080a87037ed82d98f82f9d
+公视三台,p2p://fccs.word-tv.com:9906/62692af700080a87037ed82d98f82f9d
 公視台語,p2p://54.39.16.152:9906/6257e9a400000c300e12c58f9b595b1e
 公視台語,p2p://fccs.word-tv.com:9906/6257e9a400000c300e12c58f9b595b1e
 公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-台視,http://60.251.59.180:8501/.m3u8
-台視,p2p://54.39.16.152:9906/6257e8850006de950e0e6636ac2abe87
-台視,p2p://fccs.word-tv.com:9906/6257e8850006de950e0e6636ac2abe87
-台視,rtmp://59.124.75.138/sat/tv071
-台視,rtmp://59.124.75.150/sat/tv071
-台視財經,p2p://54.39.16.152:9906/626928870002ef3e0375515fa02e33ba
-台視財經,p2p://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-台視新聞,p2p://54.39.16.152:9906/6269285d000bc5c40374af92643669c3
-台視新聞,p2p://fccs.word-tv.com:9906/6269285d000bc5c40374af92643669c3
-台視綜合,p2p://54.39.16.152:9906/626929ef0001a650037acf4bc1fd630b
-台視綜合,p2p://fccs.word-tv.com:9906/626929ef0001a650037acf4bc1fd630b
-民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
-民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
-民視,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視,p2p://54.39.16.152:9906/62582da100098ec20f1c5c4698b437cf
-民視,p2p://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
-民視,p2p://fccs.word-tv.com:9906/62df5a780000887707dbedd0ce643763
-民視,rtmp://59.124.75.138/sat/tv051
-民視1,p2p://54.39.16.152:9906/626927db000004640372b0c04cca9ca3
-民視1,p2p://fccs.word-tv.com:9906/626927db000004640372b0c04cca9ca3
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞,http://61.219.170.95:18563/.m3u8
-民視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-民視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-民視新聞,https://ytb.arp220.us/jmsytb.m3u8?c=7
-民視新聞,p2p://54.39.16.152:9906/625411d700086db70954149f159813c6
-民視新聞,p2p://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
-民視臺灣,p2p://54.39.16.152:9906/62692823000550c80373cb5be6f7e438
-民視臺灣,p2p://fccs.word-tv.com:9906/62692823000550c80373cb5be6f7e438
+台视,http://60.251.59.180:8501/.m3u8
+台视,p2p://54.39.16.152:9906/6257e8850006de950e0e6636ac2abe87
+台视,p2p://fccs.word-tv.com:9906/6257e8850006de950e0e6636ac2abe87
+台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.150/sat/tv071
+台视财经台,p2p://54.39.16.152:9906/626928870002ef3e0375515fa02e33ba
+台视财经台,p2p://fccs.word-tv.com:9906/626928870002ef3e0375515fa02e33ba
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+台视新闻台,p2p://54.39.16.152:9906/6269285d000bc5c40374af92643669c3
+台视新闻台,p2p://fccs.word-tv.com:9906/6269285d000bc5c40374af92643669c3
+台视综合台,p2p://54.39.16.152:9906/626929ef0001a650037acf4bc1fd630b
+台视综合台,p2p://fccs.word-tv.com:9906/626929ef0001a650037acf4bc1fd630b
+民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
+民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+民视,http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+民视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+民视,http://seb.sason.top/ptv/ftv.php?id=ms
+民视,p2p://54.39.16.152:9906/62582da100098ec20f1c5c4698b437cf
+民视,p2p://fccs.word-tv.com:9906/62582da100098ec20f1c5c4698b437cf
+民视,p2p://fccs.word-tv.com:9906/62df5a780000887707dbedd0ce643763
+民视,rtmp://59.124.75.138/sat/tv051
+民视第一台,p2p://54.39.16.152:9906/626927db000004640372b0c04cca9ca3
+民视第一台,p2p://fccs.word-tv.com:9906/626927db000004640372b0c04cca9ca3
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻台,http://61.219.170.95:18563/.m3u8
+民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
+民视新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+民视新闻台,https://ytb.arp220.us/jmsytb.m3u8?c=7
+民视新闻台,p2p://54.39.16.152:9906/625411d700086db70954149f159813c6
+民视新闻台,p2p://fccs.word-tv.com:9906/625411d700086db70954149f159813c6
+民视台湾台,p2p://54.39.16.152:9906/62692823000550c80373cb5be6f7e438
+民视台湾台,p2p://fccs.word-tv.com:9906/62692823000550c80373cb5be6f7e438
 年代MUCH,http://59.125.122.90:18558/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8
 年代MUCH,http://61.219.170.95:18558/.m3u8
 年代MUCH,http://61.219.170.95:18558/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 年代MUCH,p2p://54.39.16.152:9906/625858aa000f2ee50fc478de23b3e0dd
 年代MUCH,p2p://fccs.word-tv.com:9906/625858aa000f2ee50fc478de23b3e0dd
-年代新聞,p2p://54.39.16.152:9906/62540c45000225da093e50b45b457d41
-年代新聞,p2p://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
-東森LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
+年代新闻台,p2p://54.39.16.152:9906/62540c45000225da093e50b45b457d41
+年代新闻台,p2p://fccs.word-tv.com:9906/62540c45000225da093e50b45b457d41
+東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
+東森 LIVE,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c
 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist1.m3u8
 東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森美洲3,http://38.64.72.148:80/hls/modn/list/2021/chunklist0.m3u8
-東森財經,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
-東森財經,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-東森財經,p2p://54.39.16.152:9906/6254128d000e830c0956dd1ea31d7f59
-東森財經,p2p://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
-東森財經,rtmp://59.124.75.138/sat/tv571
-東森財經,rtmp://59.124.75.150/sat/tv571
-東森超視,http://59.125.122.90:18555/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
-東森超視,http://61.219.170.95:18555/.m3u8
-東森超視,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
-東森超視,p2p://54.39.16.152:9906/625854810005f8350fb4365bf7cd8f4e
-東森超視,p2p://fccs.word-tv.com:9906/625854810005f8350fb4365bf7cd8f4e
+东森财经新闻台,http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?tid=m999b5a0f7fca17599138&ct=17874&tsum=345085d2d6d4401fdb3da968dfee5a54
+东森财经新闻台,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
+东森财经新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+东森财经新闻台,p2p://54.39.16.152:9906/6254128d000e830c0956dd1ea31d7f59
+东森财经新闻台,p2p://fccs.word-tv.com:9906/6254128d000e830c0956dd1ea31d7f59
+东森财经新闻台,rtmp://59.124.75.138/sat/tv571
+东森财经新闻台,rtmp://59.124.75.150/sat/tv571
+东森超视,http://59.125.122.90:18555/http/192.168.1.9:8078/hls/24/80/ch04.m3u8
+东森超视,http://61.219.170.95:18555/.m3u8
+东森超视,http://61.219.170.95:18555/http/192.168.1.9:8081/hls/64/806/ch14.m3u8
+东森超视,p2p://54.39.16.152:9906/625854810005f8350fb4365bf7cd8f4e
+东森超视,p2p://fccs.word-tv.com:9906/625854810005f8350fb4365bf7cd8f4e
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist0.m3u8
 東森超視34.5,http://38.64.72.148:80/hls/modn/list/2018/chunklist1.m3u8
-東森新聞,http://61.219.170.95:18512/.m3u8
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森新聞,p2p://54.39.16.152:9906/62540c77000699df093f1528c8c4d48a
-東森新聞,p2p://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
-東森綜合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
-非凡商業,p2p://54.39.16.152:9906/626911890006d792031b822fdf86a38a
-非凡商業,p2p://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
-非凡新聞,p2p://54.39.16.152:9906/6257f613000f40140e435b0b41c847c0
-非凡新聞,p2p://fccs.word-tv.com:9906/6257f613000f40140e435b0b41c847c0
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
-壹新聞,p2p://54.39.16.152:9906/62541b7c0007f8c30979c109c2ede6a3
-華視,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
-華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-華視,p2p://54.39.16.152:9906/6257e98b000307180e1264aad3095adb
-華視,p2p://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
-華視,rtmp://59.124.75.138/sat/tv111
+东森新闻台,http://61.219.170.95:18512/.m3u8
+东森新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+东森新闻台,p2p://54.39.16.152:9906/62540c77000699df093f1528c8c4d48a
+东森新闻台,p2p://fccs.word-tv.com:9906/62540c77000699df093f1528c8c4d48a
+东森综合台,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+非凡商业台,p2p://54.39.16.152:9906/626911890006d792031b822fdf86a38a
+非凡商业台,p2p://fccs.word-tv.com:9906/626911890006d792031b822fdf86a38a
+非凡新闻台,p2p://54.39.16.152:9906/6257f613000f40140e435b0b41c847c0
+非凡新闻台,p2p://fccs.word-tv.com:9906/6257f613000f40140e435b0b41c847c0
+壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹电视新闻台,http://stream.nexttv.com.tw/n001/playlist.m3u8
+壹电视新闻台,p2p://54.39.16.152:9906/62541b7c0007f8c30979c109c2ede6a3
+华视,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/72/814/ch48.m3u8
+华视,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+华视,p2p://54.39.16.152:9906/6257e98b000307180e1264aad3095adb
+华视,p2p://fccs.word-tv.com:9906/6257e98b000307180e1264aad3095adb
+华视,rtmp://59.124.75.138/sat/tv111
 華視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
 華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
 華視新聞,https://ytb.arp220.us/jmsytb.m3u8?c=4
@@ -289,19 +290,56 @@ TVBS歡樂,rtmp://59.124.75.150/sat/tv421
 華視新聞,p2p://fccs.word-tv.com:9906/62692acf000c5e7a037e3d0919397c0a
 華視體育文化教育,p2p://54.39.16.152:9906/62692aad0004ff59037db656efdee736
 華視體育文化教育,p2p://fccs.word-tv.com:9906/62692aad0004ff59037db656efdee736
-寰宇財經,p2p://54.39.16.152:9906/626179de00005255197b252361cec9d5
-寰宇財經,p2p://fccs.word-tv.com:9906/626179de00005255197b252361cec9d5
-寰宇新聞,http://61.219.170.95:18569/.m3u8
-寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-寰宇新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
-寰宇新聞,https://ytb.arp220.us/jmsytb.m3u8?c=6
-寰宇新聞,p2p://54.39.16.152:9906/6257feca0002d9980e6562b6716c1c5a
-寰宇新聞,p2p://fccs.word-tv.com:9906/6257feca0002d9980e6562b6716c1c5a
+寰宇财经,p2p://54.39.16.152:9906/626179de00005255197b252361cec9d5
+寰宇财经,p2p://fccs.word-tv.com:9906/626179de00005255197b252361cec9d5
+寰宇新闻,http://61.219.170.95:18569/.m3u8
+寰宇新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
+寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+寰宇新闻,https://ytb.arp220.us/jmsytb.m3u8?c=6
+寰宇新闻,p2p://54.39.16.152:9906/6257feca0002d9980e6562b6716c1c5a
+寰宇新闻,p2p://fccs.word-tv.com:9906/6257feca0002d9980e6562b6716c1c5a
 寰宇新聞臺灣,p2p://54.39.16.152:9906/6258370a000e53840f411fa6b1f19ad7
 寰宇新聞臺灣,p2p://fccs.word-tv.com:9906/6258370a000e53840f411fa6b1f19ad7
 寰宇新聞臺灣,p2p://fccs.word-tv.com:9906/62dbd3b70005e62613d75e66a1fcb160
-寰宇綜合,p2p://54.39.16.152:9906/62617a13000860ad197bf63b948c0cc6
-寰宇綜合,p2p://fccs.word-tv.com:9906/62617a13000860ad197bf63b948c0cc6
+寰宇HD综合,p2p://54.39.16.152:9906/62617a13000860ad197bf63b948c0cc6
+寰宇HD综合,p2p://fccs.word-tv.com:9906/62617a13000860ad197bf63b948c0cc6
+
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+BBC World News,http://78.83.191.18:8000/play/a07a
+Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+France24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
+ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+DW HD,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+
+GTV DRAMA,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+Formosa TV Dramas,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+CTS SHOW,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+Faintv VARIETY1,https://ytm2.yuanhsing.cf/AsiaDigitalMedia.m3u8
+Faintv VARIETY2,https://ytm2.yuanhsing.cf/Faintv.m3u8
+CTITV News,https://ytm2.yuanhsing.cf/ctitv.m3u8
+EBC,https://ytm2.yuanhsing.cf/newsebc.m3u8
+EBC Financial,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+TVBS Global News,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+TTV News,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+CTV News,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+SETN Live News,https://ytm2.yuanhsing.cf/SETN.m3u8
+SET+ Live News,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+SET iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+Formosa Live News,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
+Formosa TV News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
+
 ##
 
 
@@ -401,61 +439,7 @@ ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=1833
 博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 鳳凰衛視,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=m18f421b0e58b&ct=18336&tsum=8e0cca627477cbd534c9cef5e2c17c1c
 緯來電影,http://50.7.220.74:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
-##
 
-
-🛰4gTV,#genre#
-Arirang,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-ELTA生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-ELTV生活英語,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-LuxeTV,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-SBN全球財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tvbs
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
-三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-三立綜合,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-大愛,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
-大愛,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dads
-大愛2,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live106&nid=230
-中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-中天新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-中視菁采,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv064&nid=123
-中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-中視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw
-公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-台視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
-民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-民視1,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-民視旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-民視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
-民視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-民視綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-民視臺灣,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-民視影劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-亞洲旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-東森財經,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw
-東森財經,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-東森新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
-客家電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-博斯無限,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn10&nid=51
-華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-華視新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw
-華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-華語綜藝,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-華語戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-靖天戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv058&nid=116
-滾動人文紀實,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-寰宇新聞,http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw
-鏡新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
 ##
 
 
