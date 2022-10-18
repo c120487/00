@@ -200,9 +200,10 @@
 
 
 "parses":[
-{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Web聚合","type":3,"url":"Web"},
 
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext": {"flag": ["youku", "iqiyi", "mgtv","qq"]}},
 {"name":"M3U8","type":0,"url": "https://jx.m3u8.tv/jiexi/?url="},
