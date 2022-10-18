@@ -1,4 +1,9 @@
 🐘🐘 0814 🐘🐘,#genre#
+Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
+Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
+Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u8
+NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
 
 一代宗師,https://v4.cdtlas.com/20211215/Iff7R3PC/index.m3u8
 一代宗師,https://vip.lz-cdn2.com/20220528/7739_46a377b4/index.m3u8
@@ -25,6 +30,15 @@ Contact,https://cmp.060.us/videos/202205/29/6293126de97b17038c03205f/3e138e/inde
 ##
 
 🇰🇷Korea,#genre#
+韩国EBS第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+韩国EBS第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+韩国EBS_E频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8?zshijd
+韩国TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8?zshijd
+韩国职业广播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+ARIRANG K-POP,https://ytm2.yuanhsing.cf/arirangworld.m3u8
+ALL THE K-POP,https://ytm2.yuanhsing.cf/ALLTHEKPOP.m3u8
+The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+The K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 Arirang,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8

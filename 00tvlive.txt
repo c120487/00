@@ -1,4 +1,11 @@
-﻿🐈‍🐈 1006 🐈🐈‍,#genre#
+﻿🐈‍🐈 1018 🐈🐈‍,#genre#
+Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
+Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
+Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u8
+NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
+直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
 Demo1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=D7pTfSQUK-8&P=1080
 Demo2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=rkPCR6Ujtak&P=1080
 Nasa,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=86YLFOog4GM&P=1080
@@ -11,7 +18,6 @@ Nasa,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=86YLFOog4GM&P=1080
 白沙灣,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=St4GHsJzfg4&P=1080
 墾丁1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=Y9kOU1xFio8&P=1080
 墾丁2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=EfJ-6N9P4tw&P=1080
-直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 LiveList,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=vUyxrd0Ku2w&P=1080
 
 寰宇,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
@@ -160,6 +166,8 @@ TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
 大爱一台,p2p://fccs.word-tv.com:9906/6257e958000647f20e119e47becddbf1
 大爱二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live106&nid=230
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+
 中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 中天亚洲台,p2p://54.39.16.152:9906/626610e20008d9cf11656e24ac45db0e
 中天亚洲台,p2p://fccs.word-tv.com:9906/626610e20008d9cf11656e24ac45db0e
@@ -296,6 +304,42 @@ TVBS欢乐台,rtmp://59.124.75.150/sat/tv421
 寰宇新聞臺灣,p2p://fccs.word-tv.com:9906/62dbd3b70005e62613d75e66a1fcb160
 寰宇HD综合,p2p://54.39.16.152:9906/62617a13000860ad197bf63b948c0cc6
 寰宇HD综合,p2p://fccs.word-tv.com:9906/62617a13000860ad197bf63b948c0cc6
+
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+BBC World News,http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+BBC World News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC World News,https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+BBC World News,http://78.83.191.18:8000/play/a07a
+Skynews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+France24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+France24,https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+euronews,http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/43
+NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+FOX NewsNOW,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+CBC News,https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8
+TRT World HD,https://tv-trtworld.live.trt.com.tr/master.m3u8
+ABC Australia HD,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+DW HD,https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+
+GTV DRAMA,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+Formosa TV Dramas,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+CTS SHOW,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+Faintv VARIETY1,https://ytm2.yuanhsing.cf/AsiaDigitalMedia.m3u8
+Faintv VARIETY2,https://ytm2.yuanhsing.cf/Faintv.m3u8
+CTITV News,https://ytm2.yuanhsing.cf/ctitv.m3u8
+EBC,https://ytm2.yuanhsing.cf/newsebc.m3u8
+EBC Financial,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+TVBS Global News,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+TTV News,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+CTV News,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+SETN Live News,https://ytm2.yuanhsing.cf/SETN.m3u8
+SET+ Live News,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+SET iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+Formosa Live News,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
+Formosa TV News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
 
 ##
 
@@ -872,6 +916,58 @@ VOA美國之音,http://stream.radiojar.com/7thwu53r92quv
 
 ##
 
+
+📺Youtube to M3u8(test),#genre#
+Peppa Pig,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
+Lion Family,https://ytm2.yuanhsing.cf/LionFamily.m3u8
+Lion Family English,https://ytm2.yuanhsing.cf/LionFamily2.m3u8
+Masha and the Bear,https://ytm2.yuanhsing.cf/MashaandtheBear.m3u8
+Masha and the Bear2,https://ytm2.yuanhsing.cf/MashaandtheBear2.m3u8
+Wolfoo's stories,https://ytm2.yuanhsing.cf/Wolfoosstories.m3u8
+Pea Pea Korea,https://ytm2.yuanhsing.cf/PeaPeaKorea.m3u8
+Oddbods & FRIENDS,https://ytm2.yuanhsing.cf/OddbodsFRIENDS.m3u8
+CANDY CRUSH,https://ytm2.yuanhsing.cf/CANDYCRUSH.m3u8
+Hogi! Pinkfong,https://ytm2.yuanhsing.cf/HOGI.m3u8
+Antiks Cartoons,https://ytm2.yuanhsing.cf/AntiksOfficial.m3u8
+Loco Nuts,https://ytm2.yuanhsing.cf/LocoNutsCartoonVideos.m3u8
+Get Movies,https://ytm2.yuanhsing.cf/GetMovies.m3u8
+Baby Shark Doo Doo Doo,https://ytm2.yuanhsing.cf/BabySharkOfficial.m3u8
+Talking Tom Heroes Adventures,https://ytm2.yuanhsing.cf/TalkingTomHeroes.m3u8
+Booba,https://ytm2.yuanhsing.cf/BoobaCartoon.m3u8
+Oko Lele,https://ytm2.yuanhsing.cf/OkoLeleOfficialchannel.m3u8
+ARIRANG K-POP,https://ytm2.yuanhsing.cf/arirangworld.m3u8
+ALL THE K-POP,https://ytm2.yuanhsing.cf/ALLTHEKPOP.m3u8
+The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+The K-POP2,https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
+Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
+Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u8
+NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
+RailWay,https://ytm2.yuanhsing.cf/RailWay.m3u8
+RailCowGirl,https://ytm2.yuanhsing.cf/RailCowGirl.m3u8
+Justice Pao,https://ytm2.yuanhsing.cf/ctsprog.m3u8
+GTV DRAMA,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+Formosa TV Dramas,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+CTS SHOW,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+Faintv VARIETY1,https://ytm2.yuanhsing.cf/AsiaDigitalMedia.m3u8
+Faintv VARIETY2,https://ytm2.yuanhsing.cf/Faintv.m3u8
+CTITV News,https://ytm2.yuanhsing.cf/ctitv.m3u8
+EBC,https://ytm2.yuanhsing.cf/newsebc.m3u8
+EBC Financial,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+TVBS Global News,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+TTV News,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+CTV News,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+SETN Live News,https://ytm2.yuanhsing.cf/SETN.m3u8
+SET+ Live News,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+SET iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+Formosa Live News,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
+Formosa TV News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
+
+##
 
 🌏亞洲,#genre#
 時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
