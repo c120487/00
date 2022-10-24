@@ -81,6 +81,7 @@
  {"key": "鲨鱼资源",  "name": "🐝鲨鱼",  "type": 1,  "api": "https://shayuapi.com/api.php/provide/vod/",  "searchable": 1,  "quickSearch": 1 },
  { "key": "99zy资源",  "name": "🐝99",  "type": 1,  "api": "http://99zy.pw/api.php/provide/vod/",  "searchable": 1,  "quickSearch": 1 },
  {"key": "smt",  "name": "🐝51SMT",  "type": 1,  "api": "http://51smt4.xyz/api.php/provide/vod/",  "searchable": 1,  "quickSearch": 1},  
+
  {"key": "zp059", "name": "🐝番号", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/",   "searchable": 1,  "quickSearch": 1 },	
  { "key": "zp011", "name": "🐝78", "type": 1, "api": "https://lbapi9.com/api.php/provide/vod/",  "searchable": 1,  "quickSearch": 1  },
 	
