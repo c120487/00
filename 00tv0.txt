@@ -351,7 +351,7 @@
 {"key":"csp_xml___小猫咪","name":"💢小猫咪","type":1,"api":"https://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___北斗星","name":"🐝北斗星","type":1,"api":"https://api.bdxapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"快播","name":"快播","type":1,"api":"https://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
-{"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
+{"key":"百度","name":"百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":0,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"铭轩影视","name":"🍧铭轩影视","type":1,"api":"http://lz0716.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
