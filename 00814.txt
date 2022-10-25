@@ -17,6 +17,9 @@
 "sites": [
 //設定日期版本, merge to one JAR
 {"key":"date","name":"🐘🐘 0814 🐘🐘","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+
+{"key":"csp_Bd","name":"📅哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Nbys","name":"🐞泥巴(VPN)","type": 3,"api": "csp_Nbys","searchable":0,"quickSearch":0,"filterable": 1},
 
 //type:3 api: from spider xxx.jar 應該是自定義
