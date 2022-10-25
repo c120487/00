@@ -18,14 +18,17 @@
 //設定日期版本, merge to one JAR
 //search and highlight
 {"key":"date","name":"🐈‍🐈 1025 🐈‍🐈‍","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Bd","name":"📅哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
+//
 //Basic sites, filterable
+{"key":"csp_Bd","name":"📅哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_3EDY","name":"🐞3EDY(VPN)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🐞厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lezhu","name": "🐞乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+//
+//
 
 //🐝 type: 1 官方采集 api:"url with end by _api.php_provide_vod", 同Biubiu采集站, 官方提供, with own M3U8player playUrl
 //官方解析 end with v, "playUrl": "filename url="
@@ -105,10 +108,13 @@
 //{"key": "00dsxys", "name": "大師兄(XPMF)", "type": 3, "api": "csp_XPathMacFilter", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://gitea.com/c120487/00/raw/branch/main/dsxys.json"},
 
 
+
+
+//
+//
 {"key":"csp_bendi","name":"📺本地播放","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"csp_Alist1","name":"🅿Alist网盘 (神器)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},
 {"key":"csp_Alist2","name":"🅿Alist网盘 (Tvis)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
-
 {"key":"Unsort","name":"🗂 以下未整理, 供搜尋用, 官方資源 🗂","type":1,"api":""},  
 
 //type 1, Json
@@ -401,6 +407,7 @@
 {"key":"t4_公共","name":"🔍公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"douban","name":"🅱豆瓣荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":0}
+
 ],
 
 
