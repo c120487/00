@@ -106,7 +106,8 @@
 
 
 {"key":"csp_bendi","name":"📺本地播放","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
-
+{"key":"csp_Alist1","name":"🅿Alist网盘 (神器)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},
+{"key":"csp_Alist2","name":"🅿Alist网盘 (Tvis)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
 
 {"key":"Unsort","name":"🗂 以下未整理, 供搜尋用, 官方資源 🗂","type":1,"api":""},  
 
@@ -389,9 +390,6 @@
 //
 //
 {"key":"1025_Search","name":"🔍 Search Engine 🗂","type":1,"api":""},  
-{"key":"csp_Alist1","name":"🅿Alist网盘 (神器)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},
-{"key":"csp_alist","name":"🗂Alist合集 (Liu673)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/ext/Alist.json"},
-{"key":"csp_Alist","name":"Alist (tvis)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
 
 {"key":"T4Demo","name":"🐈‍🐈 T4 Demo 🐈‍🐈‍","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4Backup","name":"🐈‍🐈 T4 Backup 🐈‍🐈‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":1,"quickSearch":1,"filterable":0},
