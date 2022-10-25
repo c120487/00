@@ -1,7 +1,7 @@
 ﻿{
 //2nd jar format, "jar":"filename.jar"
 //"spider":"https://gitea.com/c120487/00/raw/branch/main/00tv0.jar",
-"spider":"https://github.com/c120487/00/blob/main/00tv1025.jar?raw=true",
+"spider":"https://github.com/c120487/00/blob/main/00tv01.jar?raw=true",
 
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
