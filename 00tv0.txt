@@ -17,7 +17,7 @@
 "sites": [
 //設定日期版本, merge to one JAR
 {"key":"date","name":"🐈‍🐈 1025 🐈‍🐈‍","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Nbys","name":"🐞泥巴(VPN)","type": 3,"api": "csp_Nbys","searchable":0,"quickSearch":0,"filterable": 1},
+{"key":"csp_Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable": 1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 //type:3 api: from spider xxx.jar 應該是自定義
@@ -190,7 +190,7 @@
 //{"key":"33迪迪影院","name":"33迪迪影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2"},
 //{"key":"33淘剧社","name":"33淘剧社","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
 
-{"key":"1025_AppYsV2","name":"1025 AppYsV2==================","type":0},  
+//{"key":"1025_AppYsV2","name":"1025 AppYsV2==================","type":0},  
 {"key":"csp_appysv2_M2_暖光影视","name":"暖光影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"csp_appysv2_筑梦云影视","name":"筑梦云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_渔渔影视","name":"渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
