@@ -1,6 +1,6 @@
 ﻿{
 //"spider":"https://gitea.com/c120487/00/raw/branch/main/00tvx0.jar",
-"spider":"https://github.com/c120487/00/blob/main/00tvx0.jar?raw=true",
+"spider":"https://github.com/c120487/00/blob/main/00tvx0515.jar?raw=true",
 
 
 //live source https://gitea.com/c120487/00/raw/branch/main/00tvlivex.txt
