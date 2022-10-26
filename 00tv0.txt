@@ -105,6 +105,80 @@
 {"key":"csp_Alist2","name":"🅿Alist网盘 (Tvis)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
 {"key":"csp_Alistx","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/Alist.json"},
 
+        {
+            "key": "Upyunso",
+            "name": "🌤UP云搜（仅搜索）",
+            "type": 3,
+            "api": "csp_Upyunso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "3779824041f446739219805f08431947"
+        },
+         {
+            "key": "zhaozy",
+            "name": "🔍找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_FindZY",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "3779824041f446739219805f08431947"
+        },
+         {
+            "key": "AliPS",
+            "name": "📀盘搜(仅搜索)",
+            "type": 3,
+            "api": "csp_AliPS",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "3779824041f446739219805f08431947"
+        },
+        {
+            "key": "csp_Yiso",
+            "name": "🎯易搜",
+            "type": 3,
+            "api": "csp_Yiso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "3779824041f446739219805f08431947",
+            "jar": "https://raw.iqiq.io/leevi0709/duo/main/json/yisozc.jar;md5;8d29a86d985a54225af22a82bb9328ee"
+        },
+        {
+            "key": "push_agent",
+            "name": "📨推送",
+            "type": 3,
+            "api": "csp_PushAgent",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "3779824041f446739219805f08431947"
+        },
+        {
+            "key": "csp_xpath_yinfans",
+            "name": "💥音范丝4K",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
+        },
+        {
+            "key": "多多",
+            "name": "🐶多多影视",
+            "type": 1,
+            "api": "https://www.ddzyz1.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
 {"key":"Unsort","name":"🗂 以下未整理, 供搜尋用, 官方資源 🗂","type":0,"api":""},  
 
 //from 应用多多，更新时间：2022/10/25
