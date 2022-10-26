@@ -33,7 +33,7 @@
 //
 {"key":"csp_Bd","name":"🍿哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ_电影先生",	"name":"🍿电影先生",	"type":3,	"api":"csp_xBPQ",	"searchable":1,	"quickSearch":1,	"filterable":0,	"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/filmMr.json"},
-{"key":"MBO影视","name":"🍿MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1	}
+{"key":"MBO影视","name":"🍿MBO影视(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1	},
 
 {"key":"csp_Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_3EDY","name":"🐞3EDY(VPN)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
