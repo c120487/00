@@ -103,6 +103,8 @@
 {"key":"csp_bendi","name":"📺本地播放","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"csp_Alist1","name":"🅿Alist网盘 (神器)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},
 {"key":"csp_Alist2","name":"🅿Alist网盘 (Tvis)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
+{"key":"csp_Alistx","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/Alist.json"},
+
 {"key":"Unsort","name":"🗂 以下未整理, 供搜尋用, 官方資源 🗂","type":0,"api":""},  
 
 //from 应用多多，更新时间：2022/10/25
@@ -111,6 +113,24 @@
 {"key":"Kuaikan","name":"🦋快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_789kp",	"name":"🎗️数字影院","type":3,	"api":"csp_XPathMacFilter",	"searchable":1,	"quickSearch":1,	"filterable":1,	"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/789ba.json"},
 {"key":"csp_xBPQ_真不卡","name":"🚀真不卡XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/真不卡.json"},
+{"key":"csp_Nmys","name":"👨‍🌾农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/Nmys.json"},
+{"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
+{"key":"搭配","name":"💃多多搭配","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,	"filterable":1,	"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/duodapei.json"},	
+{"key":"短视频聚合","name":"📱短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"},
+{"key":"csp_Yj1211","name":"📸直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E8%99%8E%E7%89%99.json"},
+{"key":"csp_biubiu_斗鱼","name":"🦈斗鱼","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E6%96%97%E9%B1%BC.json"},
+{"key":"网易CC","name":"🐠网易CC","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E7%BD%91%E6%98%93CC.json"},
+{"key":"csp_xpath_酷狗MV","name":"🐶酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E9%85%B7%E7%8B%97MV.json"},
+{"key":"csp_xpath_kuqimv","name":"🎤酷奇MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E9%85%B7%E5%A5%87MV.json"},
+{"key":"17kan","name":"⚽🏀17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/17%E7%9C%8B%E7%90%83.json"},
+{"key":"csp_xpath_88kanqiu","name":"⚽🏀88看球","type":3,"api":"csp_XPathMac","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/88%E7%9C%8B%E7%90%83.json"},
+{"key":"csp_XYQBiu_310直播","name":"⚽🏀310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/310%E7%9B%B4%E6%92%AD.json"},
+{"key":"csp_xpath_球迷直播","name":"⚽🏀球迷直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
+{"key":"JRS看球网","name":"⚽🏀JRS看球网","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"},
+{"key":"csp_xBPQ_抓饭体育","name":"️🤾‍♀🤾🏾抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"
+},
+	
 
 {"key":"1025_Json","name":"1025 Json==================","type":0,"api":""},  
 {"key":"00人人影视","name":"🐝人人-----","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
