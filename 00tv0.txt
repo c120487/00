@@ -20,10 +20,12 @@
 //Date, search and score
 //
 //
-{"key":"date","name":"🐈‍🐈 1027 🐈‍🐈‍","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"doubanP","name":"🗂豆瓣荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"T4US","name":"📂Backup(US)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":1,"filterable":0},
-{"key":"T4KR","name":"📂Backup (KR)‍","type":1,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":1,"filterable":0},
+{"key":"date","name":"🐈‍🐈 1027 🐈‍🐈‍","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4US","name":"📂Backup(US)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"T4KR","name":"📂Backup (KR)‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"DB01","name":"📂Backup (CN)‍‍","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"DB02","name":"🗂豆瓣荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":0,"quickSearch":0,"filterable":0},
+
 
 //Basic sites, filterable
 //
@@ -114,7 +116,6 @@
 
 //from 应用多多，更新时间：2022/10/25
 {"key":"APPTT","name":"🗺️图图影视","api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_xBPQ_电影先生",	"name":"🤵电影先生",	"type":3,	"api":"csp_xBPQ",	"searchable":1,	"quickSearch":0,	"filterable":0,	"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/filmMr.json"},
 {"key":"Kuaikan","name":"🦋快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_789kp",	"name":"🎗️数字影院","type":3,	"api":"csp_XPathMacFilter",	"searchable":1,	"quickSearch":1,	"filterable":1,	"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/789ba.json"},
 {"key":"csp_xBPQ_真不卡","name":"🚀真不卡XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/真不卡.json"},
