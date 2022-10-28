@@ -23,7 +23,7 @@
 
 {"key":"DB02","name":"🗂豆瓣荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"T4US","name":"📂Backup(US)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"T4KR","name":"📂Backup (KR)‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"T4KR","name":"📂Backup (KR)‍","type":1,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"DB01","name":"📂Backup (CN)‍‍","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 
 
