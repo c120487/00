@@ -41,15 +41,6 @@
 //{"key":"00FilmMr","name":"🍿电影先生","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/filmMr.json"},
 {"key":"00APPTT","name":"🗺️图图(聚合,多節點)","type":3,"api":"csp_AppTT","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
-        {
-            "key": "AppTT",
-            "name": "图图(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
 
 {"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"003EDY","name":"🐞3EDY(VPN)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
