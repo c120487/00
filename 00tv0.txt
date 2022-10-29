@@ -21,8 +21,8 @@
 //
 {"key":"date","name":"🐈‍🐈 1027 🐈‍🐈‍","type":0,"api":"","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"DB02","name":"🗂豆瓣(分類,評分)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"00If101","name":"🐞If101(分頪,年份)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"DB02","name":"🗂豆瓣(評分,篩選)","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"00If101","name":"🐞If101(年份,篩選)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"T4US","name":"📂Backup(US)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"T4KR","name":"📂Backup (KR)‍","type":1,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"DB01","name":"📂Backup (CN)‍‍","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
