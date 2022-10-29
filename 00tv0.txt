@@ -120,12 +120,12 @@
 
 //from 应用多多，更新时间：2022/10/25
 {"key":"Kuaikan","name":"🦋快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_789kp",	"name":"🎗️数字影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,	"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/789ba.json"},
+{"key":"csp_xpath_789kp","name":"🎗️数字影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/789ba.json"},
 {"key":"csp_xBPQ_真不卡","name":"🚀真不卡XB","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/真不卡.json"},
 {"key":"csp_Nmys","name":"👨‍🌾农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/Nmys.json"},
 
 {"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
-{"key":"搭配","name":"💃多多搭配","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,	"filterable":1,	"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/duodapei.json"},	
+{"key":"搭配","name":"💃多多搭配","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/duodapei.json"},
 {"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
 {"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
 {"key":"短视频聚合","name":"📱短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"},
@@ -145,7 +145,7 @@
 {"key":"csp_xpath_球迷直播","name":"⚽🏀球迷直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
 {"key":"JRS看球网","name":"⚽🏀JRS看球网","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"},
 
-	
+
 
 {"key":"1025_Json","name":"1025 Json==================","type":0,"api":""},  
 {"key":"00人人影视","name":"🐝人人-----","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
