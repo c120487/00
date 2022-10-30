@@ -25,7 +25,7 @@
 //
 //
 {"key":"DBxx","name":"🗂豆瓣(可篩選,有評分)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"00If101","name":"🗂If101(可篩選,有年份)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00If101","name":"🗂If101(可篩選)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"T4US","name":"📂Backup(US)","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"T4KR","name":"📂Backup(KR)‍","type":1,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"DB01","name":"📂Backup(CN)‍‍","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
@@ -38,10 +38,10 @@
 //
 //
 //
-{"key":"00Bd","name":"🗂哔嘀(有更新日期)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00MBO","name":"🍿MBO(聚合,多節點)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00APPTT","name":"🍿图图(聚合,多節點)","type":3,"api":"csp_AppTT","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"00FilmMr","name":"🍿MrFilm(聚合,多節點)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/filmMr.json"},
+{"key":"00Bd","name":"🗂哔嘀(可篩選,有日期)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00MBO","name":"🍿MBO(多節點,有年份)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00APPTT","name":"🍿图图(多節點)","type":3,"api":"csp_AppTT","filterable":1,"quickSearch":1,"searchable":1},
+{"key":"00FilmMr","name":"🍿MrFilm(多節點)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/filmMr.json"},
 //{"key":"00FilmMr","name":"🍿电影先生","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/filmMr.json"},
 
 
