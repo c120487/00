@@ -1,8 +1,7 @@
 ﻿{
 
-
-//"spider":"https://github.com/c120487/00/blob/main/00tv0515.jar?raw=true",
-"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/duoduo.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
+"spider":"https://github.com/c120487/00/blob/main/00tv0515.jar?raw=true",
+//"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/duoduo.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
