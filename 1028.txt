@@ -15,6 +15,8 @@
 //type 1, Json, api file end with /provide/vod/
 //type 0, MacCMS, api file end with /at/xml/
 "categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","日韩综艺","韩国综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
+
+
 "sites": [
 //設定日期版本, merge to one JAR
 {"key":"date","name":"🏓🏓 1028  🏓🏓","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":0},
@@ -38,7 +40,7 @@
 //
 //
 {"key":"00Bd","name":"🗂哔嘀(可篩選,有日期)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00MBO","name":"🍿MBO(多節點,有年份)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","日韩综艺","韩国综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00MBO","name":"🍿MBO(多節點,有年份)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00APPTT","name":"🍿图图(多節點)","type":3,"api":"csp_AppTT","filterable":1,"quickSearch":1,"searchable":1},
 {"key":"00FilmMr","name":"🍿MrFilm(多節點)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/filmMr.json"},
 //{"key":"00FilmMr","name":"🍿电影先生","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/filmMr.json"},
