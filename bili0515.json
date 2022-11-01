@@ -2,7 +2,7 @@
 "classes":[
 {"type_name":"假窗白噪音","type_id":"白噪音超清"},
 
-{"type_name":"舞蹈","type_id":"test"},
+{"type_name":"舞蹈","type_id":"舞蹈"},
 
 {"type_name":"音乐","type_id":"音乐 4k"},
 {"type_name":"网红翻唱","type_id":"网红翻唱歌曲"},
@@ -43,7 +43,7 @@
 {"key":"tid","name":"日本女团","value":[{"n":"全部","v":"日本女团 MV 合集"},{"n":"AKB48","v":"AKB48 MV 合集"},{"n":"SKE48","v":"SKE48 MV 合集"},{"n":"NMB48","v":"NMB48 MV 合集"},{"n":"JKT48","v":"JKT48 MV 合集"},{"n":"HKT48","v":"HKT48 MV 合集"},{"n":"AKB48 Team TP","v":"AKB48 Team TP MV 合集"},{"n":"Perfume","v":"Perfume MV 合集"},{"n":"桃色幸运草Z","v":"桃色幸运草Z MV 合集"},{"n":"乃木坂46乃","v":"乃木坂46乃 MV 合集"},{"n":"樱坂46","v":"樱坂46 MV 合集"},{"n":"日向坂46","v":"日向坂46 MV 合集"},{"n":"E-girls","v":"E-girls MV 合集"},{"n":"NiziU","v":"NiziU MV 合集"},{"n":"BiSH","v":"BiSH MV 合集"},{"n":"早安少女组","v":"早安少女组 MV 合集"}]}
 ],
 
-"test":[
+"舞蹈":[
 {"key":"order","name":"排序","value":[
 {"n":"综合排序","v":"0"},
 {"n":"最多点击","v":"click"},
