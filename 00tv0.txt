@@ -353,8 +353,8 @@
 {"key":"csp_app_1080KK","name":"🐌1080KK","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_枇杷影院","name":"枇杷影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.pipamovie.com/api.php/v1.vod"},
 
-{"key":"csp_Alist1","name":"🅿Alist网盘(神器)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},
-{"key":"csp_Alist2","name":"🅿Alist网盘(Tvis)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
+{"key":"csp_Alist1","name":"🗂Alist网盘(神器)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://神器每日推送.tk/json/alist.json"},
+{"key":"csp_Alist2","name":"🗂Alist网盘(Tvis)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/jar2/tvjs/alist.json"},
 {"key":"csp_Alistx","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/Alist.json"},
 
 
@@ -363,7 +363,7 @@
 //
 //
 //End,search,recommendationandsummary
-{"key":"1025_Search","name":"🔍SearchEngine","type":0,"api":""},
+{"key":"1025_Search","name":"🔍SearchEngine =============","type":0,"api":""},
 {"key":"T4Demo","name":"🔍T4Demo‍","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4Backup","name":"🔍T4Backup‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"t4AnLao","name":"🔍T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
