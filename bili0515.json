@@ -1,19 +1,24 @@
 {
 "classes":[
 {"type_name":"假窗白噪音","type_id":"白噪音超清"},
+
+{"type_name":"舞蹈","type_id":"test"},
+
 {"type_name":"音乐","type_id":"音乐 4k"},
 {"type_name":"网红翻唱","type_id":"网红翻唱歌曲"},
 {"type_name":"4K资源","type_id":"4K"},
 {"type_name":"8K资源","type_id":"8K"},
-{"type_name":"舞蹈","type_id":"舞蹈MV 4K"},
+{"type_name":"舞蹈","type_id":"test"},
 {"type_name":"宅舞","type_id":"宅舞 4K"},
-{"type_name":"热舞","type_id":"热舞 4K"},
 {"type_name":"女团","type_id":"女团 4K"},
 {"type_name":"古风舞蹈","type_id":"古风舞蹈 4K"},
+{"type_name":"小姐姐","type_id":"小姐姐超清"},
+
+{"type_name":"热舞","type_id":"热舞 4K"},
 {"type_name":"中国女团","type_id":"中国女团 4K"},
 {"type_name":"日本女团","type_id":"日本女团 4K"},
 {"type_name":"韩国女团","type_id":"韩国女团 4K"},
-{"type_name":"小姐姐","type_id":"小姐姐超清"},
+
 {"type_name":"女生搭配","type_id":"女生搭配"},
 {"type_name":"内衣","type_id":"内衣"},
 {"type_name":"裙子","type_id":"裙子"},
@@ -46,6 +51,33 @@
 {"key":"tid","name":"日本女团","value":[{"n":"全部","v":"日本女团 MV 合集"},{"n":"AKB48","v":"AKB48 MV 合集"},{"n":"SKE48","v":"SKE48 MV 合集"},{"n":"NMB48","v":"NMB48 MV 合集"},{"n":"JKT48","v":"JKT48 MV 合集"},{"n":"HKT48","v":"HKT48 MV 合集"},{"n":"AKB48 Team TP","v":"AKB48 Team TP MV 合集"},{"n":"Perfume","v":"Perfume MV 合集"},{"n":"桃色幸运草Z","v":"桃色幸运草Z MV 合集"},{"n":"乃木坂46乃","v":"乃木坂46乃 MV 合集"},{"n":"樱坂46","v":"樱坂46 MV 合集"},{"n":"日向坂46","v":"日向坂46 MV 合集"},{"n":"E-girls","v":"E-girls MV 合集"},{"n":"NiziU","v":"NiziU MV 合集"},{"n":"BiSH","v":"BiSH MV 合集"},{"n":"早安少女组","v":"早安少女组 MV 合集"}]}
 ],
 
+"test":[
+{"key":"order","name":"排序","value":[
+{"n":"综合排序","v":"0"},
+{"n":"最多点击","v":"click"},
+{"n":"最新发布","v":"pubdate"},
+{"n":"最多弹幕","v":"dm"},
+{"n":"最多收藏","v":"stow"}
+]},
+
+{"key":"tid","name":"分类","value":[
+{"n":"全部","v":"舞蹈"},
+{"n":"宅舞","v":"宅舞"},
+{"n":"韩舞","v":"韩舞"},
+{"n":"极乐净土","v":"极乐净土"},
+{"n":"桃源恋歌","v":"桃源恋歌"},
+{"n":"新宝岛","v":"新宝岛"},
+{"n":"抖音合集","v":"抖音合集"},
+{"n":"快手美女合集","v":"快手美女合集"},
+{"n":"美女舞蹈","v":"美女舞蹈"},
+{"n":"张韶涵","v":"张韶涵"},
+{"n":"A-Lin","v":"A-Lin"},
+{"n":"刘惜君","v":"刘惜君"},
+{"n":"郑丽媛","v":"郑丽媛"},
+{"n":"景甜","v":"景甜"},
+{"n":"舞蹈综合","v":"舞蹈综合"}
+]}
+],
 
 "女生搭配":[
 {"key":"order","name":"排序","value":[{"n":"综合排序","v":"0"},
