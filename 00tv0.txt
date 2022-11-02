@@ -1,7 +1,7 @@
 ﻿{
 
-//"spider":"https://github.com/c120487/00/blob/main/00tv0515.jar?raw=true",
-"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CC30F5AD01008CBFBE7CCBAB843F2F0E",
+"spider":"https://github.com/c120487/00/blob/main/00tv0515.jar?raw=true",
+//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CC30F5AD01008CBFBE7CCBAB843F2F0E",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
@@ -17,7 +17,7 @@
 "sites": [
 
 //Date,searchandscore
-{"key":"date","name":"🐈‍🐈1101🐈‍🐈‍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"date","name":"🐈‍🐈1102🐈‍🐈‍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 
 //
@@ -46,6 +46,7 @@
 {"key":"00Lezhu","name":"🐞乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"00LiteApple","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Nkdy","name":"🐞南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00trj","name":"🐞唐人街(VPN)","type": 3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"003EDY","name":"🐞3EDY(VPN)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 
 //
