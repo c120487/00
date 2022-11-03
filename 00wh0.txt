@@ -12,7 +12,7 @@
 {"name":"小苹果","url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json"},
 {"name":"老刘备","url":"https://liu673cn.github.io/box/m.json"},
 {"name":"应用多多","url":"https://0a.fit/yyds"},
-{"name":"吾爱1","url":"http://1.nxog.top/m/api.php?id=1"},
+{"name":"吾爱1","url":"http://tv.nxog.top/api.php?id=2"},
 {"name":"💍魔力宝贝","url":"http://52bsj.vip:98/9c"},
 {"name":"🚙无名口①","url":"https://raw.githubusercontents.com/habao260/zy/247b9c74d86881cbc6633b799a3ddf04e9b930c0/longge802.json"},
 {"name":"🚗无名口②","url":"https://download.kstore.space/download/2888/XB/zy3.json"},
