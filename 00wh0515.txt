@@ -3,9 +3,9 @@
 {"name":"Wendy","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
-{"name":"TVUrl-Merge 538","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 {"name":"Yoursmile 173","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"应用多多149","url":"https://0a.fit/yyds"},
+{"name":"TVUrl-Merge 538","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 
 {"name":"小苹果129","url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json"},
 {"name":"🦁缓冲192","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
