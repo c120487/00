@@ -1,7 +1,8 @@
 ﻿{
 
 //"spider":"https://github.com/c120487/00/blob/main/00tv0515.jar?raw=true",
-"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1105.jar"
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
