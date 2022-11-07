@@ -5,7 +5,7 @@
 {"type_name":"假窗白噪音","type_id":"白噪音超清"},
 
 {"type_name":"十五夜","type_id":"十五夜"},
-{"type_name":"步步惊心","type_id":"步步惊心"},
+{"type_name":"步步惊心丽","type_id":"步步惊心丽"},
 {"type_name":"賢奎","type_id":"賢奎"},
 {"type_name":"那年我們的夏天","type_id":"那年我們的夏天"},
 {"type_name":"換乘戀愛2","type_id":"換乘戀愛2"},
@@ -28,7 +28,7 @@
 {"n":"最多收藏","v":"stow"}
 ]}
 ],
-"步步惊心":[
+"步步惊心丽":[
 {"key":"order","name":"排序","value":[
 {"n":"综合排序","v":"0"},
 {"n":"最多点击","v":"click"},
