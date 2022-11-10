@@ -1,5 +1,6 @@
 {
-"cookie": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/bili.txt",  
+//"cookie": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/bili.txt",  
+"cookie": "https://raw.githubusercontent.com/c120487/00/main/bili_cookie.txt",  
 
 "classes":[
 {"type_name":"假窗白噪音","type_id":"白噪音超清"},
@@ -9,7 +10,7 @@
 {"type_name":"張韶涵","type_id":"張韶涵"},
 {"type_name":"LaySha","type_id":"LaySha"},
 {"type_name":"4K韓團","type_id":"4K 超性感 合集 更新中"},
-{"type_name":"美女","type_id":"舞蹈"},
+{"type_name":"美女","type_id":"美女 4k"},
 
 {"type_name":"韩国女团","type_id":"韩国女团 4K"},
 {"type_name":"日本女团","type_id":"日本女团 4K"},
@@ -112,7 +113,7 @@
 {"n":"禁舞","v":"女团性感禁舞"}
 ]}
 ],
-"舞蹈":[
+"美女 4k":[
 {"key":"order","name":"排序","value":[
 {"n":"综合排序","v":"0"},
 {"n":"最多点击","v":"click"},
@@ -121,8 +122,9 @@
 {"n":"最多收藏","v":"stow"}
 ]},
 {"key":"tid","name":"分类","value":[
-{"n":"全部","v":"舞蹈"},
+{"n":"全部","v":"美女 4k"},
 {"n":"小姐姐","v":"小姐姐"},
+{"n":"比基尼","v":"比基尼小姐姐 泳装"},
 {"n":"美女","v":"美女舞蹈"},
 {"n":"養眼","v":"養眼 美女 合集"},
 {"n":"身材","v":"美女 身材"},
