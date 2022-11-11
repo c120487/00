@@ -18,26 +18,22 @@
 {"name":"🚙无名128","url":"https://raw.githubusercontents.com/habao260/zy/247b9c74d86881cbc6633b799a3ddf04e9b930c0/longge802.json"},
 {"name":"🐭神器 108","url":"https://神器每日推送.tk/pz.json"},
 {"name":"🎁伍佰园 214","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
-{"key":"csp_xpath_yinfans","name":"🌀音范丝(磁力链)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/yinfans.json"},
-{"key": "csp_XYQBiu_聚合短视频","name":"☘️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/dsp.json"},
-{"key": "csp_biubiu_ting","name": "🌿听书网","type": 3,"api": "csp_XBiubiu","searchab
 
 {"name":"🚗无名口2x","url":"https://download.kstore.space/download/2888/XB/zy2.json"},
 {"name":"🚗无名口3x","url":"https://download.kstore.space/download/2888/XB/zy3.json"},
 {"name":"dlgt7x","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
-{"name":"🐻潇洒接口x","url":"https://download.kstore.space/download/2863/01.txt"},
 {"name":"🤑月光宝盒x","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
-
+{"name":"👙猫不吃鱼111","url":"https://agit.ai/hu/hcr/raw/branch/master/29333.txt"},
+{"name":"💍魔力宝贝114","url":"http://52bsj.vip:98/9c"},
+{"name":"太阳","url":"https://0dlj.cn/丰富点"},
 
 {"name":"😍星辰接口","url":"http://47.242.90.42:8888/down/BJZPa8THuiE9"},
 {"name":"🐆云星家庭版","url":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8"},
 {"name":"🐟云星哔哩","url":"http://maoyingshi.cc/tvbox/云星日记/bili.json"},
 {"name":"🐅云星阿里","url":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8"},
 
-{"name":"👙猫不吃鱼111","url":"https://agit.ai/hu/hcr/raw/branch/master/29333.txt"},
-{"name":"💍魔力宝贝114","url":"http://52bsj.vip:98/9c"},
-{"name":"太阳","url":"https://0dlj.cn/丰富点"},
-{"name":"吾爱","url":"http://tv.nxog.top/api.php?id=2"}
+{"name":"吾爱","url":"http://tv.nxog.top/api.php?id=2"},
+{"name":"🐻潇洒接口x","url":"https://download.kstore.space/download/2863/01.txt"}
 ]}
 
 
