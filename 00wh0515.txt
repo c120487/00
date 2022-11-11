@@ -18,6 +18,9 @@
 {"name":"🚙无名128","url":"https://raw.githubusercontents.com/habao260/zy/247b9c74d86881cbc6633b799a3ddf04e9b930c0/longge802.json"},
 {"name":"🐭神器 108","url":"https://神器每日推送.tk/pz.json"},
 {"name":"🎁伍佰园 214","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
+{"key":"csp_xpath_yinfans","name":"🌀音范丝(磁力链)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/yinfans.json"},
+{"key": "csp_XYQBiu_聚合短视频","name":"☘️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/dsp.json"},
+{"key": "csp_biubiu_ting","name": "🌿听书网","type": 3,"api": "csp_XBiubiu","searchab
 
 {"name":"🚗无名口2x","url":"https://download.kstore.space/download/2888/XB/zy2.json"},
 {"name":"🚗无名口3x","url":"https://download.kstore.space/download/2888/XB/zy3.json"},
