@@ -1,0 +1,11 @@
+﻿{"urls":[
+{"name":"Peter HD","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
+{"name":"云星哔哩","url":"http://maoyingshi.cc/tvbox/云星日记/bili.json"},
+{"name":"Yoursmile 173","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"应用多多149","url":"https://0a.fit/yyds"},
+{"url":"https://agit.ai/hu/hcr/raw/branch/master/py3.txt","name":"🥞PY最新大全"}
+]}
+
+
+
+
