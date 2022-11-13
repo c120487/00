@@ -1,4 +1,6 @@
-{"list":[
+{
+"class":[{"type_id":"hot_gaia","type_name":"\u70ed\u95e8\u7535\u5f71"}],
+"list":[
 {"vod_id":"1","vod_name":"黑亚当","vod_pic":"https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2883234369.jpg","vod_remarks":"我的測試"},
 {"vod_id":"2","vod_name":"不知也无妨","vod_pic":"https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2883556682.jpg","vod_remarks":"吉田由里子"},
 {"vod_id":"3","vod_name":"乱来!我居然会成为社长","vod_pic":"https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2882753593.jpg","vod_remarks":"7.2 \u4e00\u5468\u534e\u8bed\u53e3\u7891\u5267\u96c6\u699c"},
@@ -6,4 +8,5 @@
 {"vod_id":"","vod_name":"\u626b\u9ed1\u884c\u52a8","vod_pic":"https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2883219876.jpg","vod_remarks":"\u6682\u65e0\u8bc4\u5206 "},
 {"vod_id":"","vod_name":"\u5929\u4e0b\u957f\u6cb3","vod_pic":"https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2680945231.jpg","vod_remarks":"\u6682\u65e0\u8bc4\u5206 "},
 {"vod_id":"","vod_name":"6/45","vod_pic":"https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2876884670.jpg","vod_remarks":"7.7 \u8fd1\u671f\u9ad8\u5206\u7535\u5f71\u699c"}
-]}
+]
+}
