@@ -18,6 +18,7 @@
 "sites": [
 //Date,search and score
 {"key":"date","name":"🐈‍🐈1107🐈‍🐈‍","type":1,"api":"https://raw.githubusercontent.com/c120487/00/main/00title.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"date2","name":"🐈‍🐈1107🐈‍🐈‍","type":1,"api":"https://raw.githubusercontent.com/c120487/00/main/test title.txt","searchable":0,"quickSearch":0,"filterable":0},
 
 //
 //
