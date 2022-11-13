@@ -32,7 +32,7 @@
 {"key":"ffBd","name":"🗂哔嘀(可篩選,有日期)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ffMBO","name":"🍿MBO(多節點,有年份)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ffAPPTT","name":"🍿图图(多節點)","type":3,"api":"csp_AppTT","filterable":1,"quickSearch":1,"searchable":1},
-{"key":"00FilmMr","name":"🍿MrFilm(多源)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/filmMr.json"},
+//{"key":"00FilmMr","name":"🍿MrFilm(多源)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/filmMr.json"},
 
 {"key":"00BBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili1028.json","jar":"https://github.com/c120487/00/blob/main/HD bilibili.jar?raw=true"},
 {"key":"02BBB","name":"🌐Bilibili","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili1028.json"},
