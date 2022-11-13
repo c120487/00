@@ -14,9 +14,8 @@
 //
 //
 //Basic sites,filterable
-{"key":"ffIf101","name":"🗂If101(可篩選)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"ffBd","name":"🗂哔嘀(可篩選,有日期)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"ffAPPTT","name":"🍿图图(多節點)","type":3,"api":"csp_AppTT","filterable":1,"quickSearch":1,"searchable":1},
+{"key":"ffBd","name":"🐞哔嘀(可篩選,有日期)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ffAPPTT","name":"🐞图图(多節點)","type":3,"api":"csp_AppTT","filterable":1,"quickSearch":1,"searchable":1},
 
 //
 //
