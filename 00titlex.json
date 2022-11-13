@@ -1,0 +1,10 @@
+{
+"class":[{"type_id":"","type_name":"點播"}],
+"list":[
+{"vod_id":"","vod_name":"黑亚当","vod_pic":"","vod_remarks":"新電影"},
+{"vod_id":"","vod_name":"不知也无妨","vod_pic":"https://zh.m.wikipedia.org/zh-hant/%E4%B8%8D%E7%9F%A5%E9%81%93%E4%B9%9F%E7%84%A1%E5%A6%A8#/media/File%3A%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84%E3%82%B3%E3%83%88.jpg","vod_remarks":"吉高由里子"},
+{"vod_id":"","vod_name":"乱来!我居然会成为社长","vod_pic":"https://zh.wikipedia.org/zh-hans/%E4%BA%82%E4%BE%86%EF%BC%81%E6%88%91%E5%B1%85%E7%84%B6%E6%9C%83%E6%88%90%E7%82%BA%E7%A4%BE%E9%95%B7#/media/File:%E3%83%A0%E3%83%81%E3%83%A3%E3%83%96%E3%83%AA!_%E3%82%8F%E3%81%9F%E3%81%97%E3%81%8C%E7%A4%BE%E9%95%B7%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AA%E3%82%93%E3%81%A6.jpg","vod_remarks":"高畑充希"},
+{"vod_id":"","vod_name":"奇异博士","vod_pic":"https://zh.m.wikipedia.org/zh-tw/%E5%A5%87%E7%95%B0%E5%8D%9A%E5%A3%AB_(%E9%9B%BB%E5%BD%B1)#/media/File%3ADoctor_Strange_2016_Poster.jpg","vod_remarks":""},
+{"vod_id":"","vod_name":"美国队长3","vod_pic":"https://zh.m.wikipedia.org/zh-tw/%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF3#/media/File%3ACaptain_America_Civil_War_Poster.jpg","vod_remarks":""}
+]
+}
