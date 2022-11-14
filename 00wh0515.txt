@@ -5,9 +5,9 @@
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 {"name":"Yoursmile 173","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"应用多多149","url":"https://0a.fit/yyds"},
-{"name":"PeterYour","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
-{"name":"Peter多多","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
-{"name":"PeterBili","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
+{"name":"Test Your","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
+{"name":"Test 多多","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
+{"name":"Test Bili HD","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 
 {"name":"TVUrl-Merge 538","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 
