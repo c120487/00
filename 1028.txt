@@ -245,10 +245,10 @@
 //
 //
 //End, search, recommendation and summary
-{"key":"1025_Search","name":"🔍 Search and Filter 🗂","type":0,"api":""},  
+{"key":"1025_Search","name":"🔍 Search and Filter ============","type":0,"api":""},  
 
-{"key":"T4Demo","name":"🐈‍🐈 T4 Demo 🐈‍🐈‍","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"T4Backup","name":"🐈‍🐈 T4 Backup 🐈‍🐈‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4Demo","name":"🔍T4 Demo‍","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4Backup","name":"🔍T4 Backup‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"t4AnLao","name":"🔍T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4聚合","name":"🔍T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"t4public","name":"🔍T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://ju990c.i996.me/TS/token.json&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
