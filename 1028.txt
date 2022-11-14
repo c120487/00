@@ -58,7 +58,7 @@
 //
 //
 //Major sites, offical API
-{"key":"00if101","name":"🐝If101","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","日韩综艺","韩国综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"]},
+{"key":"00MBO","name":"🐝MBO","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","日韩综艺","韩国综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"]},
 {"key":"00快播资源","name":"🐝快播","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","科幻片","喜剧片","爱情片","剧情片","战争片","纪录片","欧美剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","动漫","欧美动漫","日本动漫"]},
 {"key":"00番茄资源","name":"🐝番茄v","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://dp.fqplayer.com/dplayer/?url=","categories":["动作片","科幻片","喜剧片","爱情片","剧情片","战争片","纪录片","欧美剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","动漫","动漫电影","欧美动漫","日本动漫"]},
 {"key":"00量子资源","name":"🐝量子v","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://lziplayer.com/?url=","categories":["动作片","科幻片","喜剧片","爱情片","剧情片","战争片","纪录片","欧美剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","动漫","欧美动漫","日韩动漫"]},
