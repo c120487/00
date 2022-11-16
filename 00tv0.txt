@@ -99,8 +99,10 @@
 {"key":"00松鼠资源","name":"🐝松鼠","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"00八戒资源","name":"🐝八戒","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"00闪电资源","name":"🐝闪电","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"00百淘影视","name":"🐝百淘","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"00金鹰资源","name":"🐝金鹰","type":1,"api":"http://jinyingzy.com/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key":"00金鹰资源","name":"🐝金鹰v","type":0,"api":"https://jyzyapi.com/provide/vod/at/xml","searchable":1,"quickSearch":1,"playUrl":"https://hd.njeere.com/play?url="},
+
 {"key":"00冠军资源","name":"🐝冠军v","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jx.266.us/?url="},
 {"key":"00if101","name":"🐝If101","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
 //{"key":"00if101","name":"🐝If101","type":1,"api":"https://demo.if101.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -225,7 +227,6 @@
 {"key":"兔子窝","name":"兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"金鹰资源","name":"金鹰资源","type":1,"api":"http://jinyingzy.com/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"九狐影视","name":"九狐影视","type":1,"api":"http://lb.gbxy.net.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*JAV名优馆","name":"🔞JAV名优馆","type":1,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"段友影视","name":"段友影视(优)","type":1,"api":"http://shangjihuoke.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -242,7 +243,6 @@
 {"key":"麒麟资源","name":"麒麟资源(官)","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"小鸟动漫","name":"小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"百淘影视","name":"百淘影视","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"6U资源","name":"6U资源(官)","type":1,"api":"http://zy.ataoju.com/inc/apijson_vod.php","playUrl":"parse:parwix1","searchable":0,"quickSearch":0},
 {"key":"52AV资源","name":"52AV资源","type":1,"api":"https://52zyapi.com/home/cjapi/asda/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
