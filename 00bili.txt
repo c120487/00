@@ -26,7 +26,8 @@
 {"key":"00BBB2","name":"🌐Bilibili Wendy","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili1028.json"},
 {"key":"00BBB3","name":"🌐Bilibili 0814","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili0814.json"},
 
-{"key": "csp_BBB","name":"🅱️哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
+{"key": "csp_Bili","name":"🅱️哔哩哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
+{"key":"csp_BBB","name":"🅱️bili","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/BBB.json"},
 {"key":"相声小品","name":"🅱️相声小品","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
 {"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bliyc.json"},
 {"key": "戏 曲" ,"name": "🅱️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
