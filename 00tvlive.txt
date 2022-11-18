@@ -1,39 +1,13 @@
-﻿🐈‍🐈 1105 🐈🐈‍,#genre#
+﻿🐈‍🐈 1118 🐈🐈‍,#genre#
 Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
 Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
 Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u8
 NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
 RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
 直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
-Demo1,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=D7pTfSQUK-8&P=1080
-Demo2,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=rkPCR6Ujtak&P=1080
-Nasa,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=86YLFOog4GM&P=1080
- 
-
-
-一代宗師,https://v4.cdtlas.com/20211215/Iff7R3PC/index.m3u8
-一代宗師,https://vip.lz-cdn2.com/20220528/7739_46a377b4/index.m3u8
-壯志淩雲2：獨行俠,https://m3u.if101.tv/xm3u8/3cd4073d8090aa70651feeac5c08a7e5161a81f4148759d22394199a3a5bdca99921f11e97d0da21.m3u8
-侏羅紀世界3,https://m3u.if101.tv/xm3u8/d4e4e600aaa34b3323f4450ef97497809b4c35b8adee033819ce0d7d45d6adb99921f11e97d0da21.m3u8
-美國隊長2,https://m3u.if101.tv/xm3u8/587b21a948a95084ab045014554daa29dc326e8515398475d5f26c2cb27c0e7d9921f11e97d0da21.m3u8
-美國隊長3,https://m3u.if101.tv/xm3u8/c9bbb0a40ac2bc19b4aeb00c141279fde1b0918b1f293b65b5bfa065256096af9921f11e97d0da21.m3u8
-神奇女俠,https://m3u.if101.tv/xm3u8/4cd3a3847b0e6a910d545fc1be1f26653aa5e2e34fb658a2d40446c03146e9cc9921f11e97d0da21.m3u8
-神奇女俠1984,https://m3u.if101.tv/xm3u8/d0639313b3f6a39c3c0106b1f6684ce31b216a942461ecf3bb4effb6da7babd69921f11e97d0da21.m3u8
-蜘蛛人：英雄無歸,https://m3u.if101.tv/xm3u8/0dd27a86c5d66a7bb2f29b3c770c2bced71c2da61557e69e1ec8ae1dafc0048b9921f11e97d0da21.m3u8
-奇異博士,https://m3u.if101.tv/xm3u8/b95d11b9e7acb507e8f1866a711b785ca243164fb3e72d00ad94f7143fe205bb9921f11e97d0da21.m3u8
-奇異博士2,https://m3u.if101.tv/xm3u8/25b4fe67d66eea73ed936c1e16264a889b6db2eb09ea6520fe0b0067c4d77bee9921f11e97d0da21.m3u8
-奇異博士2,https://m3u.if101.tv/xm3u8/5a652d9eb4d72f08cb72f3d7bcf76ec109075bcdcb925f4c77dad3e100a23aaa9921f11e97d0da21.m3u8
-
-Interstellar,https://vod1.bdkzh.com/20220515/TvjIZ7nl/index.m3u8
-Interstellar,https://m3u.if101.tv/xm3u8/ced7303cf4cd66aa52b740279893b4015ee4c4605eb7884d3ea6bce8e624a22b9921f11e97d0da21.m3u8
-Arrival,https://mix.tzyigou.cn/20211112/S9DNjA9E/index.m3u8
-Arrival,https://m3u.if101.tv/xm3u8/1a30adf4a21ddb65d3228640b13feb585833f939ae19354502e0a7cdc396b1129921f11e97d0da21.m3u8
-Arrival,https://vod1.kczybf.com/20220308/GRtiEyJ6/index.m3u8
-Contact,https://vod1.kczybf.com/20220605/SrnoDstk/index.m3u8
-Contact,https://vod.bunediy.com/20200423/dDwH9erk/index.m3u8
-Contact,https://v4.cdtlas.com/20220605/fmAdipVP/index.m3u8
-Contact,https://cmp.060.us/videos/202205/29/6293126de97b17038c03205f/3e138e/index.m3u8
+TVBS Global News,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
 ##
 
 
@@ -993,8 +967,6 @@ HKC有线财经资讯台,https://api.leonardpark.dev/live/icable/108
 HKC有线直播新闻台,https://api.leonardpark.dev/live/icable/110
 ##
 
-
-
 📻Radio,#genre#
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
@@ -1026,7 +998,6 @@ VOA美國之音,http://stream.radiojar.com/7thwu53r92quv
 臺北廣播電臺AM1134,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
 臺北廣播電臺FM93.1,https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 臺灣古典音樂台,http://59.120.88.155:8000/live.mp3
-
 ##
 
 
@@ -1079,7 +1050,6 @@ SET+ Live News,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 SET iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
 Formosa Live News,https://ytm2.yuanhsing.cf/FTVLIVE.m3u8
 Formosa TV News,https://ytm2.yuanhsing.cf/FTVCP.m3u8
-
 ##
 
 🌏亞洲,#genre#
@@ -1728,5 +1698,5 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 
 
 🏁End,#genre#
-寰宇,https://php.52sf.ga/@Curly_MouseIPTV-YTB.php?id=watch?v=B7Zp3d6xXWw&P=1080
+Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 ##

@@ -1,5 +1,13 @@
-﻿﻿🔞20220907,#genre#
-TVBS新聞[1920*1080],http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+﻿﻿🔞1118,#genre#
+Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
+Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
+Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u8
+NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
+RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
+直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+TVBS Global News,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
 ##
 
 Japan,#genre#
