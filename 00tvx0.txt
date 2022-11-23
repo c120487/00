@@ -7,11 +7,11 @@
 
 "categories":["福利","福利片","伦理片"],
 "sites":[
-{"key":"date","name":"️💃👠👙 1113 ️👙👠💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00titlex.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"date","name":"️💃👠👙 1113 ️👙👠💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title05155.json","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"csp_bendi","name":"📺本地播放","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"ff_AlistP","name":"🅿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/alist05155.json"},
-{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili0515.json"},
+{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili05155.json"},
 
 
 {"key":"00CK","name":"CKv","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["福利","福利片","伦理片"],"playUrl":"https://ckm3u8.cc/?url="},
