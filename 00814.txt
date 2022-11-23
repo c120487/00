@@ -25,8 +25,8 @@
 {"key":"ffAPPTT","name":"🍿图图(多節點)","type":3,"api":"csp_AppTT","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffMBO","name":"🍿MBO(多節點,有年份)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key":"02BBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili0814.json"},
-{"key":"00follow","name":"👍0814","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0814.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"fffollow","name":"👍0814","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0814.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili0814.json"},
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 
