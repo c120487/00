@@ -6,9 +6,14 @@
 "classes":[
 {"type_name":"4K资源","type_id":"4K"},
 {"type_name":"8K资源","type_id":"8K"},
-{"type_name":"Atmos","type_id":"Atmos"},
+
 {"type_name":"杜比全景声","type_id":"杜比全景声"},
 {"type_name":"杜比视界","type_id":"杜比视界"},
+{"type_name":"Dolby Digital","type_id":"Dolby Digital"},
+{"type_name":"Dolby Digital Plus","type_id":"Dolby Digital Plus"},
+{"type_name":"Dolby Atmos","type_id":"Dolby Atmos"},
+{"type_name":"Dolby Vision","type_id":"Dolby Vision"},
+{"type_name":"Dolby Cinema","type_id":"Dolby Cinema"},
 
 {"type_name":"張韶涵","type_id":"張韶涵"},
 {"type_name":"司藤","type_id":"司藤"}
