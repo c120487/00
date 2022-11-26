@@ -1,7 +1,6 @@
 {
 "class":[{"type_id":"","type_name":"點播"}],
 "list":[
-{"vod_id":"","vod_name":"科搜研之女","vod_remarks":"","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/3yhUPZ5ojuxktyt2dfA0SLMOBEv.jpg"},
 {"vod_id":"","vod_name":"最爱","vod_remarks":"吉高由里子","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/wToJGIhjBDIChejnSE2ThsRT3et.jpg"},
 {"vod_id":"","vod_name":"不知也无妨","vod_remarks":"吉高由里子","vod_pic":"https://www.themoviedb.org/t/p/w260_and_h390_bestv2/cjvhLn9dhDPHUiZt2TP676JX6W1.jpg"},
 {"vod_id":"","vod_name":"危险的维纳斯","vod_remarks":"吉高由里子","vod_pic":"https://www.themoviedb.org/t/p/w260_and_h390_bestv2/s5oiWubomzBxa0ZvdPmjWorD8CD.jpg"},
@@ -38,7 +37,6 @@
 {"vod_id":"","vod_name":"泡泡糖","vod_remarks":"郑丽媛","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/zqZFhZGKqJshz0tPuMTzttlxw6G.jpg"},
 
 
-{"vod_id":"","vod_name":"奇异博士","vod_remarks":"","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/7WfK17BXE6szXlm4WOxfswgbdsL.jpg"},
-{"vod_id":"","vod_name":"美国队长3","vod_remarks":"","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/8xA9XQ6KfvXFKcNLNRWSPT39Gaz.jpg"}
+{"vod_name":"","vod_remarks":"","vod_pic":""}
 ]
 }
