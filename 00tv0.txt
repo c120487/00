@@ -67,16 +67,8 @@
 {"key":"00Mjxq","name":"🐞美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Bttoo","name":"🐞两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00DiDuan","name":"🐞低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-
-
-{"key":"00csp_77","name":"🐞酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00csp_Anfuns","name":"🐞Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00csp_Anime1","name":"🐞动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00csp_Dm84","name":"🐞动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00csp_fant","name":"🐞饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Lgyy","name":"🐞蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Lib","name":"🐞LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"00csp_Voflix","name":"🐞Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Yj1211","name":"🐞在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Ysgc","name":"🐞影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
@@ -84,16 +76,23 @@
 {"key":"00Smdyy","name":"🐞神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Zjdr","name":"🐞追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"00csp_Anime1","name":"🐞动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00csp_Dm84","name":"🐞动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"00APPTT","name":"🐞图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
 {"key":"00csp_Nmys","name":"🐞农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/721/ts.jar?sign=voblAVj2LLvXaZ4Khcrz2aeedL1PmhhZHWv2PcLymH8%3D%3A0"},
 
 //
-{"key":"00CZSPP","name":"🐞厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00ZJMiao","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00csp_fant","name":"🐞饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00SP360","name":"🐞360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
 //
-{"key":"00SP360","name":"🐞360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"00CZSPP","name":"🐞厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00ZJMiao","name":"🐞追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00csp_77","name":"🐞酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00csp_Anfuns","name":"🐞Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
+
 
 //
 //
