@@ -191,6 +191,14 @@
 //
 //
 //
+//
+//Type3,AppYsV2
+//🏠type:3api:csp_AppYsV2api同Biubiu主頁,官方APP接口
+//{"name":"填接口名称","url":"http://xxx/api.php/app/"},
+//{"name":"填接口名称","url":"http://xxx/api.php/v1.vod"},
+//{"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
+//{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
+//{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"}
 //Type3, api:AppYsV2
 {"key":"33AppYsV2","name":"🏠🏠 type 3 ==================","type":0,"api":""},  
 {"key":"33_555","name":"🏠555","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/"},
