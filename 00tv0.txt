@@ -38,14 +38,16 @@
 
 //
 //
+//主題
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"YQK_spider","name":"⚽🏓🎾🏸Sports TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/o/o/raw/branch/o/777.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
+//{"key":"ttYQK_spider","name":"⚽🏓🎾🏸Sports TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://github.com/c120487/00/blob/main/sports.jar?raw=true"},
 
 //
 //
 //test sites
 
-{"key":"ttYQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/o/o/raw/branch/o/777.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
 
 //
 //
