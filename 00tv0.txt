@@ -79,10 +79,9 @@
 {"key":"00LiteApple","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Nkdy","name":"🐞南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Dy1010","name":"🐞双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00DiDuan","name":"🐞低端","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp>button","searchable":1,"quickSearch":1,"filterable":0},
+
 {"key":"00Cokemv","name":"🐞可乐","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Bd","name":"🐞哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00APPTT","name":"🐞图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Auete","name":"🐞Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Zxzj","name":"🐞在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00SP360","name":"🐞360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
@@ -101,7 +100,6 @@
 {"key":"00csp_fant","name":"🐞饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Lgyy","name":"🐞蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Lib","name":"🐞LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00csp_Nmys","name":"🐞农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 
 {"key":"00csp_Voflix","name":"🐞Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Yj1211","name":"🐞在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
@@ -110,7 +108,10 @@
 {"key":"00Smdyy","name":"🐞神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Zjdr","name":"🐞追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"00APPTT","name":"🐞图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://110.42.6.212:7788"},
+{"key":"00csp_Nmys","name":"🐞农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 
+{"key":"00DiDuan","name":"🐞低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 //
 //
 //
