@@ -43,8 +43,9 @@
 
 //
 //
-//
+//test sites
 
+{"key":"ttYQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/o/o/raw/branch/o/777.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"},
 
 //
 //
