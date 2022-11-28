@@ -14,7 +14,7 @@
 {"name":"Peter18","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"},
 
 {"name":"SportTV 32","url":"http://rl1eetffv.bkt.clouddn.com/tvbox.json"},
-{"name":"🦁缓冲 一起看TV 162","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
+{"name":"🦁缓冲 162","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
 {"name":"🎁伍佰园 168","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
 {"name":"💍魔力宝贝 91","url":"http://52bsj.vip:98/9c"},
 {"name":"甜蜜 48","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
