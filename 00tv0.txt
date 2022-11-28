@@ -1,7 +1,7 @@
 ﻿{
-"spider":"https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
+//"spider":"https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
 //"spider":"https://github.com/c120487/00/blob/main/00tv0515.jar?raw=true",
-//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
@@ -46,10 +46,7 @@
 //
 //
 //test sites
-{"key":"99Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618"},
-{"key":"99百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
-{"key":"99棉花影视","name":"棉花影视","type":3,"api":"csp_MianHua","searchable":0,"playerType":2,"quickSearch":0,"filterable":0,"ext":"http://118.190.144.126"},
-{"key":"99YQK_spider","name":"一起看TV(9999)","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":0,"searchable":0,"ext":"https://api-tx.shumaxc.xyz"},
+
 
 //
 //
