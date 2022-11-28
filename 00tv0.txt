@@ -39,6 +39,9 @@
 //
 //
 //主題
+
+{"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":0,"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/724/ts.jar?sign=gc_QbTKD7VfjLQ92tAnsDXGYeEHTbe2VBNw6tU4j0RY%3D%3A0"},
+
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 
@@ -46,7 +49,6 @@
 //
 //
 //test sites
-{"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":0,"ext":"8e3aefcba838d8dc5102ac786719d837","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/724/ts.jar?sign=gc_QbTKD7VfjLQ92tAnsDXGYeEHTbe2VBNw6tU4j0RY%3D%3A0"},
 
 
 //
