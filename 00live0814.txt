@@ -1,5 +1,9 @@
 🐘🐘 0814 🐘🐘,#genre#
-Worldcup test,https://cdn4.irtblztjwzxz000041.xyz/KWSDFRB14GZmsFZwYOJUDnqRttVpdhFqo3DdrygC/index.m3u8?yqk=9272422d547eca38d313d91cd7519233|WorldCup
+Worldcup test,https://cdn4.irtblztjwzxz000041.xyz/KWSDFRB14GZmsFZwYOJUDnqRttVpdhFqo3DdrygC/index.m3u8?yqk=9272422d547eca38d313d91cd7519233
+ELTA1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+ELTA2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+CCTV5,http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
+CCTV5+,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 
 Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
 Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
