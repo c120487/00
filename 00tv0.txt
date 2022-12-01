@@ -86,7 +86,7 @@
 {"key":"00APPTT","name":"🐞图图","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
 //{"key":"00APPTT","name":"🐞图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.13.147:5588"},
 {"key":"00csp_Nmys","name":"🐞农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
-{"key":"Czsapp","name":"🐞厂长","type":3,"api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
+{"key":"00Czsapp","name":"🐞厂长","type":3,"api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
 
 //Slow
 {"key":"00csp_fant","name":"🐞饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
