@@ -20,6 +20,16 @@
 {"name":"甜蜜 48","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
 {"name":"🤑月光宝盒 96","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 
+{"name":"于俊","url":"http://home.jundie.top:81/top98.json"},
+{"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
+{"name":"楞牛哥","url":"http://lengniuge.eu.org/"},
+{"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf/"},
+{"name":"霜辉月明py","url":"https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
+{"name":"小雅js","url":"http://drpy.site/js1"},
+{"name":"","url":""},
+{"name":"","url":""},
+
+
 
 {"name":"小苹果 129","url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json"},
 {"name":"🛣军碟 75","url":"http://home.jundie.top:81/TVBox/yosakoi.json"},
