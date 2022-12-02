@@ -71,9 +71,8 @@
 
 {"key":"00APPTT","name":"🐞图图","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
 //{"key":"00APPTT","name":"🐞图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://45.207.13.147:5588"},
-{"key":"00csp_Nmys","name":"🐞农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
-{"key":"Czsapp","name":"🐞厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
-
+{"key":"00csp_Nmys","name":"🐞农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/Nmys.json"},
+{"key":"00Czsapp","name":"🐞厂长","type":3,"api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
 
 
 
@@ -119,18 +118,6 @@
 //special function
 {"key":"00bendi","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"00AlistP","name":"🌐Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/00alist0515.json"},
-
-
-//
-//
-//
-//
-{"key":"Unsort","name":"🗿以下未整理,供搜尋用,官方資源","type":0,"api":""},
-
-//
-//
-//from https://agit.ai/Yoursmile7/TVBox/src/branch/master/XC.json
-{"key":"1102_CSP","name":"🪧1123 ==================","type":0,"api":""},
 
 
 
@@ -205,12 +192,22 @@
 {"key":"33鑫总资源","name":"🏠鑫总","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
 {"key":"33淘剧社","name":"🏠淘剧社","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
 
+//
+//
+//
+//
+{"key":"Unsort","name":"🗿以下未整理,供搜尋用,官方資源","type":0,"api":""},
+
+//
+//
+//from https://agit.ai/Yoursmile7/TVBox/src/branch/master/XC.json
+{"key":"1102_CSP","name":"🪧1123 ==================","type":0,"api":""},
 
 //
 //
 //
 //End, search, recommendation and summary
-{"key":"1025_Search","name":"🔍 Search and Filter ============","type":0,"api":""},  
+{"key":"1025_Search","name":"🔍 backup ============","type":0,"api":""},  
 
 {"key":"T4Demo","name":"🔍T4 Demo‍","type":4,"api":"https://t4.secan.icu/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4Backup","name":"🔍T4 Backup‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":1,"quickSearch":1,"filterable":0},
@@ -223,7 +220,6 @@
 
 {"key":"0515follow","name":"👍0515","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0515.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"0515BBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/bili0515.json"},
-{"key":"0515AlistP","name":"💿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/alist0515.json"},
 {"key":"0515Drama","name":"📺Drama","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00Drama0515.json","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
