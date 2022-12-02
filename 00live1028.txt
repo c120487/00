@@ -1,8 +1,8 @@
 🏓🏓 1028 🏓🏓,#genre#
-World Cup Korea,https://cdn4.irtblztjwzxz000041.xyz/4hFV7VT11GKHICwnvAVF35oigkmVuG2ZTU5d91xs/index.m3u8?yqk=35b237edc14532788e19a39a73d62048
-World Cup Korea,https://cdn4.irtblztjwzxz000041.xyz/KWSDFRB14GZmsFZwYOJUDnqRttVpdhFqo3DdrygC/index.m3u8?yqk=9272422d547eca38d313d91cd7519233
-World Cup Japen,https://cdn4.irtblztjwzxz000041.xyz/vRENZ2DuhdzvqMyKC2LPG6UksYzHnAjHZI8dd231/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
-World Cup Japen,https://cdn4.irtblztjwzxz000041.xyz/3uJJa85y2mRNoobW6r8Q9M1ZJ9hTJp6tHNlPtIKT/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
+World Cup Korea1,https://cdn4.irtblztjwzxz000041.xyz/4hFV7VT11GKHICwnvAVF35oigkmVuG2ZTU5d91xs/index.m3u8?yqk=35b237edc14532788e19a39a73d62048
+World Cup Korea2,https://cdn4.irtblztjwzxz000041.xyz/KWSDFRB14GZmsFZwYOJUDnqRttVpdhFqo3DdrygC/index.m3u8?yqk=9272422d547eca38d313d91cd7519233
+World Cup Japen1,https://cdn4.irtblztjwzxz000041.xyz/vRENZ2DuhdzvqMyKC2LPG6UksYzHnAjHZI8dd231/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
+World Cup Japen2,https://cdn4.irtblztjwzxz000041.xyz/3uJJa85y2mRNoobW6r8Q9M1ZJ9hTJp6tHNlPtIKT/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
 
 ELTA1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 ELTA2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
