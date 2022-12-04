@@ -1,13 +1,16 @@
 ﻿🐈‍🐈 1129 🐈🐈‍,#genre#
-Korea1,https://cdn4.irtblztjwzxz000041.xyz/4hFV7VT11GKHICwnvAVF35oigkmVuG2ZTU5d91xs/index.m3u8?yqk=35b237edc14532788e19a39a73d62048
-Korea2,https://cdn4.irtblztjwzxz000041.xyz/KWSDFRB14GZmsFZwYOJUDnqRttVpdhFqo3DdrygC/index.m3u8?yqk=9272422d547eca38d313d91cd7519233
-Japen1,https://cdn4.irtblztjwzxz000041.xyz/vRENZ2DuhdzvqMyKC2LPG6UksYzHnAjHZI8dd231/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
-Japen2,https://cdn4.irtblztjwzxz000041.xyz/3uJJa85y2mRNoobW6r8Q9M1ZJ9hTJp6tHNlPtIKT/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
 
 ELTA1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 ELTA2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 CCTV5,http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
 CCTV5+,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+
+阿根廷1,https://cdn4.irtblztjwzxz000041.xyz/hAp70gpg3CzJjhwHtYjobcnph9G1j8BJBxJCPddK/index.m3u8
+阿根廷2,https://cdn4.irtblztjwzxz000041.xyz/QlCauKDT4dBQV1rvlb3avK9HsZ3IjrCqNqoxNXiN/index.m3u8
+Japen1,https://cdn4.irtblztjwzxz000041.xyz/vRENZ2DuhdzvqMyKC2LPG6UksYzHnAjHZI8dd231/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
+Japen2,https://cdn4.irtblztjwzxz000041.xyz/3uJJa85y2mRNoobW6r8Q9M1ZJ9hTJp6tHNlPtIKT/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
+Korea1,https://cdn4.irtblztjwzxz000041.xyz/4hFV7VT11GKHICwnvAVF35oigkmVuG2ZTU5d91xs/index.m3u8?yqk=35b237edc14532788e19a39a73d62048
+Korea2,https://cdn4.irtblztjwzxz000041.xyz/KWSDFRB14GZmsFZwYOJUDnqRttVpdhFqo3DdrygC/index.m3u8?yqk=9272422d547eca38d313d91cd7519233
 
 Cafe Music BGM channel,https://ytm2.yuanhsing.cf/CafeMusicBGMchannel.m3u8
 Green Music BGM channel,https://ytm2.yuanhsing.cf/GreenMusicBGMchannel.m3u8
@@ -15,8 +18,8 @@ Hawaiian Music BGM channel,https://ytm2.yuanhsing.cf/HawaiianMusicBGMchannel.m3u
 NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
 RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
 直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-TVBS Global News,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
-Global News TV,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
 Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
 ##
 
