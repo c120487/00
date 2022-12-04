@@ -1,11 +1,11 @@
 🐘🐘 0814 🐘🐘,#genre#
 
-ELTA1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
-ELTA2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+愛爾達體育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+愛爾達體育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 CCTV5,http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
 CCTV5+,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-愛爾達1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-愛爾達2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+愛爾達體育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+愛爾達體育2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 
@@ -40,9 +40,9 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 東森財經 HD,http://198.16.64.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 東森財經 HD,http://140.238.155.232:9000/jmsytb.m3u8?c=35
 東森財經 HD,http://140.238.155.232:9000/jmsytb.m3u8?c=36
-大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛1台,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
-大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛一台,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
 大愛電視,http://123.51.229.65:18567/.m3u8
 大愛電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
