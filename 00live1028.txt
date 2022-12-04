@@ -4,9 +4,13 @@ ELTA1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 ELTA2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 CCTV5,http://219.151.31.35/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
 CCTV5+,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+愛爾達1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+愛爾達2台,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 
 阿根廷1,https://cdn4.irtblztjwzxz000041.xyz/hAp70gpg3CzJjhwHtYjobcnph9G1j8BJBxJCPddK/index.m3u8
-阿根廷2,https://cdn4.irtblztjwzxz000041.xyz/QlCauKDT4dBQV1rvlb3avK9HsZ3IjrCqNqoxNXiN/index.m3u8
+阿根廷2,https://cdn4.irtblztjwzxz000041.xyz/AXbgF2XnIswhijZJ1oftU7e0vWqDz2Ffbk5kRLQn/index.m3u8
 Japen1,https://cdn4.irtblztjwzxz000041.xyz/vRENZ2DuhdzvqMyKC2LPG6UksYzHnAjHZI8dd231/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
 Japen2,https://cdn4.irtblztjwzxz000041.xyz/3uJJa85y2mRNoobW6r8Q9M1ZJ9hTJp6tHNlPtIKT/index.m3u8?yqk=8c90cc0a358a07208093b90294424878
 Korea1,https://cdn4.irtblztjwzxz000041.xyz/4hFV7VT11GKHICwnvAVF35oigkmVuG2ZTU5d91xs/index.m3u8?yqk=35b237edc14532788e19a39a73d62048
@@ -19,8 +23,18 @@ NatureRelax4K,https://ytm2.yuanhsing.cf/NatureRelax4K.m3u8
 RELAXTIME,https://ytm2.yuanhsing.cf/RELAXTIME0.m3u8
 直播中國,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 TVBS新聞,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 寰宇新聞,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-Tzu Chi DaAiVideo,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛1台,https://ytm2.yuanhsing.cf/DaAiVideo.m3u8
+大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大愛電視,http://218.32.47.179:8507/http/192.168.1.9:8081/hls/73/815/ch52.m3u8
+大愛電視,http://123.51.229.65:18567/.m3u8
+大愛電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大愛電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+大愛電視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+大愛電視,http://198.16.64.10:8278/daai_twn/playlist.m3u8?tid=MF5F4357730143577301&ct=19225&tsum=10c092424b1c12259444b68ad663c9eb
 ##
 
 
