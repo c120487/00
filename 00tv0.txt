@@ -50,7 +50,7 @@
 //
 //
 //test sites
-{"key":"ttDB00","name":"if101","type":3,"api":"https://raw.githubusercontent.com/c120487/00/main/libs_drpy2.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/if101%5B%E9%A3%9E%5D.js"},
+{"key":"ttDB00","name":"if101","type":3,"api":"https://raw.githubusercontent.com/c120487/00/main/libs_drpy2.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/if101%5B%E9%A3%9E%5D.js"},
 
 
 //
