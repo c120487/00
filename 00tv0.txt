@@ -50,9 +50,16 @@
 //
 //
 //test sites
-{"key":"ttDB00","name":"if101","type":3,"api":"https://raw.githubusercontent.com/c120487/00/main/libs_drpy2.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/if101%5B%E9%A3%9E%5D.js"},
-
-
+        {
+            "key": "dr_if101[飞]",
+            "name": "if101[飞](drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/if101[飞].js"
+        },
 //
 //
 //
