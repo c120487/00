@@ -66,6 +66,7 @@
 
 {"key":"csp_Sp_电视直播","name":"🌏港澳台|直播","type": 4,"api": "http://120.53.102.254/live2?url=https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","searchable": 0,"quickSearch": 0,"filterable": 1},
 
+{"key":"Sp_爱看不看","name":"💕爱看不看","type": 1,"api": "https://ikan6.vip/api.php/provide/vod","playerType":1,"playUrl": "https://cms.ikan6.vip/nidasicaibudaowozaina/nicaibudaowozaina.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //
 //
