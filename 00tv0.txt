@@ -63,6 +63,10 @@
 //            "ext": "http://101.34.67.237/js/if101[飞].js"
             "ext": "https://github.com/c120487/dr_py/raw/master/js/if101[飞].js"
         },
+
+{"key":"csp_Sp_电视直播","name":"🌏港澳台|直播","type": 4,"api": "http://120.53.102.254/live2?url=https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","searchable": 0,"quickSearch": 0,"filterable": 1},
+
+
 //
 //
 //
