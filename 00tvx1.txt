@@ -130,10 +130,6 @@
 {"name":"鲨鱼","key":"00鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"SB资源","key":"00SB资源","type":0,"api":"http://www.shabizy.com:777/inc/sea","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"大地资源","key":"00大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1},
-
-//
-//
-//
 {"name":"辣椒资源","key":"00辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"523mc10v","key":"00523mc10","type":0,"api":"https://caiji.523zyw.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"523seav","key":"00523sea","type":0,"api":"https://caiji.523zyw.com/inc/seacmsapi.php","searchable":1,"quickSearch":1,"filterable":1},
