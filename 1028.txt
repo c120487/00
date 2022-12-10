@@ -37,10 +37,21 @@
 //
 //
 //主題
-
 {"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
+
+//
+//
+//test sites
+{"key":"dr_if101[飞]","name":"if101[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/if101[飞].js"},
+{"key":"dr_唐人街影视","name":"唐人街影视[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/唐人街影视[飞].js"},
+{"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐影院[飞].js"},
+{"key":"dr_小宝影院[飞]","name":"小宝影院[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/小宝影院[飞].js"},
+{"key":"dr_独播库[飞]","name":"独播库[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/独播库[飞].js"},
+{"key":"dr_KUBO影视[飞]","name":"KUBO影视[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/KUBO影视[飞].js"},
+{"key":"dr_吼吼[飞]","name":"吼吼[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/吼吼[飞].js"},
+{"key":"dr_冲TMTV[飞]","name":"冲TMTV[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/冲TMTV[飞].js"},
 
 //
 //
