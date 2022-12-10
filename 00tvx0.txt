@@ -144,6 +144,12 @@
 {"key":"afasu.com","name":"成人64","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"filterable":1},
 {"key":"xrbsp.com","name":"成人66","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"filterable":1},
 
+{"key":"❤SB资源","name":"❤SB资源","type":0,"api":"http://www.shabizy.com:777/inc/sea","searchable":0,"quickSearch":0},
+{"key":"❤久久热在线","name":"❤久久热在线","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"❤大地资源","name":"❤大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
+{"key":"❤花椒资源","name":"❤花椒资源","type":1,"api":"https://apihjzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"❤AVZY6888资源","name":"❤AVZY6888资源","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":0,"quickSearch":0},
+{"key":"zp098","name":"老鸭资源","type":0,"api":"http://laoyazy.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 
 //
 //

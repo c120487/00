@@ -20,10 +20,11 @@
 {"name":"Your Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
 {"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
-{"name":"x","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"},
+{"name":"Peter x","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"},
 {"name":"xx","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
 {"name":"xxx","url":"https://github.com/c120487/CatVodSpider/raw/main/json/adult.json"},
 {"name":"xxxx","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
+{"name":"FongMi x","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
 
 {"name":"🎁伍佰园 202","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
 {"name":"甜蜜 47","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
