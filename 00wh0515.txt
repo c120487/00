@@ -1,4 +1,5 @@
 ﻿{"urls":[
+
 {"name":"Peter","url":"https://raw.githubusercontent.com/c120487/00/main/00tv0.txt"},
 {"name":"Wendy","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
@@ -12,17 +13,17 @@
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 {"name":"刚刚 102","url":"http://刚刚.live/猫"},
 
+{"name":"SportTV(9999) 32","url":"http://cdn.qiaoji8.com/tvbox.json"},
+{"name":"巧技 32","url":"http://pandown.pro/tvbox/tvbox.json"},
+{"name":"全技 32","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
+
 {"name":"Your Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
 {"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 {"name":"x","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"},
 {"name":"xx","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
 {"name":"xxx","url":"https://github.com/c120487/CatVodSpider/raw/main/json/adult.json"},
-{"name":"Alist","url":"https://github.com/c120487/CatVodSpider/raw/main/json/alist.json"},
-{"name":"Bili","url":"https://github.com/c120487/CatVodSpider/raw/main/json/bili.json"},
-{"name":"Config","url":"https://github.com/c120487/CatVodSpider/raw/main/json/config.json"},
 
-{"name":"SportTV(9999) 32","url":"http://rl1eetffv.bkt.clouddn.com/tvbox.json"},
 {"name":"🎁伍佰园 202","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
 {"name":"甜蜜 47","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
 {"name":"🤑月光宝盒 101","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
@@ -35,8 +36,11 @@
 
 
 {"name":"唐三","url":"https://hutool.ml/tang"},
-{"name":"FongMi 12","url":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-{"name":"巧技 32","url":"http://pandown.pro/tvbox/tvbox.json"},
+{"name":"Bili","url":"https://github.com/c120487/CatVodSpider/raw/main/json/bili.json"},
+{"name":"Alist","url":"https://github.com/c120487/CatVodSpider/raw/main/json/alist.json"},
+{"name":"Config","url":"https://github.com/c120487/CatVodSpider/raw/main/json/config.json"},
+
+{"name":"FongMi 12","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 
 {"name":"小苹果 129","url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json"},
 {"name":"🛣军碟 75","url":"http://home.jundie.top:81/TVBox/yosakoi.json"},
@@ -48,6 +52,19 @@
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"饭太硬 92","url":"http://饭太硬.ga/x/o.json"},
 {"name":"楞牛哥 36","url":"https://agit.ai/lengniuge/tv/raw/branch/master/ts"},
+
+
+{"name":"1","url":"http://byyds.top/w.txt"},
+{"name":"2","url":"https://cai777.cf/public/TVBox/tangs.json"},
+{"name":"3","url":"http://8.210.220.114:8888/down/c9s9YQVDdqYw.json"},
+{"name":"4","url":"http://shuyuan.miaogongzi.net/shuyuan/1668396598.txt"},
+{"name":"5","url":"http://drpy.site/js1"},
+{"name":"6","url":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
+{"name":"7","url":"https://raw.iqiq.io/liu673cn/box/main/m.json"},
+{"name":"8","url":"https://hutool.ml/tang"},
+{"name":"9","url":"http://miaotvs.cn/meow"},
+{"name":"10","url":"http://刚刚.live/猫"},
+
 
 {"name":"🚙无名 128","url":"https://raw.githubusercontents.com/habao260/zy/247b9c74d86881cbc6633b799a3ddf04e9b930c0/longge802.json"},
 {"name":"🚗无名口2 212","url":"https://download.kstore.space/download/2888/XB/zy2.json"},
