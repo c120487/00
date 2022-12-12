@@ -19,20 +19,20 @@
  {"name":"秋雨","server":"https://share.laowang.me","password":"s8;K^h[j<b"}
  ]}},
 
-{"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_Nbys","searchable":1,"filterable":1,"ext":"1"},
-{"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"filterable":1},
-{"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
-{"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"filterable":1},
-{"key":"PigAV","name":"🐞PigAV","type":3,"api":"csp_Pig","searchable":1,"filterable":1},
-{"key":"MissAV","name":"🐞MissAV","type":3,"api":"csp_Miss","searchable":1,"filterable":1},
-{"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"filterable":1},
-{"key":"Hanime","name":"🐞Hanime","type":3,"api":"csp_Hanime","searchable":1,"filterable":1},
+{"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
+{"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"PigAV","name":"🐞PigAV","type":3,"api":"csp_Pig","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"MissAV","name":"🐞MissAV","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Hanime","name":"🐞Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"dr_猫了个咪","name":"猫了个咪(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/dr_py/raw/master/js/猫了个咪.js"},
+{"key":"dr_猫了个咪","name":"猫了个咪(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/猫了个咪.js"},
 
-{"key":"dr_天天开心","name":"天天开心(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/dr_py/raw/master/js/18av.js"},
-{"key":"dr_Missav","name":"MissAV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/dr_py/raw/master/js/Missav.js"},
-{"key":"dr_跑TV","name":"跑TV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/dr_py/raw/master/js/跑TV.js"},
+{"key":"dr_天天开心","name":"天天开心(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/18av.js"},
+{"key":"dr_Missav","name":"MissAV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/Missav.js"},
+{"key":"dr_跑TV","name":"跑TV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/跑TV.js"},
 
 //
 //
