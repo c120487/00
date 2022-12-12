@@ -138,7 +138,7 @@
 {"key":"00qezb","name":"🖥️企鵝直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/qezb.json"},
 
 {"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/c120487/dr_py/raw/master/js/88看球.js"},
-{"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/c120487/dr_py/raw/master/js/JRKAN直播.js"},
+{"key": "dr_JRKAN直播","name": "JRS录像(drpy)","type": 3,"api": "https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/c120487/dr_py/raw/master/js/JRS录像.js"},
 
 //
 //
