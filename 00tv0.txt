@@ -156,9 +156,9 @@
 
 {"key":"drpy_js_兰花影院","name":"🎖兰花影院","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/兰花影院.js"},
 {"key":"drpy_js_喵喵","name":"🕵喵喵🕵","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/喵喵.js"},
-{"key":"drpy_js_利丽娅电影","name":"🎖利丽娅电影","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/利丽娅电影.js"},
-{"key":"drpy_js_多瑙影视","name":"🎖多瑙影视","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/多瑙影视.js"},
-{"key":"drpy_js_影渣渣","name":"🎖影渣渣","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/影渣渣.js"},
+{"key":"drpy_js_利丽娅电影","name":"🎖利丽娅电影","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/TVboxo/raw/master/js/利丽娅电影.js"},
+{"key":"drpy_js_多瑙影视","name":"🎖多瑙影视","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/TVboxo/raw/master/js/多瑙影视.js"},
+{"key":"drpy_js_影渣渣","name":"🎖影渣渣","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/TVboxo/raw/master/js/影渣渣.js"},
 //
 //
 //
