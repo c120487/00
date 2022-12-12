@@ -30,6 +30,8 @@
 
 {"key":"dr_猫了个咪","name":"猫了个咪(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/dr_py/raw/master/js/猫了个咪.js"},
 
+{"key":"dr_天天开心","name":"天天开心(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/dr_py/raw/master/js/18av.js"},
+
 //
 //
 //
