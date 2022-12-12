@@ -24,7 +24,9 @@
 {"key":"fffollow","name":"👍0515","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0515.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/00bili0515.json"},
 {"key":"ffDrama","name":"📺Drama","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00Drama0515.json","searchable":0,"quickSearch":0,"filterable":1},
+
 {"key":"ffAlistP","name":"💿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/00alist0515.json"},
+{"key":"紙條","name":"🏷紙條","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true"},
 
 //
 //
@@ -47,7 +49,6 @@
 //{"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.jar"},
 {"key":"世界杯record","name":"⚽世界杯回放","type":4,"api":"http://120.53.102.254/t4/sjb","searchable":1,"quickSearch":0,"filterable":1},
 
-{"key":"紙條","name":"🏷紙條","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true"},
 
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},

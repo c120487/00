@@ -38,6 +38,10 @@
 //
 //主題
 {"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
+//{"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.jar"},
+{"key":"世界杯record","name":"⚽世界杯回放","type":4,"api":"http://120.53.102.254/t4/sjb","searchable":1,"quickSearch":0,"filterable":1},
+
+
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 
@@ -45,9 +49,10 @@
 //
 //
 //Major sites, jar
-{"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1, "jar":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true"},
+{"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true"},
 {"key":"00If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00trj","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00Xiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/FXZ08.png"},
 
 {"key":"00Lezhu","name":"🐞乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"00LiteApple","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -102,15 +107,27 @@
 
 //
 //
-//drpy
-{"key":"dr_if101[飞]","name":"if101[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/if101[飞].js"},
-{"key":"dr_唐人街影视","name":"唐人街影视[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/唐人街影视[飞].js"},
-{"key":"dr_欧乐影院[飞]","name":"欧乐影院[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐影院[飞].js"},
-{"key":"dr_小宝影院[飞]","name":"小宝影院[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/小宝影院[飞].js"},
-{"key":"dr_独播库[飞]","name":"独播库[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/独播库[飞].js"},
-{"key":"dr_KUBO影视[飞]","name":"KUBO影视[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/KUBO影视[飞].js"},
-{"key":"dr_吼吼[飞]","name":"吼吼[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/吼吼[飞].js"},
-{"key":"dr_冲TMTV[飞]","name":"冲TMTV[飞](drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/冲TMTV[飞].js"},
+//drpy js
+{"key":"dr_if101[飞]","name":"🕵if101[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/if101[飞].js"},
+{"key":"dr_唐人街影视","name":"🕵唐人街影视[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/唐人街影视[飞].js"},
+{"key":"dr_小宝影院[飞]","name":"🕵小宝影院[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/小宝影院[飞].js"},
+{"key":"dr_欧乐影院[飞]","name":"🕵欧乐影院[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐影院[飞].js"},
+{"key":"drpy_js_多瑙影视","name":"🕵多瑙影视[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/多瑙影视.js"},
+{"key":"dr_独播库[飞]","name":"🕵独播库[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/独播库[飞].js"},
+{"key":"dr_KUBO影视[飞]","name":"🕵KUBO影视[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/KUBO影视[飞].js"},
+{"key":"dr_吼吼[飞]","name":"🕵吼吼[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/吼吼[飞].js"},
+{"key":"dr_冲TMTV[飞]","name":"🕵冲TMTV[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/冲TMTV[飞].js"},
+
+{"key":"drpy_js_蓝光影院","name":"🕵蓝光影院","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/蓝光影院.js"},
+{"key":"drpy_js_兰花影院","name":"🕵兰花影院","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/兰花影院.js"},
+{"key":"drpy_js_喵喵","name":"🕵喵喵","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/喵喵.js"},
+{"key":"drpy_js_真不卡","name":"🕵真不卡","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/真不卡.js"},
+{"key":"drpy_js_利丽娅电影","name":"🕵利丽娅电影","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/利丽娅电影.js"},
+{"key":"drpy_js_小宝影视","name":"🕵小宝影视","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/小宝影视.js"},
+{"key":"drpy_js_影渣渣","name":"🕵影渣渣","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/影渣渣.js"},
+//
+//
+//
 
 //
 //
@@ -120,12 +137,8 @@
 {"key":"00NMTV","name":"️🖥️柠檬TV","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/nmtv.json"},
 {"key":"00qezb","name":"🖥️企鵝直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/qezb.json"},
 
-{"key":"csp_XPath_鹅直播","name":"🐧直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/qezb.json"},
-{"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/JRSzb.json"},
-{"key":"88看球","name":"⚽88看球","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88kq.json"},
-{"key":"csp_XYQBiu_17kan","name":"⚽17kan","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/17kan.json"},
-{"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88%e7%9c%8b%e7%90%83.js"},
-{"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
+{"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/c120487/dr_py/raw/master/js/88看球.js"},
+{"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://github.com/c120487/dr_py/raw/master/js/JRKAN直播.js"},
 
 //
 //
@@ -133,6 +146,7 @@
 //special function
 {"key":"00bendi","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"00AlistP","name":"🌐Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/00alist0515.json"},
+{"key":"紙條","name":"🏷紙條","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true"},
 
 
 
