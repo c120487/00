@@ -45,6 +45,10 @@
 //主題
 {"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/c120487/00/blob/main/Sport.jar?raw=true"},
 //{"key":"世界杯","name":"⚽世界杯","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.jar"},
+{"key":"世界杯record","name":"⚽世界杯回放","type":4,"api":"http://120.53.102.254/t4/sjb","searchable":1,"quickSearch":0,"filterable":1},
+
+{"key":"紙條","name":"紙條","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true"},
+
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 
@@ -155,9 +159,7 @@
 //
 //
 //
-{ "key": "2022世界杯","name": "2022世界杯","type": 4, "api": "http://120.53.102.254/t4/sjb","searchable": 1,"quickSearch": 0, "filterable": 1},
 
-{"key":"紙條","name":"紙條","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true"},
 {"key":"csp_SP293","name":" 👒293视频〔SP〕","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-12-12 10:31:09", "jar":"http://www.dmtv.ml/mao/jar/dmtv.jar"},
 {"key":"csp_biubiu_YYDS影院","name":"🥒YYDS影院〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/YYDS影院.json","date":"2022-12-12 10:31:09"},
 
