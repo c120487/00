@@ -13,8 +13,9 @@
 {"name":"小雅js 156","url":"http://drpy.site/js1"},
 {"name":"dr_py 151","url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/custom.conf"},
 {"name":"霜辉月明py 22","url":"https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
+{"name":"FongMi 12","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
-{"name":"刚刚 102","url":"http://刚刚.live/猫"},
+{"name":"刚刚","url":"http://刚刚.live/猫"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
 
 {"name":"SportTV(9999) 32","url":"http://cdn.qiaoji8.com/tvbox.json"},
@@ -31,6 +32,7 @@
 {"name":"FongMix 82","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
 
 {"name":"🍧ABC接口 158","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
+{"name":"Liu 285","url":"https://liu673cn.github.io/box/m.json"},
 {"name":"🎁伍佰园 202","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
 {"name":"甜蜜 47","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
 {"name":"🤑月光宝盒 100","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
@@ -41,16 +43,12 @@
 {"name":"🍱6666源共享 179","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},
 
 
-{"name":"Bili","url":"https://github.com/c120487/CatVodSpider/raw/main/json/bili.json"},
-{"name":"Alist","url":"https://github.com/c120487/CatVodSpider/raw/main/json/alist.json"},
-{"name":"Config","url":"https://github.com/c120487/CatVodSpider/raw/main/json/config.json"},
-{"name":"FongMi 12","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 
 {"name":"小苹果 129","url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json"},
 {"name":"🛣军碟 75","url":"http://home.jundie.top:81/TVBox/yosakoi.json"},
 {"name":"🚙白漂 134","url":"http://js.134584.xyz/json/pp87.json"},
 {"name":"CH猫友 441","url":"https://freed.yuanhsing.cf/TVBox/meowcf.json"},
-{"name":"Liu 267","url":"https://liu673cn.github.io/box/m.json"},
+{"name":"Liu 285","url":"https://liu673cn.github.io/box/m.json"},
 {"name":"👙猫不吃鱼 111","url":"https://agit.ai/hu/hcr/raw/branch/master/29333.txt"},
 {"name":"💍魔力宝贝 91","url":"http://52bsj.vip:98/9c"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
