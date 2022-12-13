@@ -1,6 +1,17 @@
 ﻿🐈‍🐈 1205 🐈🐈‍,#genre#
-test,https://raw.githubusercontent.com/TVzhiboyuandaka/zhiboyuandaka.github.io/main/20221118.m3u
-愛爾達體育1,http://cdn6.nfbrauq.cn/besttv/IR11.stream/playlist.m3u8
+TVBS56,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+
+中天新闻,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+
+民视新闻,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+
+三立新闻+,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+
+东森新闻,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+
+东森幼幼台,http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+
+寰宇新闻,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780愛爾達體育1,http://cdn6.nfbrauq.cn/besttv/IR11.stream/playlist.m3u8
 愛爾達體育01,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 愛爾達體育001,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 愛爾達體育2,http://cdn6.nfbrauq.cn/besttv/IR22.stream/playlist.m3u8
