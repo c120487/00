@@ -1,17 +1,34 @@
-﻿🐈‍🐈 1205 🐈🐈‍,#genre#
-TVBS56,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+﻿Test,#genre#
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+DW 德國之聲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+民視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+GB News UK,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+Euronews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+France 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+Bloomberg News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+中天新聞 2(循環直播),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+CNA亞洲新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB Hokkaido NEWS24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+鏡新聞Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+台視新聞 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
 
 中天新闻,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
-
+TVBS56,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 民视新闻,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
-
 三立新闻+,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
-
 东森新闻,http://103.214.71.71:1666/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
-
 东森幼幼台,http://103.214.71.71:1669/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+寰宇新闻,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+精彩继续,http://103.214.71.71:1675/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=hTFofrKQWDIgXV9EMjGfUA&expires=1670877978
 
-寰宇新闻,http://103.214.71.71:1672/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780愛爾達體育1,http://cdn6.nfbrauq.cn/besttv/IR11.stream/playlist.m3u8
+
+🐈‍🐈 1205 🐈🐈‍,#genre#
 愛爾達體育01,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 愛爾達體育001,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 愛爾達體育2,http://cdn6.nfbrauq.cn/besttv/IR22.stream/playlist.m3u8
