@@ -1,21 +1,5 @@
 ﻿{"urls":[
 
-{"name":"Peter","url":"https://raw.githubusercontent.com/c120487/00/main/00tv0.txt"},
-{"name":"Peter2","url":"https://raw.githubusercontent.com/c120487/00/main/00tv20221214.txt"},
-{"name":"Wendy","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
-{"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
-{"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
-
-{"name":"Your Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
-{"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
-{"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
-{"name":"Peter x0","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"},
-{"name":"Peter x1","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
-{"name":"xx 72","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
-{"name":"xxx 82","url":"https://github.com/c120487/CatVodSpider/raw/main/json/adult.json"},
-{"name":"xxxx 72","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
-{"name":"FongMix 82","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
-
 {"name":"Yoursmile 87","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"多多v 120","url":"https://gitlab.com/duomv/duo/-/raw/main/v.json"},
 {"name":"多多m 120","url":"https://gitlab.com/duomv/duo/-/raw/main/v.json"},
