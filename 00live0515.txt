@@ -1,4 +1,4 @@
-﻿Test 1214,#genre#
+﻿Test1,#genre#
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 東森財經 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
@@ -33,7 +33,8 @@ Viva 美好購物2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV
 寰宇新聞台灣台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
 三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
 
-=動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+Test2,#genre#
+動物星球,http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
 亞洲旅遊台,http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 馬-astro SuperSport 1,http://198.16.64.10:8278/Assp1/playlist.m3u8?tid=MCDC9658624196586241&ct=19225&tsum=f9632aea1944f3d01b5d30a0dd0f1962
 Baby TV,http://198.16.64.10:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
@@ -104,7 +105,8 @@ VIUTV,http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct
 中視 HD,http://198.16.64.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB8B7313326473133264&ct=19226&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 中視新聞 HD,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
 
-==動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+Test3,#genre#
+動物星球,http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 亞洲旅遊台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 亞洲旅遊台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
@@ -187,7 +189,8 @@ TVBS歡樂台 HD,http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?tid=MC8C23
 中視 HD,http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 中視新聞 HD,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 
-===衛視中文台 HD,http://123.51.229.65:18504/.m3u8
+Test4,#genre#
+衛視中文台 HD,http://123.51.229.65:18504/.m3u8
 緯來體育,http://123.51.229.65:18509/.m3u8
 龍華戲劇,http://123.51.229.65:18513/.m3u8
 東森財經 HD,http://123.51.229.65:18515/.m3u8
@@ -203,7 +206,8 @@ NHK,http://123.51.229.65:18525/.m3u8
 鳳凰中文,http://123.51.229.65:18580/.m3u8
 鳳凰資訊,http://123.51.229.65:18581/.m3u8
 
-====華視 HD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
+Test5,#genre#
+華視 HD,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 國家地理,http://218.32.47.179:18509/.m3u8
 動物星球,http://218.32.47.179:18512/http/192.168.1.9:8081/hls/70/812/ch37.m3u8
@@ -236,7 +240,8 @@ Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloombe
 NHK World,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
 MOMO綜合,http://218.32.47.179:8579/http/60.249.81.21:8088/hls/76/818/momo_max.m3u8
 
-=====中天新闻,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
+Test6,#genre#
+中天新闻,http://103.214.71.71:1654/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 TVBS56,http://103.214.71.71:1657/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 民视新闻,http://103.214.71.71:1660/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
 三立新闻+,http://103.214.71.71:1663/www.zhiboyuandakatv.xyz/MAX_3-Days.m3u8?md5=Yodspj026JZEzcXdOtomcQ&expires=1671178780
