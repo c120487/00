@@ -1,0 +1,99 @@
+{
+//"cookie": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/bili.txt",  
+//"cookie": "https://raw.githubusercontent.com/c120487/00/main/bili_cookie.txt",  
+"cookie": "_uuid=5E4B2B98-1014A-84D8-FA33-EC210C5BEC10DA82367infoc; buvid3=E9D0A426-85E9-E6C7-C75E-206A3E1BEB4D81910infoc; b_nut=1666168082; buvid4=4FC87B9C-3540-2275-688C-8612D3EA719B81910-022101916-ZLe640jXRAMHySuaCe9aUw==; rpdid=|(k|u)YYm)uY0J'uYYYuY)uuu; i-wanna-go-back=-1; fingerprint=9c214a6da0197a48e576ccf22e9f0ac7; buvid_fp_plain=undefined; nostalgia_conf=-1; DedeUserID=3493076028885079; DedeUserID__ckMd5=60a8757a1f4d6ae9; buvid_fp=9c214a6da0197a48e576ccf22e9f0ac7; CURRENT_QUALITY=80; b_ut=5; PVID=2; bp_video_offset_3493076028885079=undefined; bsource=search_google; SESSDATA=42b8ada6,1683277266,4bd05*b2; bili_jct=2dbe39aea02b41324395630a24d4775f; sid=89gnel66; innersign=0; b_lsid=9EF63922_1844D55A286; CURRENT_FNVAL=4048",  
+
+"classes":[
+{"type_name":"4K资源","type_id":"4K"},
+{"type_name":"8K资源","type_id":"8K"},
+
+{"type_name":"杜比全景声","type_id":"杜比全景声"},
+{"type_name":"杜比视界","type_id":"杜比视界"},
+{"type_name":"Dolby Digital","type_id":"Dolby Digital"},
+{"type_name":"Dolby Digital Plus","type_id":"Dolby Digital Plus"},
+{"type_name":"Dolby Atmos","type_id":"Dolby Atmos"},
+{"type_name":"Dolby Vision","type_id":"Dolby Vision"},
+{"type_name":"Dolby Cinema","type_id":"Dolby Cinema"},
+
+{"type_name":"張韶涵","type_id":"張韶涵"},
+{"type_name":"吉高由里子","type_id":"吉高由里子"},
+
+{"type_name":"司藤","type_id":"司藤"}
+],
+
+"filter":{
+	
+"4K":[
+{"key":"order","name":"排序","value":[
+{"n":"综合排序","v":"0"},
+{"n":"最多点击","v":"click"},
+{"n":"最新发布","v":"pubdate"},
+{"n":"最多弹幕","v":"dm"},
+{"n":"最多收藏","v":"stow"}
+]},
+{"key":"tid","name":"分类","value":[
+{"n":"全部","v":"4K"},
+{"n":"HDR","v":"4K HDR"},
+{"n":"电影","v":"4k电影"},
+{"n":"4k120帧","v":"4k120帧"},
+{"n":"4k60帧","v":"4k60帧"}
+]}
+],
+
+
+"張韶涵":[
+{"key":"order","name":"排序","value":[
+{"n":"综合排序","v":"0"},
+{"n":"最多点击","v":"click"},
+{"n":"最新发布","v":"pubdate"},
+{"n":"最多弹幕","v":"dm"},
+{"n":"最多收藏","v":"stow"}
+]},
+{"key":"tid","name":"分类","value":[
+{"n":"全部","v":"張韶涵"},
+{"n":"孤勇者","v":"張韶涵 孤勇者"},
+{"n":"如愿","v":"張韶涵 如愿"},
+{"n":"歌手","v":"張韶涵 歌手"},
+{"n":"天赐的声音","v":"張韶涵 天賜"}
+]}
+],
+
+
+"吉高由里子":[
+{"key":"order","name":"排序","value":[
+{"n":"综合排序","v":"0"},
+{"n":"最多点击","v":"click"},
+{"n":"最新发布","v":"pubdate"},
+{"n":"最多弹幕","v":"dm"},
+{"n":"最多收藏","v":"stow"}
+]},
+{"key":"tid","name":"分类","value":[
+{"n":"全部","v":"吉高由里子"},
+{"n":"二十岁的挑战","v":"二十岁的挑战 吉高由里子"},
+{"n":"综艺","v":"吉高由里子 综艺"},
+{"n":"最爱","v":"吉高由里子 最爱"},
+{"n":"蛇舌","v":"吉高由里子 蛇舌"}
+]}
+],
+
+
+
+"司藤":[
+{"key":"order","name":"排序","value":[
+{"n":"综合排序","v":"0"},
+{"n":"最多点击","v":"click"},
+{"n":"最新发布","v":"pubdate"},
+{"n":"最多弹幕","v":"dm"},
+{"n":"最多收藏","v":"stow"}
+]},
+{"key":"tid","name":"分类","value":[
+{"n":"全部","v":"司藤"},
+{"n":"花絮","v":"司藤花絮"},
+{"n":"服装","v":"司藤服装"},
+{"n":"电视剧","v":"司藤电视剧"},
+{"n":"白英","v":"司藤白英"}
+]}
+]
+
+}
+}
