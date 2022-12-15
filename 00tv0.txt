@@ -151,7 +151,6 @@
 //
 //
 //drpy js
-
 {"key":"dr_独播库[飞]","name":"🕵独播库[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/独播库[飞].js"},
 {"key":"dr_KUBO影视[飞]","name":"🕵KUBO影视[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/KUBO影视[飞].js"},
 {"key":"dr_吼吼[飞]","name":"🕵吼吼[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/吼吼[飞].js"},
@@ -194,6 +193,7 @@
 //{"key":"csp_XYQ_kgmv","name":"🌐酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://47.242.90.42:8888/down/9xHiIEai0Jyy"},
 
 
+{"key":"Unsort","name":"🗿 Backup ============","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},
 //
 //
 //
@@ -270,12 +270,6 @@
 //
 //
 //
-{"key":"Unsort","name":"🗿以下未整理,供搜尋用,官方資源","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},
-
-//
-//
-//from https://agit.ai/Yoursmile7/TVBox/src/branch/master/XC.json
-{"key":"1102_CSP","name":"🪧1123 ==================","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},
 
 //
 //
@@ -286,7 +280,7 @@
 //
 //
 //End, search, recommendation and summary
-{"key":"1212_Search","name":"🔍 Backup ============","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},  
+{"key":"1212_Search","name":"🔍 Search ==========","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},  
 
 {"key":"T4Demo","name":"🔍T4 Demo‍","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"T4Backup","name":"🔍T4 Backup‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":1},
