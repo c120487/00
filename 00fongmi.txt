@@ -29,9 +29,12 @@
 {"key":"00Xiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
 
+{"key":"00SP293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+
 //
 //
 //
+{"key":"00CZSPP","name":"🐞厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Lezhu","name":"🐞乐猪","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"00LiteApple","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Nkdy","name":"🐞南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
@@ -56,7 +59,6 @@
 {"key":"00csp_Anime1","name":"🐞动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Dm84","name":"🐞动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"00SP293","name":"🐞293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 
 //Slow
 {"key":"00csp_fant","name":"🐞饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
@@ -64,7 +66,6 @@
 {"key":"00csp_Voflix","name":"🐞Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
 //No feedback
-{"key":"00CZSPP","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00ZJMiao","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_77","name":"酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00csp_Anfuns","name":"Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
