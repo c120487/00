@@ -6,8 +6,9 @@
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
-{"name":"Your Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
+{"name":"YourSmail Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
 {"name":"Fongmi Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00fongmi.txt"},
+{"name":"FXZ Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00FXZ.txt"},
 {"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 {"name":"Peter x0","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"},
