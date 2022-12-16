@@ -1,5 +1,5 @@
 ﻿{
-//test Yoursmile Jar
+//
 "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt

@@ -1,6 +1,6 @@
 ﻿{
 //
-"spider":"https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/FXZ15.png",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
@@ -8,7 +8,7 @@
 
 "sites": [
 //Date,search and score
-{"key":"date","name":"🐈‍🐈FongMi🐈‍🐈‍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"date","name":"🐈‍🐈FXZ🐈‍🐈‍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
 {"key":"ffDB00","name":"🗂豆瓣(可篩選,有評分)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/drpy.js"},
