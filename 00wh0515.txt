@@ -16,11 +16,11 @@
 {"name":"xx 72","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
 {"name":"xxx 82","url":"https://github.com/c120487/CatVodSpider/raw/main/json/adult.json"},
 {"name":"xxxx 72","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
-{"name":"FongMix 82","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
+{"name":"Fongmi x 82","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
 
 {"name":"Yoursmile 87","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"多多v 120","url":"https://gitlab.com/duomv/duo/-/raw/main/v.json"},
-{"name":"多多m 120","url":"https://gitlab.com/duomv/duo/-/raw/main/v.json"},
+{"name":"多多m 120","url":"https://gitlab.com/duomv/duo/-/raw/main/m.json"},
 {"name":"多多t 119","url":"https://gitlab.com/duomv/duo/-/raw/main/t.json"},
 {"name":"TVUrl-Merge 597","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 {"name":"神器每日推送 112","url":"https://神器每日推送.tk/pz.json"},
