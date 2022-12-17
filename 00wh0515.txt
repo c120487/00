@@ -1,7 +1,7 @@
 ﻿{"urls":[
 
 {"name":"Peter","url":"https://raw.githubusercontent.com/c120487/00/main/00tv0.txt"},
-{"name":"Peter2","url":"https://raw.githubusercontent.com/c120487/00/main/00tv20221214.txt"},
+{"name":"Peter2","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
 {"name":"Wendy","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
