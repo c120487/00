@@ -17,8 +17,8 @@
 
 "sites": [
 //Date and personal sites
-{"key":"date","name":"🐈‍🐈1215🐈‍🐈‍","type":3,"api":"csp_Tangrenjie","searchable":0,"quickSearch":0,"filterable":1},
-//{"key":"date","name":"🐈‍🐈1209🐈‍🐈‍","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐影院[飞].js"},
+{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
+//{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Tangrenjie","searchable":0,"quickSearch":0,"filterable":1},
 
 
 {"key":"fffollow","name":"👍0515","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0515.json","searchable":0,"quickSearch":0,"filterable":1},
