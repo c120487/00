@@ -1,23 +1,23 @@
 🐘🐘 0814 🐘🐘,#genre#
-
 愛爾達體育1,http://cdn6.nfbrauq.cn/besttv/IR11.stream/playlist.m3u8
 愛爾達體育01,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
 愛爾達體育001,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
-
 
 愛爾達體育2,http://cdn6.nfbrauq.cn/besttv/IR22.stream/playlist.m3u8
 愛爾達體育02,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 愛爾達體育002,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 
-
 愛爾達體育3,http://cdn6.nfbrauq.cn/besttv/IR33.stream/playlist.m3u8
 愛爾達體育03,https://elta.irtblztjwzxz000041.xyz/elta/download/33/index.m3u8
 愛爾達體育003,http://198.16.64.10:8278/eltasport3_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 
-CCTV5,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
-CCTV05,http://219.151.31.36/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8
+CCTV05,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
+CCTV005,http://219.151.31.36/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8 
+
 CCTV5+,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 CCTV05+,http://219.151.31.36/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+
 博斯網球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 博斯網球,http://198.16.64.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 博斯運動2,http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
