@@ -17,7 +17,7 @@
 
 "sites": [
 //Date and personal sites
-{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
+{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
 //{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Tangrenjie","searchable":0,"quickSearch":0,"filterable":1},
 
 
