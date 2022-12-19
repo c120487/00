@@ -5,8 +5,15 @@
 
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
 
+  "lives": [    {
+      "group": "redirect",
+      "channels": [        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2R1b212L2R1by8tL3Jhdy9tYWluL3R4dC92LnR4dA=="
+          ]        }      ]   }  ],
 
 "sites": [
 //Date,search and score
