@@ -15,7 +15,6 @@
 
 "sites": [
 //Name and personal sites
-//{"key":"date","name":"🐘🐘 0814 🐘🐘","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
 {"key":"date","name":"🐘🐘 0814 🐘🐘","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
 
 
@@ -49,7 +48,7 @@
 //
 //
 //Major sites, jar
-{"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
+{"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00trj","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Xiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Xiaoh.jar?raw=true"},
