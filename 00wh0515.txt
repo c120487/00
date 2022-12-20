@@ -25,12 +25,12 @@
 {"name":"TVUrl-Merge 597","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 {"name":"神器每日推送 112","url":"https://神器每日推送.tk/pz.json"},
 {"name":"小雅js 156","url":"http://drpy.site/js1"},
-{"name":"dr_py 151","url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/custom.conf"},
 {"name":"霜辉月明py 22","url":"https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
 {"name":"FongMi 12","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 {"name":"刚刚","url":"http://刚刚.live/猫"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
+{"name":"dr_py 151","url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/custom.conf"},
 
 {"name":"SportTV(9999) 32","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"巧技 32","url":"http://pandown.pro/tvbox/tvbox.json"},
