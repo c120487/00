@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://github.com/c120487/00/blob/main/jar/Yoursmile1214.jar?raw=true",
+"spider":"https://github.com/c120487/00/blob/main/jar/Yoursmile1220.jar?raw=true",
 //"spider":"https://github.com/c120487/00/blob/main/00tv0515.jar?raw=true",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
@@ -17,8 +17,8 @@
 
 "sites": [
 //Date and personal sites
-{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
-//{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Tangrenjie","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"date","name":"🐈‍🐈1218🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
+{"key":"date","name":"🐈‍🐈1220🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
 
 
 {"key":"fffollow","name":"👍0515","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title0515.json","searchable":0,"quickSearch":0,"filterable":1},
