@@ -10,7 +10,6 @@
 {"name":"FXZ Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00FXZ.txt"},
 {"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
-{"name":"Peter x0","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx0.txt"},
 {"name":"Peter x1","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"x1 72","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
 {"name":"x2 82","url":"https://github.com/c120487/CatVodSpider/raw/main/json/adult.json"},
