@@ -20,7 +20,6 @@
 {"name":"Yoursmile 87","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"FongMi 14","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"多多v 128","url":"https://www.yydsys.top/duo/v.json"},
-{"name":"TVUrl-Merge 563","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 {"name":"神器每日推送 112","url":"https://神器每日推送.tk/pz.json"},
 {"name":"小雅js 157","url":"http://drpy.site/js1"},
 {"name":"QQ32394351 js0 146","url":"https://raw.githubusercontent.com/c120487/00/main/js0.json"},
@@ -42,7 +41,8 @@
 {"name":"🐟云星哔哩","url":"http://maoyingshi.cc/tvbox/云星日记/bili.json"},
 {"name":"🐅云星阿里","url":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8"},
 
-{"name":"dr_py 151","url":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/base/custom.conf"},
+{"name":"TVUrl-Merge 563","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
+
 
 {"name":"🚴🏻五刀 51","url":"https://dxawi.github.io/0/0.json"},
 {"name":"源享家 267","url":"http://000913.xyz/box/1128.json"},
