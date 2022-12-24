@@ -12,10 +12,9 @@
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 {"name":"Peter x1","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"x1 72","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
-{"name":"x2 82","url":"https://github.com/c120487/CatVodSpider/raw/main/json/adult.json"},
-{"name":"x3 72","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
-{"name":"x4 82","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
-{"name":"X5 104","url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json"},
+{"name":"x2 72","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
+{"name":"x3 82","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
+{"name":"X4 104","url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json"},
 
 {"name":"Yoursmile 87","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"FongMi 14","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
