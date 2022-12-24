@@ -1,6 +1,6 @@
 ﻿{
-
-"spider":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true",
+"spider": "https://github.com/c120487/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//"spider":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00live05155.txt
 "lives":[{"group":"redirect","channels":[{"name":"liveX","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMGxpdmUwNTE1NS50eHQ="]}]}],
@@ -19,7 +19,7 @@
  {"name":"秋雨","server":"https://share.laowang.me","password":"s8;K^h[j<b"}
  ]}},
 
-{"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
+{"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
 {"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},

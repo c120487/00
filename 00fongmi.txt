@@ -1,6 +1,6 @@
 ﻿{
 //
-"spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+"spider": "https://github.com/c120487/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00tvlive.txt
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMHR2bGl2ZS50eHQ="]} ]}],
@@ -29,7 +29,7 @@
 //
 //
 //Major sites, jar
-{"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00trj","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Xiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
