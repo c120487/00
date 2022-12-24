@@ -31,6 +31,8 @@
 {"name":"刚刚","url":"http://刚刚.live/猫"},
 {"name":"饭太硬 92","url":"http://饭太硬.ga/x/o.json"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
+{"name":"手机编程","url":"http://tv.nxog.top/api.php?mz=xb&id=1&b=手机编程"},
+
 {"name":"巧技(9999) 32","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"📡电视直播🏪专用口 62","url":"http://52bsj.vip:98/1314"},
 
