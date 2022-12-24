@@ -28,19 +28,19 @@
 {"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Hanime","name":"🐞Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"dr_猫了个咪","name":"猫了个咪(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/猫了个咪.js"},
-{"key":"dr_天天开心","name":"18av(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/18av.js"},
-{"key":"dr_Missav","name":"MissAV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/Missav.js"},
-{"key":"dr_跑TV","name":"跑TV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/跑TV.js"},
+{"key":"dr_猫了个咪","name":"猫了个咪(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/猫了个咪.js"},
+{"key":"dr_天天开心","name":"18av(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/18av.js"},
+{"key":"dr_Missav","name":"MissAV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/Missav.js"},
+{"key":"dr_跑TV","name":"跑TV(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/跑TV.js"},
 
 
-{"key":"dr_banan","name":"banan(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/banan.js"},
-{"key":"dr_养端","name":"养端(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/养端.js"},
-{"key":"dr_吸瓜","name":"吸瓜(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/吸瓜.js"},
-{"key":"dr_朱古力","name":"朱古力(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/朱古力.js"},
-{"key":"dr_玩偶姐姐","name":"玩偶姐姐(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/玩偶姐姐.js"},
+{"key":"dr_banan","name":"banan(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/banan.js"},
+{"key":"dr_养端","name":"养端(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/养端.js"},
+{"key":"dr_吸瓜","name":"吸瓜(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/吸瓜.js"},
+{"key":"dr_朱古力","name":"朱古力(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/朱古力.js"},
+{"key":"dr_玩偶姐姐","name":"玩偶姐姐(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/玩偶姐姐.js"},
 
-{"key":"dr_欧乐18","name":"🕵欧乐18","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐18.js"},
+{"key":"dr_欧乐18","name":"🕵欧乐18","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐18.js"},
 
 //
 //
