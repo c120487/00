@@ -1,12 +1,5 @@
 {
-"class":[{"type_id":"0515","type_name":"點播",
-"list":[
-{"vod_id":"點播","vod_name":"联邦调查局 第五季","vod_remarks":"FBI Season 5","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg"},
-{"vod_id":"點播","vod_name":"联邦调查局：通缉要犯 第四季","vod_remarks":"FBI: Most Wanted","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg"}
-]},
-
-{"type_id":"marvel","type_name":"Marvel"}
-],
+"class":[{"type_id":"0515","type_name":"點播"}],
 
 "list":[
 {"vod_name":"联邦调查局 第五季","vod_remarks":"FBI Season 5","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg"},
