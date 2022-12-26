@@ -1,10 +1,12 @@
 {
-"class":[{"type_id":"","type_name":"點播"}],
+"class":[{"type_id":"0515","type_name":"點播"},
+{"type_id":"marvel","type_name":"Marvel"}
+],
 "list":[
-{"vod_name":"联邦调查局 第五季","vod_remarks":"FBI Season 5","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg"},
-{"vod_name":"联邦调查局：通缉要犯 第四季","vod_remarks":"FBI: Most Wanted","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg"},
-{"vod_name":"联邦调查局：国际","vod_remarks":"FBI: International","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/yJ0zmBpcUzJbMDxu25PCBBgqaQR.jpg"},
-{"vod_name":"菜鸟老警：联邦调查员","vod_remarks":"The Rookie: Feds","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/sxNKjLrqUDlRzyu4LwLGDUvtUxw.jpg"},
+{"vod_id":"點播","vod_name":"联邦调查局 第五季","vod_remarks":"FBI Season 5","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg"},
+{"vod_id":"點播","vod_name":"联邦调查局：通缉要犯 第四季","vod_remarks":"FBI: Most Wanted","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/tOzp2EFBmKGGFhmJtDa6Npvpe4P.jpg"},
+{"vod_id":"Marvel","vod_name":"联邦调查局：国际","vod_remarks":"FBI: International","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/yJ0zmBpcUzJbMDxu25PCBBgqaQR.jpg"},
+{"vod_id":"Marvel","vod_name":"菜鸟老警：联邦调查员","vod_remarks":"The Rookie: Feds","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/sxNKjLrqUDlRzyu4LwLGDUvtUxw.jpg"},
 {"vod_name":"紧急呼救 第六季","vod_remarks":"9-1-1","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/89ZV0IBrNa1EFmivRN6jl0sti1n.jpg"},
 {"vod_name":"紧急呼救","vod_remarks":"9-1-1","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/jvStfYRsDrcVymTEgRbyHqpBXwz.jpg"},
 {"vod_name":"紧急呼救孤星第三季","vod_remarks":"9-1-1: Lone Star","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/fyW4ex9owJcUU9VNel64l1tvXgF.jpg"},
