@@ -1,7 +1,6 @@
 ﻿{
-"spider":"https://github.com/c120487/00/blob/main/jar/Yoursmile1220.jar?raw=true",
-//"spider":"https://github.com/c120487/00/blob/main/00tv0.jar?raw=true",
-//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+//"spider":"https://github.com/c120487/00/blob/main/jar/Yoursmile1220.jar?raw=true",
+"spider":"https://github.com/c120487/00/blob/main/jar/pc1228.jar?raw=true",
 
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00live0814.txt
