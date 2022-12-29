@@ -6,10 +6,11 @@
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
 {"name":"YourSmail Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
-{"name":"Top98 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00top98.txt"},
 {"name":"Fongmi Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00fongmi.txt"},
 {"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
-{"name":"FXZ Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00FXZ.txt"},
+{"name":"泥巴 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00top98.txt"},
+{"name":"小寶 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00FXZ.txt"},
+{"name":"SP293 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00SP293.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 {"name":"Peter x1","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"x1 72","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
