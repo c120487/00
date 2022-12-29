@@ -1,6 +1,6 @@
 ﻿{
 //"spider":"https://github.com/c120487/00/blob/main/jar/Yoursmile1220.jar?raw=true",
-"spider":"https://github.com/c120487/00/blob/main/jar/pc1229.jar?raw=true",
+"spider":"https://github.com/c120487/00/blob/main/jar/pc12292.jar?raw=true",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
 
@@ -45,7 +45,7 @@
 //{"key":"00If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00trj","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Xiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"00olevod","name":"🐞ole(VPN)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"dr_if101[飞]","name":"🕵if101[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/if101[飞].js"},
 {"key":"dr_唐人街影视","name":"🕵唐人街影视[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/唐人街影视[飞].js"},
