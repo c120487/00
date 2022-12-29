@@ -1,6 +1,6 @@
 ﻿{
 //"spider":"https://github.com/c120487/00/blob/main/jar/Yoursmile1220.jar?raw=true",
-"spider":"https://github.com/c120487/00/blob/main/jar/pc12292.jar?raw=true",
+"spider":"https://github.com/c120487/00/blob/main/jar/pc1229.jar?raw=true",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
 
