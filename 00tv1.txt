@@ -124,6 +124,12 @@
 //
 //
 //Major sites, offical API
+{"key":"00海外看","name":"🐝海外看影视","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00非凡采集","name":"🐝非凡影视","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00淘片影视","name":"🐝淘片影视","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "001080zyk","name": "🐝1080ZYK","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php","searchable": 1,"quickSearch": 1}, 
+
+
 {"key":"00MBO","name":"🐝MBO","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00快播资源","name":"🐝快播","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"00番茄资源","name":"🐝番茄v","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://dp.fqplayer.com/dplayer/?url="},
