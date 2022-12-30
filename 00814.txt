@@ -40,6 +40,7 @@
 {"key":"xxtrj","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xxXiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
+
 {"key":"dr_if101[飞]","name":"🕵if101[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/if101[飞].js"},
 {"key":"dr_唐人街影视","name":"🕵唐人街影视[飞]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/唐人街影视[飞].js"},
 
