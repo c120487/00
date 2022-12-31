@@ -1,15 +1,9 @@
 ﻿{"urls":[
 
-{"name":"Yoursmile 86","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-{"name":"俊佬 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"FongMi 14","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"俊佬 23","url":"http://home.jundie.top:81/top98.json"},
+{"name":"Yoursmile 86","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"多多家庭接口 128","url":"https://www.yydsys.top/duo/v.json"},
-{"name":"老刘备 285","url":"https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
-{"name":"小苹果 129","url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json"},
-{"name":"神器每日推送 99","url":"https://神器每日推送.tk/pz.json"},
-{"name":"dlgt7 48","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
-{"name":"dxawi 49","url":"https://dxawi.github.io/0/0.json"},
-{"name":"ABC接口 158","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
 {"name":"佰欣园 196","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
 
 {"name":"小雅js 157","url":"http://drpy.site/js1"},
@@ -20,21 +14,14 @@
 {"name":"肥猫","url":"http://刚刚.live/猫"},
 {"name":"饭太硬 92","url":"http://饭太硬.ga/x/o.json"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
-{"name":"云星家庭版","url":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8"},
-{"name":"蚂蚁论坛","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
 {"name":"手机编程","url":"http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"},
 
 {"name":"巧技(9999) 32","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"电视直播🏪专用口 62","url":"http://52bsj.vip:98/1314"},
 
-{"name":"月光宝盒 96","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
-{"name":"太阳 56","url":"http://miaotvs.cn/osc"},
-
-{"name":"云星哔哩","url":"http://maoyingshi.cc/tvbox/云星日记/bili.json"},
-{"name":"云星阿里","url":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8"},
-
-{"name":"TVUrl-Merge 563","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
-{"name":"潇洒 904","url":"https://download.kstore.space/download/2863/01.txt"},
+{"name":"heroaku 692","url":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/ptest.json"},
+{"name":"TVUrl-Merge 547","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
+{"name":"潇洒 905","url":"https://download.kstore.space/download/2863/01.txt"},
 
 {"name":"","url":""}
 ]}
