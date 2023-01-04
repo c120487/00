@@ -17,9 +17,11 @@
 {"name":"x2 72","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
 {"name":"x3 82","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
 {"name":"X4 104","url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json"},
+{"name":"X5 51","url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json"},
 
 {"name":"Fongmi 14","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"俊佬 23","url":"http://home.jundie.top:81/top98.json"},
+{"name":"大眼宝藏 35","url":"https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 {"name":"Yoursmile 86","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"多多家庭接口 128","url":"https://www.yydsys.top/duo/v.json"},
 {"name":"佰欣园 196","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
