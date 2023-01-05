@@ -27,6 +27,7 @@
 {"name":"一木 88","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
 {"name":"月光宝盒 97","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 {"name":"多多 131","url":"https://www.yydsys.top/duo/v.json"},
+{"name":"Gao 160","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 {"name":"佰欣园 196","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
 
 {"name":"霜辉月明py 17","url":"https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
