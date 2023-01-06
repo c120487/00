@@ -22,15 +22,14 @@
 
 {"name":"Fongmi 14","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
-{"name":"大眼宝藏 35","url":"https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
+{"name":"大眼宝藏 35","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 {"name":"Yoursmile 85","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"一木 88","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
-{"name":"月光宝盒 97","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 {"name":"多多 131","url":"https://www.yydsys.top/duo/v.json"},
 {"name":"Gao 160","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
-{"name":"佰欣园 196","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt"},
+{"name":"佰欣园 196","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/020102.json"},
 
-{"name":"霜辉月明py 17","url":"https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"},
+{"name":"霜辉月明py 26","url":"https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"},
 {"name":"小雅js 157","url":"http://drpy.site/js1"},
 {"name":"QQ32394351drpy2 146","url":"https://raw.githubusercontent.com/c120487/00/main/js0.json"},
 {"name":"楞牛哥Dora 36","url":"https://agit.ai/lengniuge/tv/raw/branch/master/ts"},
@@ -40,6 +39,7 @@
 {"name":"唐三","url":"https://hutool.ml/tang"},
 {"name":"手机编程","url":"http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"},
 
+{"name":"月光宝盒 97","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 {"name":"巧技(9999) 32","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"电视直播🏪专用口 62","url":"http://52bsj.vip:98/1314"},
 
