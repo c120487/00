@@ -60,9 +60,6 @@
 //
 //
 //主題
-{"key":"Sport","name":"⚽Sport","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/c120487/00/blob/main/jar/Dora.jar?raw=true"},
-{"key":"世界杯record","name":"⚽世界杯回放","type":4,"api":"http://120.53.102.254/t4/sjb","searchable":0,"quickSearch":0,"filterable":1},
-
 {"key":"ffDrama","name":"📺Drama","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00Drama0515.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
@@ -265,6 +262,9 @@
 {"key":"00NMTV","name":"️🖥️柠檬TV","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/nmtv.json"},
 {"key":"00qezb","name":"🖥️企鵝直播","type":3,"api":"csp_XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/qezb.json"},
 //{"key":"csp_XYQ_kgmv","name":"🌐酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://47.242.90.42:8888/down/9xHiIEai0Jyy"},
+{"key":"Sport","name":"⚽Sport","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/c120487/00/blob/main/jar/Dora.jar?raw=true"},
+{"key":"世界杯record","name":"⚽世界杯回放","type":4,"api":"http://120.53.102.254/t4/sjb","searchable":0,"quickSearch":0,"filterable":1},
+
 
 //
 //
