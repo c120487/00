@@ -151,7 +151,7 @@
 //
 //
 //sport and live
-{"key":"1102_Sport","name":"🎾🏸🏓Sport🏓🏸🎾","type":0,"api":""},
+{"key":"1102_Sport","name":"🎾🏓Sport🏓🎾","type":0,"api":""},
 
 {"key":"Sport","name":"⚽Sport","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/c120487/00/blob/main/jar/Dora.jar?raw=true"},
 {"key":"世界杯record","name":"⚽世界杯回放","type":4,"api":"http://120.53.102.254/t4/sjb","searchable":0,"quickSearch":0,"filterable":1},
@@ -164,7 +164,7 @@
 //
 //
 //special function
-{"key":"cloud0114","name":"☁☁☁Cloud☁☁☁","type":0,"api":""},
+{"key":"cloud0114","name":"☁☁Cloud☁☁","type":0,"api":""},
 {"key":"ffAlistP","name":"💿Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"紙條","name":"🏷紙條","type":3,"api":"csp_Paper","searchable":0,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":"https://github.com/c120487/00/blob/main/jar/Nbys.jar?raw=true"},
 {"key":"Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
@@ -175,12 +175,12 @@
 //
 //
 //
-{"key":"Unsort","name":"🗿🗿🗿Backup🗿🗿🗿","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"Unsort","name":"🗿🗿Backup🗿🗿","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},
 //
 //
 //
 //type 1, api: Json url, 1116
-{"key":"11Json","name":"🐝🐝🐝type 1🐝🐝🐝","type":0,"api":""},  
+{"key":"11Json","name":"🐝🐝type 1🐝🐝","type":0,"api":""},  
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -235,7 +235,7 @@
 //{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
 //{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"}
 //Type3, api:AppYsV2
-{"key":"33AppYsV2","name":"🏠🏠🏠type 3🏠🏠🏠","type":0,"api":""},  
+{"key":"33AppYsV2","name":"🏠🏠type 3🏠🏠","type":0,"api":""},  
 {"key":"33_555","name":"🏠555","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://555dy3.com/api.php/app/"},
 {"key":"33暖光影视","name":"🏠暖光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"33_2号币","name":"🏠2号币","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod"},
@@ -257,7 +257,7 @@
 //
 //
 //End, search, recommendation and summary
-{"key":"1212_Search","name":"🔍🔍🔍Search🔍🔍🔍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},  
+{"key":"1212_Search","name":"🔍🔍Search🔍🔍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},  
 
 {"key":"T4Demo","name":"🔍T4 Demo‍","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"T4Backup","name":"🔍T4 Backup‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":1},
