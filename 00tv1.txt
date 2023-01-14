@@ -120,7 +120,7 @@
 //Slow
 {"key":"00csp_fant","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00SP360","name":"360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"00csp_Voflix","name":"🐞oflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00csp_Voflix","name":"Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
 //No feedback
 {"key":"00csp_77","name":"酷云","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
