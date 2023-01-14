@@ -49,10 +49,10 @@
 {"key":"xx003","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xx004","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"aa001","name":"愛壹帆(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.iyf1.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"aa002","name":"lol(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"aa004","name":"華樂(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.huale.org/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"aa003","name":"海外看(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://haiwaikan.com/index.php/vod/type/id/{cateId}/page/{catePg}.html"},
+{"key":"aa001","name":"愛壹帆","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.iyf1.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"aa002","name":"lol","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"aa004","name":"華樂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.huale.org/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"aa003","name":"海外看","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://haiwaikan.com/index.php/vod/type/id/{cateId}/page/{catePg}.html"},
 
 
 
