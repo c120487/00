@@ -13,9 +13,8 @@
 
 "categories":["福利","福利片","伦理片"],
 "sites":[
-{"key":"date","name":"️💃👠👙 1209 ️👙👠💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05155.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"date","name":"️💃👠👙0114️👙👠💃","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0,},
 
-{"key":"csp_bendi","name":"📺本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/00bili05155.json", "jar":"https://github.com/c120487/00/blob/main/Yoursmile1203.jar?raw=true"},
 
 {"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":0,"filterable":1,"ext":{"drives":[
@@ -23,6 +22,11 @@
  {"name":"木偶","server":"https://www.kugutsu.ml"},
  {"name":"秋雨","server":"https://share.laowang.me","password":"s8;K^h[j<b"}
  ]}},
+
+{"key":"vv001","name":"️💃VOD1💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"vv002","name":"️👠VOD2👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"vv003","name":"️👙VOD3👙","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
+
 
 {"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
 {"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
