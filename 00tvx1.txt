@@ -7,7 +7,7 @@
 //"lives":[{"group":"redirect","channels":[{"name":"liveX","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMGxpdmUwNTE1NS50eHQ="]}]}],
 "lives":[
 	{"name":"直播1","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05155.txt"},
-	{"name":"直播2","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live051555.txt"}
+	{"name":"直播2","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live051555.txt"},
 	{"name":"直播3","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"}
 
 ],
@@ -202,23 +202,12 @@
 //
 //
 //
-{"key":"Unsort","name":"🗿以下未整理,供搜尋用,官方資源","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},
-
-//
-//
-//from https://agit.ai/Yoursmile7/TVBox/src/branch/master/XC.json
-{"key":"1102_CSP","name":"🪧1123 ==================","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},
-
-//
-//
-//
-//
 
 //
 //
 //
 //End, search, recommendation and summary
-{"key":"1212_Search","name":"🔍 Backup ============","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},  
+{"key":"1212_Search","name":"🔍🔍Search🔍🔍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},  
 
 {"key":"T4Demo","name":"🔍T4 Demo‍","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"T4Backup","name":"🔍T4 Backup‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":1},
