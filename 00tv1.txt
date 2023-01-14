@@ -39,7 +39,18 @@
 //
 //
 
+{"key":"xx1","name":"低端影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ddys.pro/category/{cateId}/page/{catePg}/"},
+{"key":"xx2","name":"愛迪","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://aidi.tv/show/{cateId}--------{catePg}---.html"},
+{"key":"xx3","name":"麥豆","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.mdoutv.com/movie_bt_series/{cateId}/page/{catePg}"},
+{"key":"xx4","name":"萬博","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wanbotv.com/wbs/{cateId}/page/{catePg}.html"},
 
+{"key":"bb1","name":"歐帝","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.odivod.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"bb2","name":"l0l","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"bb3","name":"多瑙","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://duonaovod.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"bb4","name":"小寶","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xiaoheimi.net/index.php/vod/type/id/{cateId}/page/{catePg}.html"},
+
+
+//
 //
 //
 //Major sites, jar
