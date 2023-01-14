@@ -49,10 +49,6 @@
 {"key":"xx003","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"xx004","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"aa001","name":"愛壹帆","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.iyf1.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"aa002","name":"lol","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"aa004","name":"華樂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.huale.org/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"aa003","name":"KanAV","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kanav.one/vod/type/{cateId}/{catePg}.html"},
 
 
 
@@ -172,11 +168,11 @@
 
 {"key":"csp_xb_lgyys","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_zbk","name":"真不卡(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_cokemv","name":"cokemv(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-
+{"key":"csp_xb_cokemv","name":"COKEMV(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_lez","name":"乐猪(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":{"homeUrl":"http://www.lezhutv.com/type/{cateId}-{datePg}.html","playlist":{"sort":1}}},
 {"key":"csp_xb_ysgc","name":"影视工厂(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_lib","name":"LIB(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.me/type/{cateId}-{catePg}.html"},
+{"key":"csp_xb_huale","name":"華樂(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.huale.org/vodshow/{cateId}--------{catePg}---.html"},
 
 //
 //
