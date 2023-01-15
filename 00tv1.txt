@@ -30,14 +30,6 @@
 {"key":"ff002","name":"🗂豆瓣(備用)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ff003","name":"🗂If101(可篩選)","type":3,"api":"csp_If101","searchable":0,"quickSearch":0,"filterable":1},
 
-//
-//
-//
-{"key":"xbhdmoli","name":"🕷HDmoli","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
-{"key":"bulei","name":"🕷BuLei","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-
-
-
 
 //
 //
@@ -70,6 +62,14 @@
 {"key":"dd004","name":"🕷歐帝","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.odivod.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"dd005","name":"🕷COKEMV","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"dd006","name":"🕷華樂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.huale.org/vodshow/{cateId}--------{catePg}---.html"},
+
+
+//
+//
+//
+{"key":"xbhdmoli","name":"🕷HDmoli","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
+{"key":"bulei","name":"🕷BuLei","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+
 
 
 
