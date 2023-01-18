@@ -5,6 +5,8 @@
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
+{"name":"==Test==","url":""},
+
 {"name":"Yoursmile Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
 {"name":"俊于Nbys Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00top98.txt"},
 {"name":"小寶Xiaoh Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00FXZ.txt"},
@@ -12,6 +14,8 @@
 {"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
 {"name":"SP293 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00SP293.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
+
+{"name":"==Good==","url":""},
 
 {"name":"Peter x1","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"FongMi 74","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
@@ -21,6 +25,8 @@
 {"name":"mmtekamu 51","url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json"},
 {"name":"Gao9918 96","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
 {"name":"28176 163","url":"http://52bsj.vip:98/0805"},
+
+{"name":"==updated==","url":""},
 
 {"name":"Fongmi 15","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
@@ -37,6 +43,9 @@
 {"name":"刚刚","url":"http://刚刚.live/猫"},
 {"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
+{"name":"吾愛","url":"http://52bsj.vip:98/wuai"},
+
+{"name":"==backup==","url":""},
 
 {"name":"巧技(9999) 34","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"月光宝盒 97","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
@@ -98,7 +107,6 @@
 {"name":"🎵小白接口 96","url":"https://卧槽.live/好骚"},
 {"name":"🦊四大网盘大全集 187","url":"https://agit.ai/hu/hcr/raw/branch/master/haoh.txt"},
 {"name":"🌈N接口 139","url":"https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt"},
-{"name":"🐍五爱","url":"http://52bsj.vip:98/wuai"},
 {"name":"🍦冰河 328","url":"https://ju.binghe.ga/4.txt"},
 {"name":"🧞二刀 98","url":"https://agit.ai/Jonwall/Box/raw/branch/a/T20.json"},
 {"name":"🏓魔力宝贝 91","url":"http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0"},
