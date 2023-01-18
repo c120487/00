@@ -5,7 +5,7 @@
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
-{"name":"==Test==","url":""},
+{"name":"🧪🧪Test🧪🧪","url":""},
 
 {"name":"Yoursmile Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
 {"name":"俊于Nbys Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00top98.txt"},
@@ -15,7 +15,7 @@
 {"name":"SP293 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00SP293.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 
-{"name":"==Good==","url":""},
+{"name":"🧯🧯🧯🧯🧯🧯","url":""},
 
 {"name":"Peter x1","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"FongMi 74","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
@@ -26,7 +26,7 @@
 {"name":"Gao9918 96","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
 {"name":"28176 163","url":"http://52bsj.vip:98/0805"},
 
-{"name":"==updated==","url":""},
+{"name":"📌📌updated📌📌","url":""},
 
 {"name":"Fongmi 15","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
@@ -45,7 +45,7 @@
 {"name":"唐三","url":"https://hutool.ml/tang"},
 {"name":"吾愛","url":"http://52bsj.vip:98/wuai"},
 
-{"name":"==backup==","url":""},
+{"name":"📝📝backup📝📝","url":""},
 
 {"name":"巧技(9999) 34","url":"http://cdn.qiaoji8.com/tvbox.json"},
 {"name":"月光宝盒 97","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
