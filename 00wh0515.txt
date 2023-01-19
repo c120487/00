@@ -39,6 +39,8 @@
 {"name":"手机编程","url":"http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"},
 
 {"name":"小雅js 157","url":"http://drpy.site/js1"},
+{"name":"drpy2 160","url":"https://raw.githubusercontent.com/c120487/dr_py/master/js.json"},
+
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 {"name":"刚刚","url":"http://刚刚.live/猫"},
 {"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
