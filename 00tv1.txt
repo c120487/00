@@ -73,7 +73,7 @@
 {"key":"dyxs","name":"🕷Dyxs","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dyxs29.com/pianku-{cateId}--------{catePg}---/"},
 {"key":"99itv","name":"🕷99itv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://99itv.net/show/{cateId}--------{catePg}---.html"},
 {"key":"dy111","name":"🕷dy111","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dy111.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"hoho","name":"🕷hoho","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hoho.tv/vod/show/{cateId}/page/{catePg}.html"},
+//{"key":"hoho","name":"🕷hoho","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hoho.tv/vod/show/{cateId}/page/{catePg}.html"},
 {"key":"kokyy","name":"🕷kokyy","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kokyy.com/koks/kok{cateId}/page/{catePg}.html"},
 {"key":"l0l","name":"🕷l0l","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"xiaobao","name":"🕷xiaobao","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaobao.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
