@@ -71,6 +71,9 @@
 {"key":"bulei","name":"🕷BuLei","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dyds","name":"🕷Dyds","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dyds8.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html"},
 {"key":"dyxs","name":"🕷Dyxs","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dyxs29.com/pianku-{cateId}--------{catePg}---/"},
+{"key":"99itv","name":"🕷99itv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://99itv.net/show/{cateId}--------{catePg}---.html"},
+{"key":"dy111","name":"🕷dy111","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dy111.me/vodshow/{cateId}--------{catePg}---.html"},
+
 
 {"key":"drpy_js_大师兄影视","name":"影视 | 大师兄影视[js]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/大师兄影视.js"},
 {"key":"drpy_js_电影先生","name":"影视 | 电影先生[js]","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/电影先生.js"},
