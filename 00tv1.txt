@@ -194,8 +194,8 @@
 //
 //
 //XBPQ, XBiu
-{"key":"csp_xb_yyds","name":"🕷YYDS影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_ngys","name":"🕷南瓜影视(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page/{catePg}.html"},
+{"key":"csp_xb_yyds","name":"🕷YYDS影院(XBPQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_ngys","name":"🕷南瓜影视(XBPQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page/{catePg}.html"},
 
 {"key":"csp_xb_dsxys","name":"🕷大師兄","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_nongmi","name":"🕷農民","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.nongminys.cc/R/{cateId}-{catePg}.html"},
