@@ -1,5 +1,8 @@
 {
-"class":[{"type_id":"0515","type_name":"點播"}],
+"class":[
+ {"type_id":"0515","type_name":"點播"},
+ {"type_id":"05152","type_name":"點播2"}
+],
 
 "list":[
 {"vod_name":"联邦调查局 第五季","vod_remarks":"FBI Season 5","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg"},
@@ -58,4 +61,22 @@
 
 {"vod_name":"","vod_remarks":"","vod_pic":""}
 ]
+},
+
+{
+	"page": 1, // 当前页
+	"pagecount": 2, // 总共几页
+	"limit": 60, // 每页几条数据
+	"total": 120, // 总共多少调数据
+	"list": [{ // 视频列表 下面的视频结构 同上面homeContent中的
+		"vod_id": "1897",
+		"vod_name": "北区侦缉队",
+		"vod_pic": "https:\/\/pic.imgdb.cn\/item\/6145d4b22ab3f51d91bd98b6.jpg",
+		"vod_remarks": "7.3"
+	}, {
+		"vod_id": "1879",
+		"vod_name": "浪客剑心 最终章 人诛篇",
+		"vod_pic": "https:\/\/pic.imgdb.cn\/item\/60e3f37e5132923bf82ef95e.jpg",
+		"vod_remarks": "8.0"
+	}]
 }
