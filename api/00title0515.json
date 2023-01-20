@@ -60,10 +60,8 @@
 {"vod_name":"英雄联盟：双城之战","vod_remarks":"Arcane","vod_pic":"https://www.themoviedb.org/t/p/w440_and_h660_face/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"},
 
 {"vod_name":"","vod_remarks":"","vod_pic":""}
-]
-},
+],
 
-{
 	"page": 1, // 当前页
 	"pagecount": 2, // 总共几页
 	"limit": 60, // 每页几条数据
