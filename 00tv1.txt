@@ -218,8 +218,8 @@
 //
 //
 //XBPQ
-//{"l0l","name":"🕷l0l","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-//{"key":"xbhdmoli","name":"🕷HDmoli","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
+{"key":"xbpq_l0l","name":"🕷l0l","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"xbpq_hdmoli","name":"🕷HDmoli","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
 
 //XBiu
 {"key":"xb_xiaobao","name":"🕷xiaobao","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaobao.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
