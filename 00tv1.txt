@@ -1,7 +1,7 @@
 ﻿{
 //"spider":"https://github.com/c120487/00/blob/main/jar/pc0120.jar?raw=true",
-//"spider":"http://home.jundie.top:81/jar/top98_1.jar",
-"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"spider":"http://home.jundie.top:81/jar/top98_1.jar",
+//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
 
 "lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
@@ -75,7 +75,7 @@
 {"key":"csp_xb_yyds","name":"🕷YYDS影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
 
     {"key": "csp_XBPQ_南瓜影视",
-      "name": "南瓜影视",
+      "name": "南瓜影视(XBPQ)",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
