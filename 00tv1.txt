@@ -49,7 +49,7 @@
 {"key":"bb006","name":"🐝快車","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"dd001","name":"🕷大師兄","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"dd002","name":"🕷歐帝","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.odivod.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"dd002","name":"🕷l0l","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dd003","name":"🕷海兔","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.haitu.tv/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dd004","name":"🕷dy111","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dy111.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"dd005","name":"🕷COKEMV","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
@@ -220,10 +220,10 @@
 //XBPQ from yoursmile
 
 //XP XBPQ2 form Jundie
-{"key":"xbpq_l0l","name":"🕷l0l","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"xbpq_hdmoli","name":"🕷HDmoli","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
 
 //XBiu
+{"key":"xb_odi","name":"🕷歐帝","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.odivod.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"xb_xiaobao","name":"🕷xiaobao","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaobao.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"xb_xiaoheimi","name":"🕷xiaoheimi","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaoheimi.net/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"xb_huale","name":"🕷華樂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.huale.org/vodshow/{cateId}--------{catePg}---.html"},
