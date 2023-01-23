@@ -385,7 +385,7 @@
         "🌨秋雨分享": "https://share.laowang.me",
         "💦讯维云盘": "https://pan.xwbeta.com"
       }
-	}
+	},
 
 {"key":"紙條","name":"🏷紙條Paper","type":3,"api":"csp_Paper","searchable":0,"filterable":1,"ext":"https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
 {"key":"Gitcafe","name":"📜小纸条Gitcafe","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
