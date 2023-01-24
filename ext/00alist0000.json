@@ -1,6 +1,5 @@
 
 {"drives":[
-
 {"name":"杜比","server":"https://dubi.tk"},
 {"name":"DISK","server":"http://124.222.140.243:8080"},
 {"name":"一只鱼","server":"https://alist.youte.ml"},
@@ -19,6 +18,6 @@
 {"name":"晴园","server":"https://alist.52qy.repl.co"},
 {"name":"触光","server":"https://pan.ichuguang.com"},
 {"name":"帅盘","server":"https://hi.shuaipeng.wang"},
-{"name":"资源小站","server":"https://960303.xyz"}
 
+{"name":"资源小站","server":"https://960303.xyz"}
 ]}
