@@ -1,5 +1,6 @@
 ﻿{
-"spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
+"spider":"https://github.com/c120487/CatVodSpider/raw/main/jar/custom_spider.jar",
+//"spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
 //"spider":"https://github.com/c120487/00/blob/main/jar/pc0123.jar?raw=true",
 //"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
