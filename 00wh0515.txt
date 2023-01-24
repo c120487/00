@@ -39,7 +39,7 @@
 {"name":"刚刚","url":"http://刚刚.live/猫"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
 {"name":"吾愛","url":"http://52bsj.vip:98/wuai"},
-{"name":"tvbox-line 206","url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/custom_site.json"},
+//{"name":"tvbox-line 206","url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/custom_site.json"},
 {"name":"蚂蚁论坛 455","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
 {"name":"Baby 497","url":"https://gitee.com/babyisbreath/jlmcom/raw/master/xc.json"},
 {"name":"TVUrl-Merge 546","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
