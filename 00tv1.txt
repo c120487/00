@@ -70,43 +70,6 @@
 {"key":"s001","name":"🧪🧪 test 🧪🧪‍","type":0,"api":"","searchable":0,"quickSearch":0},
 
 
-{"key":"csp_xBPQ_ 零零七","name":"🍀零零七（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
-{"key":"csp_xBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
-{"key":"csp_xb_yyds","name":"🕷YYDS影院(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
-
-    {"key": "csp_XBPQ_南瓜影视",
-      "name": "南瓜影视(XP)",
-      "type": 3,
-      "api": "csp_XP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
-    },
-	
-    {
-      "key": "csp_xbpq_lgyy",
-      "name": "蓝光影院(XP)",
-      "type": 3,
-      "api": "csp_XP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-    },
-	
-    {
-      "key": "csp_xb_lgyys",
-      "name": "蓝光影院(XBiu)",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
-    },
-
-
 
 
 
@@ -218,11 +181,18 @@
 //
 //
 //XBPQ from yoursmile
+{"key":"csp_xBPQ_ 零零七","name":"🍀零零七（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
+{"key":"csp_xBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
 
-//XP XBPQ2 form Jundie
-{"key":"xbpq_hdmoli","name":"🕷HDmoli","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
+//XBPQ form Jundie, rename to XP
+{"key":"xbpq_hdmoli","name":"🕷HDmoli(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
+{"key":"csp_xb_yyds","name":"🕷YYDS影院(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
+{"key":"csp_XBPQ_南瓜影视","name":"南瓜影视(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
+{"key":"csp_xbpq_lgyy","name":"蓝光影院(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+
 
 //XBiu
+{"key":"csp_xb_lgyys","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"xb_odi","name":"🕷歐帝","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.odivod.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"xb_xiaobao","name":"🕷xiaobao","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaobao.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"xb_xiaoheimi","name":"🕷xiaoheimi","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xiaoheimi.net/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
