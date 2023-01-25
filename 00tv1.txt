@@ -1,7 +1,7 @@
 ﻿{
 //"spider":"https://github.com/c120487/00/raw/main/jar/pc0125.jar",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-//"spider":"http://home.jundie.top:81/jar/top98_1.jar",
+"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 //"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
 

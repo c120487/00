@@ -1,9 +1,9 @@
 ﻿{
 //"spider":"https://github.com/c120487/00/raw/main/jar/xc0125.jar",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-//"spider":"http://home.jundie.top:81/jar/top98_1.jar",
+"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 //"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-"spider":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
+//"spider":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
 
 //"spider":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/sdsdnruk.jar",
 //"spider": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar",
