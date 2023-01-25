@@ -70,14 +70,24 @@
 //
 //Test
 {"key":"s001","name":"🧪🧪 test 🧪🧪‍","type":0,"api":"","searchable":0,"quickSearch":0},
+
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/alist.json"},
+{"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
+{"key":"PanSou","name":"😽盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+{"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_push","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+
 {"key":"00If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Xiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00olevod","name":"🐞Olevod(VPN)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"00xphkb","name":"🕷好佈(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.haokongbu1.com/{cateId}/index_{catePg}.html[firstPage=https://www.haokongbu1.com/{cateId}/]"},
-{"key":"00xbhkb","name":"🕷好佈(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.haokongbu1.com/{cateId}/index_{catePg}.html[firstPage=https://www.haokongbu1.com/{cateId}/]"},
-{"key":"00xbpqhkb","name":"🕷好佈(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.haokongbu1.com/{cateId}/index_{catePg}.html[firstPage=https://www.haokongbu1.com/{cateId}/]"},
+{"key":"00xp555","name":"🕷555(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"00xb555","name":"🕷555(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"00xbpq555","name":"🕷555(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"},
 
 {"key":"00xpdxs","name":"🕷大師兄(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---{year}.html"},
 {"key":"00xbdxs","name":"🕷大師兄(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---{year}.html"},
@@ -343,10 +353,10 @@
 {"key":"00bendi","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 
 {"key":"cloud0114","name":"☁☁Cloud☁☁","type":0,"api":""},
-{"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json","jumpDetail":0,"reversePlay":0,"enable":1},
-{"key":"js_Alist","name":"Alist(js)","type":3,"api":"https://raw.githubusercontent.com/c120487/dr_py/master/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json"},
-{"key":"csp_Paper","name":"📜小纸条Paper","type":3,"api":"csp_Paper","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
-{"key":"Gitcafe","name":"📜小纸条Gitcafe","type":3,"api":"csp_Gitcafe","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json","jar":"https://www.yydsys.top/duo/jar/duox.jar"},
+//{"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json","jumpDetail":0,"reversePlay":0,"enable":1},
+//{"key":"js_Alist","name":"Alist(js)","type":3,"api":"https://raw.githubusercontent.com/c120487/dr_py/master/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json"},
+//{"key":"csp_Paper","name":"📜小纸条Paper","type":3,"api":"csp_Paper","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
+//{"key":"Gitcafe","name":"📜小纸条Gitcafe","type":3,"api":"csp_Gitcafe","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json","jar":"https://www.yydsys.top/duo/jar/duox.jar"},
 
 {"key":"Tbook","name":"📚听书网","type":3,"api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://github.com/c120487/00/blob/main/jar/Dora.jar?raw=true"},
 {"key":"00NMTV","name":"️🖥️柠檬TV","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/nmtv.json"},
@@ -481,13 +491,19 @@
 "parses":[
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
+//{"name":"Json并发","type":2,"url":"Parallel"},
+//{"name":"Json轮询","type":2,"url":"Sequence"},
+
+{"name":"全部","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="},
+{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
 {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"lgzy","type":1,"url":"https://www.1920lgzy.top/json.php?url="},
+{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"未知","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
 {"name":"可与","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"酷享影视","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"未知","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
+
 {"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="}
  ],
 
