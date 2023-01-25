@@ -33,7 +33,7 @@
 {"key":"aa001","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa002","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa003","name":"🐞布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa004","name":"🐞胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa004","name":"🐞双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa005","name":"🐞哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa006","name":"🐞新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -57,6 +57,7 @@
 {"key":"cc004","name":"🕵欧乐影院","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐影院[飞].js"},
 {"key":"cc005","name":"🕵多瑙影视","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/多瑙影视.js"},
 {"key":"cc006","name":"🕵爱壹帆","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","ext":"https://github.com/c120487/dr_py/raw/master/js/爱壹帆.js","searchable":2,"quickSearch":1,"filterable":1},
+
 
 
 
