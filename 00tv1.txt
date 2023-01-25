@@ -1,7 +1,7 @@
 ﻿{
 //"spider":"https://github.com/c120487/CatVodSpider/raw/main/jar/custom_spider.jar",
 //"spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
-"spider":"https://github.com/c120487/00/blob/main/jar/pc0123.jar?raw=true",
+"spider":"https://github.com/c120487/00/raw/main/jar/pc0125.jar",
 //"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
@@ -51,7 +51,7 @@
 {"key":"bb006","name":"🐝快車","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"dd001","name":"🕷大師兄","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"dd002","name":"🕷l0l","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"dd002","name":"🕷l0l","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dd003","name":"🕷海兔","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.haitu.tv/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dd004","name":"🕷dy111","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dy111.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"dd005","name":"🕷COKEMV","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
@@ -84,31 +84,34 @@
 {"key":"00Xiaoh","name":"🐞小宝(VPN)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00olevod","name":"🐞Olevod(VPN)","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"00xp333","name":"🕷333(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ylwt33.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"},
+{"key":"00xp333","name":"🕷333(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ylwt33.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"},
 {"key":"00xb333","name":"🕷333(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ylwt33.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"},
 {"key":"00xbpq333","name":"🕷333(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ylwt33.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"},
 
 
-{"key":"00xp555","name":"🕷555(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"00xp555","name":"🕷555(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"00xb555","name":"🕷555(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"00xbpq555","name":"🕷555(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"},
 
-{"key":"00xpdxs","name":"🕷大師兄(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---{year}.html"},
+{"key":"00xpdxs","name":"🕷大師兄(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---{year}.html"},
 {"key":"00xbdxs","name":"🕷大師兄(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---{year}.html"},
 {"key":"00xbpqdxs","name":"🕷大師兄(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---{year}.html"},
 
-{"key":"00xpcoke","name":"🕷COKEMV(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---{year}.html"},
+{"key":"00xpcoke","name":"🕷COKEMV(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---{year}.html"},
 {"key":"00xbcoke","name":"🕷COKEMV(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---{year}.html"},
 {"key":"00xbpqcoke","name":"🕷COKEMV(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---{year}.html"},
 
-{"key":"00xplgyy","name":"蓝光影院(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---{year}.html"},
+{"key":"00xplgyy","name":"蓝光影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---{year}.html"},
 {"key":"00xblgyy","name":"蓝光影院(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---{year}.html"},
 {"key":"00xbpqlgyy","name":"蓝光影院(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---{year}.html"},
 
-{"key": "xp外剧","name": "🧸外剧(XP)","type": 3,"api": "csp_XP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.waijumi.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+{"key": "xp外剧","name": "🧸外剧(XP)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.waijumi.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 {"key": "xb外剧","name": "🧸外剧(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.waijumi.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 {"key": "xbpq外剧","name": "🧸外剧(XBPQ)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.waijumi.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 
+{"key": "xp外剧","name": "🧸外剧(XP)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.waijumi.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+{"key": "xb外剧","name": "🧸外剧(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.waijumi.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+{"key": "xbpq外剧","name": "🧸外剧(XBPQ)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.waijumi.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 
 //
 //
@@ -219,10 +222,10 @@
 {"key":"csp_xBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
 
 //XBPQ form Jundie, rename to XP
-{"key":"xbpq_hdmoli","name":"🕷HDmoli(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
-{"key":"csp_xb_yyds","name":"🕷YYDS影院(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
-{"key":"csp_XBPQ_南瓜影视","name":"南瓜影视(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
-{"key":"csp_xbpq_lgyy","name":"蓝光影院(XP)","type":3,"api":"csp_XP","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"xbpq_hdmoli","name":"🕷HDmoli(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
+{"key":"csp_xb_yyds","name":"🕷YYDS影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
+{"key":"csp_XBPQ_南瓜影视","name":"南瓜影视(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
+{"key":"csp_xbpq_lgyy","name":"蓝光影院(XP)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
 
 
 //XBiu
