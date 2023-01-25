@@ -1,6 +1,6 @@
 ﻿{
-"spider":"https://github.com/c120487/00/raw/main/jar/xBPQ0111x.jar",
-//"spider":"https://github.com/c120487/00/raw/main/jar/xc0125.jar",
+//"spider":"https://github.com/c120487/00/raw/main/jar/xBPQ0111x.jar",
+"spider":"https://github.com/c120487/00/raw/main/jar/xc0125.jar",
 //"spider": "https://github.com/c120487/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 //"spider":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true",
 //"spider":"http://home.jundie.top:81/jar/top98_1.jar",
