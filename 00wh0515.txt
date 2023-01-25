@@ -51,7 +51,7 @@
 {"name":"Peter 163","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"FongMi 74","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
 {"name":"TVBOXZY 70","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json"},
-{"name":"TVBOXZY2 101","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/vip.json"},
+{"name":"TVBOXZY2 101","url":"https://raw.githubusercontent.com/c120487/00/main/vip.json"},
 {"name":"37624 72","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
 {"name":"MM 72","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
 {"name":"zzzgit 104","url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json"},
