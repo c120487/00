@@ -1,7 +1,7 @@
 ﻿{
 //"spider": "https://github.com/c120487/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 //"spider":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true",
-"spider":"https://github.com/c120487/00/raw/main/jar/xBPQ1107.jar",
+"spider":"https://github.com/c120487/00/raw/main/jar/xc0125.jar",
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00live05155.txt
 //"lives":[{"group":"redirect","channels":[{"name":"liveX","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMGxpdmUwNTE1NS50eHQ="]}]}],
