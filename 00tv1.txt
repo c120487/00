@@ -1,10 +1,10 @@
 ﻿{
 
-//,"jar":"https://github.com/c120487/00/raw/main/jar/xBPQ0111x.jar"
+"spider":"https://github.com/c120487/00/raw/main/jar/xBPQ0111x.jar"
 //"spider":"https://github.com/c120487/00/raw/main/jar/pc0125.jar",
 //"spider":"https://github.com/c120487/CatVodSpider/raw/main/jar/custom_spider.jar",
 //"spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
-"spider":"http://home.jundie.top:81/jar/top98_1.jar",
+//"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://github.com/c120487/TVBOXZY/raw/main/JAR/Yoursmile2.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
