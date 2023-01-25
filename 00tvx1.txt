@@ -40,11 +40,11 @@
 {"key":"Hanime","name":"🐞Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"csp_xBPQ_左临右射","name":"左临右射","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/左临右射.json"},
-{"key":"csp_xBPQ_掏爱撸","name":"掏爱撸","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/掏爱撸.json"},
+{"key":"csp_xBPQ_左临右射","name":"左临右射 (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/左临右射.json"},
+{"key":"csp_xBPQ_掏爱撸","name":"掏爱撸 (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/掏爱撸.json"},
 
-{"key":"csp_xBPQ_天天综合","name":"天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/天天综合.json"},
-{"key":"csp_xBPQ_天天直播","name":"天天直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/天天直播.json"},
+{"key":"csp_xBPQ_天天综合","name":"天天综合 (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/天天综合.json"},
+{"key":"csp_xBPQ_天天直播","name":"天天直播 (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/天天直播.json"},
 
 
 {"key":"dr_猫了个咪","name":"猫了个咪(drpy)","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/猫了个咪.js"},
@@ -61,13 +61,13 @@
 
 {"key":"dr_欧乐18","name":"🕵欧乐18","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/欧乐18.js"},
 
-{"key":"18avv","name":"️18AV影视(H规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/18mm.json"},
-{"key":"lover","name":"️爱人影院(H规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/lover.json"},
-{"key":"sgp","name":"️水果派(H规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/sgp.json"},
-{"key":"yaya","name":"️雅雅(H规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yaya.json"},
-{"key":"zhyz","name":"最后一站(H规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/zhyz.json"},
-{"key":"s嗷嗷","name":"️nowav(H规则)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/881.json"},
-{"key":"淫大代表","name":"淫大代表(规则)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yddb.json","jar":"https://download.kstore.space/download/3450/xo1232.jar;md5;0f907ac84d81b38e5c9d8479e279880d"},
+{"key":"18avv","name":"️18AV影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/18mm.json"},
+{"key":"lover","name":"️爱人影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/lover.json"},
+{"key":"sgp","name":"️水果派(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/sgp.json"},
+{"key":"yaya","name":"️雅雅(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yaya.json"},
+{"key":"zhyz","name":"最后一站(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/zhyz.json"},
+{"key":"s嗷嗷","name":"️nowav(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/881.json"},
+{"key":"淫大代表","name":"淫大代表(xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yddb.json","jar":"https://download.kstore.space/download/3450/xo1232.jar;md5;0f907ac84d81b38e5c9d8479e279880d"},
 
 //
 //
