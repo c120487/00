@@ -1,7 +1,7 @@
 ﻿{
 //"spider":"https://github.com/c120487/CatVodSpider/raw/main/jar/custom_spider.jar",
 //"spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
-"spider":"https://github.com/c120487/00/raw/main/jar/XBPQ_0111 single.jar",
+"spider":"https://github.com/c120487/00/raw/main/jar/XBPQ_0111_single.jar",
 //"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 //"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"https://gitlab.com/duomv/duo/-/raw/main/jar/czzy1123.jar",
