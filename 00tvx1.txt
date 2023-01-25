@@ -1,14 +1,21 @@
 ﻿{
-//"spider":"https://github.com/c120487/00/raw/main/jar/xBPQ0111x.jar",
-"spider":"https://github.com/c120487/00/raw/main/jar/xc0125.jar",
-//"spider": "https://github.com/c120487/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
-//"spider":"https://github.com/c120487/00/blob/main/Nbys_CatVodSpider.jar?raw=true",
+//"spider":"https://github.com/c120487/00/raw/main/jar/xc0125.jar",
+"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 //"spider":"http://home.jundie.top:81/jar/top98_1.jar",
-//"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-//"spider":"https://github.com/c120487/TVBOXZY/raw/main/JAR/Yoursmile2.jar",
+//"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//"spider":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar"
 
-//live source https://raw.githubusercontent.com/c120487/00/main/00live05155.txt
-//"lives":[{"group":"redirect","channels":[{"name":"liveX","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2MxMjA0ODcvMDAvbWFpbi8wMGxpdmUwNTE1NS50eHQ="]}]}],
+//"spider":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/sdsdnruk.jar"
+//"spider": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar",
+//"spider": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar",
+//"spider":"https://www.yydsys.top/duo/jar/duox.jar"
+//"spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar",
+
+//"spider":"https://github.com/c120487/00/raw/main/jar/xBPQ0111x.jar"
+//"spider":"https://github.com/c120487/CatVodSpider/raw/main/jar/custom_spider.jar",
+//"spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
+
+
 "lives":[
 	{"name":"直播1","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05155.txt"},
 	{"name":"直播2","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live051555.txt"},
