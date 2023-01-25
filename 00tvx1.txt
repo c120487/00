@@ -34,10 +34,10 @@
 {"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
 {"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Hanime","name":"🐞Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"MissAV","name":"🐞MissAV","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Hanime","name":"🐞Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"csp_xBPQ_左临右射","name":"左临右射 (xBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/左临右射.json"},
