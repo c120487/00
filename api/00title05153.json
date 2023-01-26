@@ -2,17 +2,16 @@
 "class":[{"type_id":"","type_name":"點播"}],
 
 "list":[
-{"vod_name":"小桃","vod_pic":"","vod_remarks":""},
-{"vod_name":"沈娜娜","vod_pic":"","vod_remarks":""},
-{"vod_name":"吳夢夢","vod_pic":"","vod_remarks":""},
-{"vod_name":"蘇暢","vod_pic":"","vod_remarks":""},
-{"vod_name":"沈娜娜","vod_pic":"","vod_remarks":""},
+{"vod_name":"小桃","vod_pic":"http://a228.static-file.com/shared/upload/video/202209/20220926144738_6834.jpg.thumb.jpg","vod_remarks":""},
+{"vod_name":"沈娜娜","vod_pic":"http://a530.static-file.com/shared/upload/video/202212/20221218160759_5868.jpg.thumb.jpg","vod_remarks":""},
+{"vod_name":"吳夢夢","vod_pic":"https://p1-news.hfcdn.com/p1-news/MzIyMjQ1OG5ld3M,/5d063982248a125d_1600x932.jpg","vod_remarks":""},
+{"vod_name":"蘇暢","vod_pic":"http://a226.static-file.com/shared/upload/video/202104/20210414074746_3609.jpg.thumb.jpg","vod_remarks":""},
 {"vod_name":"陳子雨","vod_pic":"","vod_remarks":""},
-{"vod_name":"張芸熙","vod_pic":"","vod_remarks":""},
-{"vod_name":"趙一曼","vod_pic":"","vod_remarks":""},
-{"vod_name":"郭童童","vod_pic":"","vod_remarks":""},
-{"vod_name":"唐霏","vod_pic":"","vod_remarks":""},
-{"vod_name":"夏晴子","vod_pic":"","vod_remarks":""},
+{"vod_name":"張芸熙","vod_pic":"http://a413.static-file.com/shared/upload/video/202106/20210606134626_4324.jpg.thumb.jpg","vod_remarks":""},
+{"vod_name":"趙一曼","vod_pic":"https://madou.club/covers/2021/12/07e256ecb2295b4-240x180.jpg","vod_remarks":""},
+{"vod_name":"郭童童","vod_pic":"http://a512.static-file.com/shared/upload/video/202108/20210815124717_5103.jpg.thumb.jpg","vod_remarks":""},
+{"vod_name":"唐霏","vod_pic":"https://madou.club/covers/2022/03/ad30e6f6759c2d5-240x180.jpg","vod_remarks":""},
+{"vod_name":"夏晴子","vod_pic":"http://a226.static-file.com/shared/upload/video/202106/20210602084851_5719.jpg.thumb.jpg","vod_remarks":""},
 
 
 
