@@ -59,15 +59,15 @@
 {"key":"s嗷嗷","name":"️nowav(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/881.json"},
 
 {"key":"91色色","name":"91sesex(XBiu)","type":3,"api":"csp_xBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/79.json"},
-{"key":"2022xxj","name":"2022xxj(xBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/2022xxj.json"},
-{"key":"麻豆传媒","name":"麻豆传媒(xBiu)","type":3,"api":"csp_xBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/madou.json"},
-{"key":"Gaoav","name":"Gaoav(xBiu)","type":3,"api":"csp_xBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/Gaoav.json"},
-{"key":"4k极客","name":"️4k极客(xBPQe)","type":3,"api":"csp_xBPQe","ext":"免嗅:1,分类url:https://www.i8k.cc/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}year/{year}.html"},
+{"key":"2022xxj","name":"2022xxj(xBiubiu)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/2022xxj.json"},
+{"key":"麻豆传媒","name":"麻豆传媒(xBiubiu)","type":3,"api":"csp_xBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/madou.json"},
+{"key":"Gaoav","name":"Gaoav(xBiubiu)","type":3,"api":"csp_xBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/Gaoav.json"},
+{"key":"4k极客","name":"️4k极客(xBPQe)","type":3,"api":"csp_xBPQe","ext":"https://www.i8k.cc/index.php/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}year/{year}.html"},
 
 //
 {"key":"s002","name":"🧪🧪xBPQx🧪🧪‍","type":0,"api":"","searchable":0,"quickSearch":0},
 
-{"key":"91色色","name":"91sesex(规则)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/%E5%A5%87%E7%91%9E.json"},
+{"key":"0091色色","name":"91sesex(规则)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/%E5%A5%87%E7%91%9E.json"},
 {"key":"测试","name":"CABLEAV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/qq.json"},
 {"key":"淫大代表","name":"淫大代表(xBPQ)","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/yddb.json"},
 {"key":"csp_xBPQ_AVideo","name":"AVideo","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/TVBOXZY/raw/main/xBPQ/AVideo.json"},
