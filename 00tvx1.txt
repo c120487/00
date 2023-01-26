@@ -60,6 +60,10 @@
 
 //
 {"key":"s002","name":"🧪🧪xBPQx🧪🧪‍","type":0,"api":"","searchable":0,"quickSearch":0},
+{"key":"吉利","name":"吉利(xBPQ)","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%90%89%e5%88%a9.json"},
+{"key":"大众","name":"大众(xBPQ)","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a4%a7%e4%bc%97.json"},
+{"key":"奇瑞","name":"奇瑞(xBPQ)","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a5%87%e7%91%9e.json"},
+{"key":"长城","name":"长城(xBPQ)","type":3,"api":"csp_xBPQx","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e9%95%bf%e5%9f%8e.json"},
 
 {"key":"0091色色","name":"91sesex(规则)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/%E5%A5%87%E7%91%9E.json"},
 {"key":"测试","name":"CABLEAV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/qq.json"},
