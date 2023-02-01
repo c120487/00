@@ -25,12 +25,12 @@
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"Fongmi 15","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"大眼宝藏 35","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
-{"name":"一木 88","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
-{"name":"月光宝盒 97","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
-{"name":"小河 100","url":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json"}, //XYQHiker
+{"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
+{"name":"月光宝盒 102","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
+{"name":"小河 102","url":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json"}, //XYQHiker
 {"name":"多多 129","url":"https://www.yydsys.top/duo/v.json"}, 
-{"name":"Gao(xBPQ) 79","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //xBPQ
-{"name":"Gao(drpy) 160","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //js
+{"name":"Gao(xBPQ) 82","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //xBPQ
+{"name":"Gao(drpy) 162","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //js
 {"name":"手机编程","url":"http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"},
 {"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
 
@@ -38,26 +38,28 @@
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 {"name":"刚刚","url":"http://刚刚.live/猫"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
-{"name":"吾愛","url":"http://52bsj.vip:98/wuai"},
+{"name":"吾愛 80","url":"http://52bsj.vip:98/wuai"},
 //{"name":"tvbox-line 206","url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/custom_site.json"},
 {"name":"蚂蚁论坛 455","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
-{"name":"TVBOXZY 393","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json"},
+{"name":"TVBOXZY 403","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json"},
 //{"name":"分類整理 497","url":"https://gitee.com/babyisbreath/jlmcom/raw/master/xc.json"},
-{"name":"TVUrl-Merge 546","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
+//{"name":"TVUrl-Merge 546","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 
 
 {"name":"🧯🧯🧯🧯🧯🧯","url":""},
 
 {"name":"Peter 163","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"FongMi 74","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
-{"name":"TVBOXZY 70","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json"},
-{"name":"TVBOXZY2 101","url":"https://raw.githubusercontent.com/c120487/00/main/vip.json"},
+{"name":"TVBOXZY 77","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json"},
+{"name":"TVBOXZY 101","url":"https://raw.githubusercontent.com/c120487/00/main/vip.json"},
 {"name":"37624 72","url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt"},
 {"name":"MM 72","url":"http://152.136.125.181:81/MM/dianbos/yeshijieC.json"},
 {"name":"zzzgit 104","url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json"},
 {"name":"mmtekamu 51","url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json"},
-{"name":"Gao(9918) 96","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+{"name":"Gao(9918) 94","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"},
+{"name":"18dxwoai 75","url":"http://52bsj.vip:81/api/v3/file/get/23452/dxwoai18+.txt?sign=BHuceT2ExGD0qhPwGDukpBVZELS79oJRmYLZ0VbcfUk%3D%3A0"},
 {"name":"28176 163","url":"http://52bsj.vip:98/0805"},
+{"name":"TVBOXZY 238","url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json?btwaf=69506961"},
 
 
 {"name":"📝📝backup📝📝","url":""},
