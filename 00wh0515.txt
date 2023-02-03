@@ -26,13 +26,13 @@
 {"name":"Fongmi 15","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"大眼宝藏 35","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 {"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
-{"name":"月光宝盒 102","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 {"name":"小河 102","url":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi.json"}, //XYQHiker
-{"name":"多多 129","url":"https://www.yydsys.top/duo/v.json"}, 
 {"name":"Gao(xBPQ) 82","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //xBPQ
+{"name":"多多 129","url":"https://www.yydsys.top/duo/v.json"}, 
 {"name":"Gao(drpy) 162","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //js
 {"name":"手机编程","url":"http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&xl=4"},
 {"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
+{"name":"月光宝盒 102","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 
 {"name":"小雅js 157","url":"http://drpy.site/js1"},
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
