@@ -12,7 +12,7 @@
 
 "sites": [
 //Name and personal sites
-{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_LiteApple","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"fffollow","name":"👍1028","type":4,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title1028.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00bili1028.json"},
 
@@ -29,7 +29,7 @@
 //
 //
 //Major sites, jar
-{"key":"aa001","name":"🐞泥巴(VPN)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa001","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa002","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa003","name":"🐞布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa004","name":"🐞双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
