@@ -45,12 +45,12 @@
 //
 //
 //Major sites, jar
-{"key":"aa001","name":"🇨🇳China1","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa002","name":"🇨🇳China2","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa003","name":"🇨🇳China3","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa004","name":"🇨🇳China4","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa005","name":"🇨🇳China5","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa006","name":"🇨🇳China6","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa001","name":"🐞Kunyu","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa002","name":"🐞360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa003","name":"🐞LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa004","name":"🐞Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa005","name":"🐞BuLei","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa006","name":"🐞Xinsj","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"bb001","name":"🐝海外看","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bb002","name":"🐝1080ZYK","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
