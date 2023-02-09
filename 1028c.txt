@@ -12,7 +12,7 @@
 
 "sites": [
 //Name and personal sites
-{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_Ddrk","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"fffollow","name":"👍1028","type":4,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title1028.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00bili1028.json"},
 
@@ -29,12 +29,12 @@
 //
 //
 //Major sites, jar
-{"key":"aa001","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa002","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa003","name":"🐞布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa004","name":"🐞双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa005","name":"🐞哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa006","name":"🐞新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa001","name":"🇨🇳China1","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa002","name":"🇨🇳China2","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa003","name":"🇨🇳China3","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa004","name":"🇨🇳China4","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa005","name":"🇨🇳China5","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"aa006","name":"🇨🇳China6","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"bb001","name":"🐝海外看","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bb002","name":"🐝1080ZYK","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":1,"quickSearch":1},
