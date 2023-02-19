@@ -16,9 +16,14 @@
 //"spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
 
 "lives":[
-	{"name":"直播1","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05155.txt"},
-	{"name":"直播2","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live051555.txt"},
-	{"name":"直播3","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"}
+	{"name":"05155","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05155.txt"},
+	{"name":"051555","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live051555.txt"},
+	{"name":"FongMi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
+	{"name":"TVBOXZY","type":0,"url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/live.txt"},
+	{"name":"Guo54","type":0,"url":"https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"},
+	{"name":"YanG","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
+	{"name":"GaoTian","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
+	{"name":"00","type":0,"url":""}
 
 ],
 
