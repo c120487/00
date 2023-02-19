@@ -1,14 +1,5 @@
-台港澳數據源導入文件 - 人，就愛亂玩~txt
 
-
-
-文章與影片教學：
-https://www.loveplay123.com/2020/11/tvv298-24.html
-
-
-----------------------------------------------------------
-
-##台-新聞##
+台-新聞,#genre#
 TVBS新聞 HD,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 TVBS新聞,http://50.7.220.74:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -133,7 +124,7 @@ SBN全球財經,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/sbn.m3u8
 ##
 
 
-##外語-新聞##
+外語-新聞,#genre#
 ABC NEWS LIVE,http://tv.redrainl.site:9500/live.m3u8?c=10
 ABC NEWS LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 ABC News,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/abcnewsus.m3u8
@@ -236,7 +227,7 @@ VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 ##
 
 
-##台-綜合##
+台-綜合,#genre#
 AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://198.16.64.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
@@ -533,7 +524,7 @@ EF運通,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/eftv.m3u8
 立法院 直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
 ##
 
-##陸-綜合##
+陸-綜合,#genre#
 纯享4K,http://111.11.123.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4k超高清,http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 CBN 每日影院,http://fyld.eatuo.com:9901/tsfile/live/1046_1.m3u8
@@ -594,7 +585,7 @@ VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
 蘇州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 ##
 
-##陸-直播##
+陸-直播,#genre#
 虎牙直播-韓-RunningMan1,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
 鬥魚直播-韓-RunningMan2,http://epg.112114.xyz/douyu/131977
 鬥魚直播-韓-RunningMan3,http://epg.112114.xyz/douyu/7298973
@@ -667,7 +658,7 @@ Bili直播-黃餘奇趣電影賞,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc
 Bili直播-影視巷 開心看劇,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/264952/live_11791932_8306012_1500/index.m3u8
 ##
 
-##海外衛視##
+海外衛視,#genre#
 小太陽,http://198.16.64.10:8278/Xiaotaiyang/playlist.m3u8?tid=MB3B7040387670403876&ct=19225&tsum=7406552381d844c4a83251cf91e80384
 雙星,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256
 新加坡lU,http://50.7.220.74:8278/ChannelU/playlist.m3u8?tid=m014a6e987db6&ct=18336&tsum=fa5cb77a8be6edc061828d231e5769f9
@@ -710,7 +701,7 @@ TVBS亞洲,https://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880b
 新唐人亞太台,http://tv.redrainl.site:9500/live.m3u8?c=52
 ##
 
-##電影##
+電影,#genre#
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/.m3u8
 影迷數位電影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
 緯來電影 HD,https://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
@@ -925,7 +916,7 @@ WarnerTV,http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MEAE194057151940571
 ##
 
 
-##電影輪播##
+電影輪播,#genre#
 鬥魚電影-Firend黎伽嘛,http://epg.112114.xyz/douyu/8603174
 鬥魚電影-IMAX影廳,http://epg.112114.xyz/douyu/4332
 鬥魚電影-Liz陪看,http://epg.112114.xyz/douyu/7254536
@@ -1101,7 +1092,7 @@ Bili電影-阿梅 電影大片24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bv
 Bili電影-喜劇動作僵屍24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/791978/live_14659392_8620418_minihevc/index.m3u8
 ##
 
-##電影影評##
+電影影評,#genre#
 鬥魚影評-宇宙無敵韓三金,http://epg.112114.xyz/douyu/3194372
 鬥魚影評-大白話來也,http://epg.112114.xyz/douyu/9412287
 鬥魚影評-小黑講電影,http://epg.112114.xyz/douyu/8867878
@@ -1156,7 +1147,7 @@ Bili電影-喜劇動作僵屍24H,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc
 虎牙影評-南西視頻,http://txtest-xp2p.p2p.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
 ##
 
-##連續劇輪播##
+連續劇輪播,#genre#
 鬥魚連續劇-水滸傳,http://epg.112114.xyz/douyu/6785471
 鬥魚連續劇-老三國,http://epg.112114.xyz/douyu/7459925
 鬥魚連續劇-皆大歡喜,http://epg.112114.xyz/douyu/5689514
@@ -1249,7 +1240,7 @@ Bili連續劇-KZ娛樂盒子 電視劇24H輪播,https://cn-sccd-ct-01-10.bilivid
 Bili連續劇-東北一家人,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/485203/live_603861051_18683809_1500/index.m3u8
 ##
 
-##人文##
+人文,#genre#
 亞洲旅遊台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/chunklist.m3u8
 亞洲旅遊台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 亞洲旅遊台,http://220.134.196.147:9523/index.m3u8
@@ -1423,7 +1414,7 @@ ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?%243840x2160
 ##
 
-##體育##
+體育,#genre#
 緯來體育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 緯來體育,http://123.51.229.65:18509/.m3u8
 緯來體育,http://198.16.64.10:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
@@ -1836,7 +1827,7 @@ V Sports UHD,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&s
 ##
 
 
-##幼幼&動漫##
+幼幼&動漫,#genre#
 AXN,http://220.134.196.147:9558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,http://198.16.64.10:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
 AXN,http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=m1776995e9b3e16458394&ct=17874&tsum=b8a111d0b13c7761ce8b4e8f047adddb
@@ -2126,7 +2117,7 @@ ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 ##
 
-##音樂##
+音樂,#genre#
 MTV音樂頻道,http://www.336699.live:1935/blocksix/4gtv-live025.stream/chunklist.m3u8
 親親2o音樂Live,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
 虎牙音樂-音樂石榴,http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
@@ -2229,7 +2220,7 @@ Wanasah,https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8
 
 ##
 
-##網路廣播##
+網路廣播,#genre#
 1766私房音樂,http://livestream.1766.today:1769/live1.mp3
 181FM,http://relay.181.fm:8128
 500首華語經典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
@@ -2320,7 +2311,7 @@ VOA美國之音,http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akaca
 香港電臺普通話,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
 ##
 
-##GOOD TV##
+GOOD TV,#genre#
 GOOD TV CH01 綜合台,https://live.streamingfast.net/osmflivech1.m3u8
 GOOD TV CH01 綜合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 GOOD TV CH01 綜合台,https://live.streamingfast.net/osmflivech1.m3u8
@@ -2361,7 +2352,7 @@ GOOD TV CH50 國際講員 中文發音,https://live.streamingfast.net/osmflivech
 GOOD TV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 ##
 
-##陸-CCTV##
+陸-CCTV,#genre#
 CCTV4K,http://119.28.164.24/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV4K,http://119.28.164.27/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV4K,http://119.28.164.28/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
@@ -3412,7 +3403,7 @@ CCTV風雲音樂,http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
 CCTV世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 ##
 
-##陸-衛視##
+陸-衛視,#genre#
 三沙衛視,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 上海外語,http://204bae1.123nat.com:55/bestv.php?id=65
 上海外語,http://153.35.100.112/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
@@ -4896,7 +4887,7 @@ CCTV世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 遼寧衛視,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
 ##
 
-##陸-地方影視##
+陸-地方影視,#genre#
 上海影視,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 北京影視,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
 句容影視頻道,http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
@@ -4995,7 +4986,7 @@ CCTV世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 
 ##
 
-##遊戲電競##
+遊戲電競,#genre#
 TechStorm,http://www.336699.live:1935/blocksix/4gtv-live109.stream/chunklist.m3u8
 CSGO袋鼠杯邀請賽,http://tc-tct.douyucdn2.cn/dyliveflv1a/668668rKGc0VsmNo.flv?wsAuth=ccff6535a96f74e15646855cc80f4e9b&token=cpn-androidmpro-0-668668-8608fe0e039e4275987048d93606866afdbc7d5b3d961c67&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 GinX ESPORTSTV,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
@@ -5059,7 +5050,7 @@ QQ飛車手遊官方直播間,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQ
 噠啵賽事,http://39.135.138.59:18890/PLTV/88888910/224/3221225653/index.m3u8
 ##
 
-##愛奇藝##
+愛奇藝,#genre#
 國劇修復,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_77_720P_t10/c53_lb_77_720P_t10.m3u8?key
 老劇超清修復,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_92_600_t10/c52_lb_92_600_t10.m3u8?key
 華語院線,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_114_600_t10/c51_lb_114_600_t10.m3u8?key
@@ -5103,7 +5094,7 @@ QQ飛車手遊官方直播間,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQ
 小說改編,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
 ##
 
-##百視TV##
+百視TV,#genre#
 百視TV-4K,http://beifeng.site:4000/udp/239.3.1.249:8001
 百視TV獨家直播,http://tvmvip110.club/bs.php?id=146
 百視TV自製01,http://tvmvip110.club/bs.php?id=213
@@ -5350,7 +5341,7 @@ QQ飛車手遊官方直播間,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQ
 百視TV寶寶動畫,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
 ##
 
-##陸-SiTV##
+陸-SiTV,#genre#
 SiTV七彩戲劇,http://119.28.164.24/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
 SiTV七彩戲劇,http://119.28.164.24/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 SiTV七彩戲劇,http://119.28.164.27/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
@@ -5576,7 +5567,7 @@ SiTV歡笑劇場4k,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/
 ##
 
 
-#陸-iHOT#
+陸-iHOT,#genre#
 愛世界,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
 愛幼教,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
 愛江湖,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
@@ -5609,7 +5600,7 @@ SiTV歡笑劇場4k,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/
 愛體育,http://39.135.7.4:6610/000000001001/1/index.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
 ##
 
-##陸-NewTV##
+陸-NewTV,#genre#
 NewTV中國功夫,http://39.134.115.163:8080/PLTV/88888910/224/3221225660/index.m3u8
 NewTV中國功夫,http://39.135.138.58:18890/PLTV/88888888/224/3221225660/index.m3u8
 NewTV中國功夫,http://39.135.138.59:18890/PLTV/88888888/224/3221225660/index.m3u8
@@ -5820,7 +5811,7 @@ NewTV驚悚懸疑,http://117.169.124.149:8080/live/jingsongxy/index.m3u8
 NewTV驚悚懸疑,http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
 ##
 
-##直播中國景點##
+直播中國景點,#genre#
 中國-精編直播(景點輪播),http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 中國-精編直播(景點輪播),http://gccncc.v.wscdns.com/gc/wgw05_1/index.m3u8
 中國-精編直播(景點輪播),http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
@@ -6673,7 +6664,7 @@ NewTV驚悚懸疑,http://39.135.7.4:6610/000000001000/1000000004000024282/index.
 ##
 
 
-##健身##
+健身,#genre#
 健身-一修鐵拳 搏擊燃脂,http://txtest-xp2p.p2p.huya.com/src/1199564875935-1199564875935-5450315006157520896-2399129875326-10057-A-0-1.xs
 健身-帥soserious 吃出6塊腹肌！,http://txtest-xp2p.p2p.huya.com/src/1299518413687-1299518413687-10472377075179192320-2599036950830-10057-A-0-1.xs
 蜜桃同學 十分鐘站立減肥操體育,http://txtest-xp2p.p2p.huya.com/src/1199549075839-1199549075839-5382454110563860480-2399098275134-10057-A-0-1.xs
@@ -6739,7 +6730,7 @@ UNI健身健美聯賽,http://111.62.156.15/tx.flv.huya.com/src/1199594384053-119
 ##
 
 
-##Rakuten TV##
+Rakuten TV,#genre#
 Rakuten Action 01,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 Rakuten Action 02 Spain,https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 Rakuten Action 02,https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
@@ -6842,7 +6833,7 @@ Rakuten TV Top Films,https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8?che
 
 ##
 
-##香港##
+香港,#genre#
 KIX,http://210.210.155.35/dr9445/h/h07/02.m3u8
 now SPORTS PRIME,http://livetv.dnsfor.me:80/channel.12.m3u8
 now SPORTS 4K,http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
@@ -7066,7 +7057,7 @@ Universe TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 ##
 
-##澳門##
+澳門,#genre#
 澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亞衛視,http://107.151.203.111:2209/135/hk.php?id=aoya
 澳門衛星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
@@ -7142,7 +7133,7 @@ Universe TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 
 
 
-##日本##
+日本,#genre#
 Animax Japan (Indonesian Subs),http://210.210.155.35/dr9445/h/h02/01.m3u8
 Animax Japan,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 Animax,http://redlabmcdn.s.llnwi.net/nv02/bs14hd/playlist.m3u8
