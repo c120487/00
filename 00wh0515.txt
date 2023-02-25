@@ -25,6 +25,7 @@
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"Fongmi 16","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"大眼宝藏 35","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
+{"name":"2hacc 55","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
 {"name":"多多 129","url":"https://www.yydsys.top/duo/v.json"}, 
 {"name":"Gao(xBPQ) 87","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //xBPQ
 {"name":"Gao(drpy) 187","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //js
@@ -71,6 +72,7 @@
 {"name":"mmtekamu 51","url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json"},
 {"name":"Gao(9918) 93","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"}, //XYQHiker
 {"name":"18dxwoai 75","url":"http://52bsj.vip:81/api/v3/file/get/23452/dxwoai18+.txt?sign=BHuceT2ExGD0qhPwGDukpBVZELS79oJRmYLZ0VbcfUk%3D%3A0"},
+{"name":"2hacc 130","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
 {"name":"28176 163","url":"http://52bsj.vip:98/0805"},
 {"name":"TVBOXZY 238","url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json?btwaf=69506961"},
 
