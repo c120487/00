@@ -185,7 +185,7 @@
 {"name":"99资源","key":"0099资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🥈99资源","key":"0099资源2","type":1,"api":"http://99zy.pw/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":1},
 
-{"name":"xxx辣椒","key":"00辣椒","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+
 {"name":"酷豆","key":"00api.kdapi.info","type":1,"api":"http://api.kdapi.info/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"酷倫理","key":"00api.kudian70.com","type":1,"api":"http://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"葡萄","key":"00api.putaozy.net","type":1,"api":"http://api.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -250,6 +250,7 @@
 //
 //
 {"key":"s00xml","name":"🐞🐞xml0🐞🐞","type":0,"api":"","searchable":0,"quickSearch":0},
+{"name":"辣椒","key":"00辣椒","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🥇玖玖","key":"00玖玖","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"成人30","key":"00api.11bat.com","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🥇博天堂","key":"00博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
