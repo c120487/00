@@ -106,15 +106,15 @@
 //(必填) 主页地址，建议填list段中的url,程序会从url中提取homeUrl, url中至少要包含{cateId}和{catePg}才能被识别
 // https://www.zxzj.vip/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html
 // https://www.zxzj.vip/list/{cateId}-{catePg}.html
-{"key":"csp_XBPQ_爱看","name":"💢爱看（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/爱看.json"},
+{"key":"csp_XBPQ_爱看","name":"💢爱看（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/爱看.json"},
 {"key": "xbikan","name": "🧸ikan(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"},
 {"key": "xbpqikan","name": "🧸ikan(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"},
 
-{"key":"csp_XBPQ_ 零零七","name":"💢零零七（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/零零七影视.json"},
+{"key":"csp_XBPQ_ 零零七","name":"💢零零七（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/零零七影视.json"},
 {"key": "xb007","name": "🧸007(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.007ts.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 {"key": "xbpq007","name": "🧸007(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.007ts.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 
-{"key":"csp_XBPQ_ 六度","name":"💢六度（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/六度.json"},
+{"key":"csp_XBPQ_ 六度","name":"💢六度（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/六度.json"},
 {"key": "xb6dd","name": "🧸6dd(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://6dd.abygvar.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html"},
 {"key": "xbpq6dd","name": "🧸6dd(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://6dd.abygvar.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html"},
 
