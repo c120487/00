@@ -45,6 +45,12 @@
 {"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
 
 
+{"key":"xbOLE1","name":"🧸OLE(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.forduck07.com/c/Arab-159/{catePg}"},
+{"key":"xbpqOLE1","name":"🧸OLE(XBPQ)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.forduck07.com/searchav?k={cateId}&p={catePg}"},
+{"key":"xbOLE2","name":"🧸OLE(XBiu)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.forduck07.com/c/Arab-159/{catePg}"},
+{"key":"xbpqOLE2","name":"🧸OLE(XBPQ)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.forduck07.com/searchav?k={cateId}&p={catePg}"},
+
+
 {"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
 {"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
