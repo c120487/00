@@ -49,7 +49,7 @@
 {"key":"dd001","name":"🕷大師兄","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"dd002","name":"🕷l0l","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.l0l.tv/vodshow/{cateId}-{area}--{class}-----{catePg}---2023.html"},
 {"key":"dd003","name":"🕷海兔","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.haitu.tv/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"dd004","name":"🕷dy111","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dy111.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"dd004","name":"🕷dy111","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.dy118.me/vodshow/{cateId}--------{catePg}---2023.html"},
 {"key":"dd005","name":"🕷COKEMV","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"dd006","name":"🕷99itv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://99itv.net/show/{cateId}--------{catePg}---.html"},
 
