@@ -80,7 +80,7 @@
 {"name":"🐝多多","key":"bb005","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 
-// XBiu 所有的选填字段都可以不填，程序会自己去猜，不一定能猜得出来，猜不出来的得自己去补规则
+// XBiu or XBPQe 所有的选填字段都可以不填，程序会自己去猜，不一定能猜得出来，猜不出来的得自己去补规则
 //(必填) 主页地址，建议填list段中的url,程序会从url中提取homeUrl, url中至少要包含{cateId}和{catePg}才能被识别
 // https://www.zxzj.vip/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html
 // https://www.zxzj.vip/list/{cateId}-{catePg}.html
@@ -134,7 +134,17 @@
 {"key": "xb宝仙HD","name": "🧸宝仙HD(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://webdillo.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/letter/{letter}/year/{year}.html"},
 {"key": "xbpq宝仙HD","name": "🧸宝仙HD(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://webdillo.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/letter/{letter}/year/{year}.html"},
 
+{"key": "xb007","name": "🧸007(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.007ts.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
+{"key": "xbpq007","name": "🧸007(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.007ts.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 
+{"key": "xb6dd","name": "🧸6dd(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://6dd.abygvar.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html"},
+{"key": "xbpq6dd","name": "🧸6dd(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://6dd.abygvar.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html"},
+
+{"key": "xbikan","name": "🧸ikan(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"},
+{"key": "xbpqikan","name": "🧸ikan(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/"},
+
+{"key": "xblezhu","name": "🧸lezhu(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_0_0___.html"},
+{"key": "xbpqlezhu","name": "🧸lezhu(XBPQ)","type": 3,"api": "csp_XBPQe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_0_0___.html"},
 
 
 //
@@ -264,10 +274,10 @@
 //
 //XBPQ from yoursmile
 
-//XBPQ form Jundie, rename to XP
-{"key":"xbpq_hdmoli","name":"🕷HDmoli(XP)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
-{"key":"csp_xb_yyds","name":"🕷YYDS影院(XP)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
-{"key":"XBPQ_南瓜影视","name":"南瓜影视(XP)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
+//XBPQ form Jundie Top98, rename to XBPQe
+{"key":"xbpq_hdmoli","name":"🕷HDmoli(XBPQe)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmoli.com/mlist/{cateId}-{catePg}.html"},
+{"key":"csp_xb_yyds","name":"🕷YYDS影院(XBPQe)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yydsvod.com/vod/show/{cateId}--------{catePg}---.html"},
+{"key":"XBPQ_南瓜影视","name":"南瓜影视(XBPQe)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
 
 
 //XBiu
