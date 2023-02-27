@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://github.com/c120487/00/raw/main/jar/pc0224.jar",
+"spider":"https://github.com/c120487/00/blob/main/jar/pc0224.jar?raw=true",
 
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00live1028.txt
