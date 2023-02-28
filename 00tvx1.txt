@@ -57,6 +57,11 @@
 
 //
 //
+{"key":"csp_xf_18av","name":"18AV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/18av.json"},
+{"key":"csp_XYQHiker_18AV","name":"18AV2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/TVBOXZY/main/XYQH/18AV.json"},
+{"key":"18avv","name":"️18AV3(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/18mm.json"},
+
+
 {"key":"s00XYQH","name":"🧪🧪XYQH🧪🧪‍","type":0,"api":"","searchable":0,"quickSearch":0},
 {"key":"s嗷嗷1","name":"️nowav1(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/now1.json"},
 {"key":"s嗷嗷2","name":"️nowav2(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/now2.json"},
@@ -70,10 +75,8 @@
     {"key":"csp_XYQHiker_猫咪","name":"猫咪","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/猫咪.json"},
     {"key":"csp_XYQHiker_水果派","name":"水果派","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/水果派.json"},
     {"key":"csp_XYQHiker_300分类","name":"300分类","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/300分类.json"},
-   {"key":"csp_xf_18av","name":"🏆18av","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/xBPQ/18av.json"},
 
-{"key":"csp_XYQHiker_18AV","name":"18AV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/TVBOXZY/main/XYQH/18AV.json"},
-{"key":"18avv","name":"️18AV影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/18mm.json"},
+
 {"key":"lover","name":"️爱人影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/lover.json"},
 {"key":"sgp","name":"️水果派(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/sgp.json"},
 {"key":"zhyz","name":"最后一站(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/zhyz.json"},
