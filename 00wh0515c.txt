@@ -1,5 +1,5 @@
 ﻿{"urls":[
-{"name":"China","url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00c.txt"},
+{"name":"China 0305","url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00c.txt"},
 
 {"name":"Peter","url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00tv1c.txt"},
 {"name":"Wendy","url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/1028c.txt"},
