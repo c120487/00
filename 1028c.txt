@@ -1,8 +1,8 @@
 ﻿{
 //"spider":"https://github.com/c120487/00/raw/main/jar/pc0126.jar",
 //"spider":"https://gh-proxy.com/https://github.com/c120487/00/raw/main/jar/pc0227.jar",
-//"spider":"clan://localhost/pc0227.jar",
-"spider":"file://Download/pc0227.jar",
+//"spider":"clan://localhost/tvb/pc0227.jar",
+"spider":"file://tvb/pc0227.jar",
 
 
 //live source https://raw.githubusercontent.com/c120487/00/main/00live1028.txt
