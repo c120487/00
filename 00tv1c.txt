@@ -27,7 +27,7 @@
 
 "sites": [
 //Date and personal sites
-{"key":"date","name":"🐈‍🐈 0305C 🐈‍🐈‍","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"date","name":"🐈‍🐈 0305C 🐈‍🐈‍","type":3,"api":"csp_Xinsj","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"fffollow","name":"👍0515","type":4,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title0515.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
 
