@@ -22,15 +22,15 @@
 
 {"name":"📌📌updated📌📌","url":""},
 
-{"name":"Yoursmile 63","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"Yoursmile 64","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"Fongmi 16","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-{"name":"大眼宝藏 56","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
+{"name":"大眼宝藏 53","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 {"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
 {"name":"多多","url":"https://www.yydsys.top/duo/v.json"},
-{"name":"2hacc 55","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
-{"name":"Gao 0826 68","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},
-{"name":"Gao 0820 154","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"},
+{"name":"2hacc 49","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
+{"name":"Gao 0826 70","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},
+{"name":"Gao 0820 155","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"},
 {"name":"Gao(xBPQ) 83","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //xBPQ
 {"name":"Gao(drpy) 200","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //js
 //{"name":"楞牛哥(fm) 6","url":"https://agit.ai/lengniuge/tv/raw/branch/master/fm"},
