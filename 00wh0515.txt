@@ -5,6 +5,7 @@
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
+//test jar
 {"name":"🧪🧪Test🧪🧪","url":""},
 {"name":"Yoursmile Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
 {"name":"俊于 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00jundie.txt"},
@@ -19,49 +20,51 @@
 {"name":"SP293 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00SP293.txt"},
 {"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 
+//updated
 {"name":"📌📌updated📌📌","url":""},
-
 {"name":"Yoursmile 64","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"Fongmi 16","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-{"name":"大眼宝藏 53","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
+{"name":"大眼宝藏 51","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 {"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
-{"name":"多多","url":"https://www.yydsys.top/duo/v.json"},
+{"name":"二哈 51","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
+{"name":"dxawi 43","url":"https://dxawi.github.io/0/0.json"},
 
+{"name":"多多","url":"https://www.yydsys.top/duo/v.json"},
 {"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
 {"name":"刚刚","url":"http://刚刚.live/猫"},
+{"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
 {"name":"MeowTV","url":"http://miaotvs.cn/meow"},
+{"name":"Meow 56","url":"http://miaotvs.cn/meow"},
 {"name":"吾愛 68","url":"http://52bsj.vip:98/wuai"},
 
-{"name":"2hacc 49","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
-{"name":"dxawi 35","url":"https://dxawi.github.io/0/0.json"},
-{"name":"Gao 0826 70","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},
-{"name":"Gao 0820 155","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"},
-{"name":"Gao(xBPQ) 83","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //xBPQ
-{"name":"Gao(drpy) 200","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //js
-{"name":"月光宝盒 95","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
+{"name":"Gao 0826 72","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"},
+{"name":"Gao 0820 198","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"},
+{"name":"Gao(xBPQ) 86","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //xBPQ
+{"name":"Gao(drpy) 216","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //drpy
+{"name":"小雅(js) 157","url":"http://101.34.67.237/config/2"}, //js
 
+
+{"name":"月光宝盒 95","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 {"name":"乱世 107","url":"http://www.dmtv.ml/mao/single.json"},
 {"name":"巧技(9999) 34","url":"http://cdn.qiaoji8.com/tvbox.json"},
+{"name":"巧技 34","url":"http://pandown.pro/tvbox/tvbox.json"},
+{"name":"📮6666源 151","url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg"},
 
-{"name":"小雅js 157","url":"http://101.34.67.237/config/2"}, //Drpy
-{"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
+//follow up
+{"name":"ABC接口 68","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
+
 
 {"name":"蚂蚁论坛 455","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
-{"name":"heroakuP 709","url":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/ptest.json"}, //test all
-{"name":"heroakuD 701","url":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/dtes.json"}, //test DRPY, xBPQ, JS, PY, XBiubiu, XBiu, XPF, XYQ
+{"name":"heroakuP 710","url":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/ptest.json"}, //test all
+{"name":"heroakuD 702","url":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/dtes.json"}, //test DRPY, xBPQ, JS, PY, XBiubiu, XBiu, XPF, XYQ
+{"name":"潇洒 980","url":"https://download.kstore.space/download/2863/01.txt"},
 
-//{"name":"tvbox-line 206","url":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/custom_site.json"},
-//{"name":"分類整理 497","url":"https://gitee.com/babyisbreath/jlmcom/raw/master/xc.json"},
-//{"name":"TVUrl-Merge 546","url":"https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt"},
 
-{"name":"📮6666源 151","url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg"},
-{"name":"潇洒 970","url":"https://download.kstore.space/download/2863/01.txt"},
-
+//over18
 {"name":"🧯🧯🧯🧯🧯🧯","url":""},
-
-{"name":"Peter 211","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
+{"name":"Peter 261","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
 {"name":"FongMi 74","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
 {"name":"TVBOXZY(18) 82","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/18.json"}, //xBPQ
 {"name":"TVBOXZY(VIP) 101","url":"https://raw.githubusercontent.com/c120487/00/main/vip.json"}, //xBPQ
@@ -71,23 +74,22 @@
 {"name":"mmtekamu 51","url":"https://cdn.staticaly.com/gh/mmtekamu/tvbox/main/jiekou/18.json"},
 {"name":"Gao(9918) 93","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"}, //XYQHiker
 {"name":"18dxwoai 75","url":"http://52bsj.vip:81/api/v3/file/get/23452/dxwoai18+.txt?sign=BHuceT2ExGD0qhPwGDukpBVZELS79oJRmYLZ0VbcfUk%3D%3A0"},
-{"name":"2hacc 130","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
+{"name":"2hacc 129","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
 {"name":"28176 163","url":"http://52bsj.vip:98/0805"},
 {"name":"TVBOXZY 238","url":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json"},
-{"name":"TVBOXZY 408","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json"},
+{"name":"TVBOXZY 404","url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/tvbox.json"},
 {"name":"佰欣园 428","url":"https://raw.githubusercontent.com/chengxueli818913/maoTV/main/020102.json"},
 
 
 {"name":"📝📝backup📝📝","url":""},
 {"name":"小河 103","url":"https://agit.ai/xiaohewanwan/samllmi/raw/branch/master/smallmi%e4%b8%8d%e7%bb%b4%e6%8a%a4.json"}, //XYQHiker
-{"name":"巧技 32","url":"http://pandown.pro/tvbox/tvbox.json"},
 {"name":"楞牛哥Dora 33","url":"https://agit.ai/lengniuge/tv/raw/branch/master/ts"},
 //{"name":"💍nxw 959","url":"http://s.nxw.so/vip"},
-{"name":"电视直播🏪专用口 63","url":"http://52bsj.vip:98/1314"},
-{"name":"QQ32394351drpy2 146","url":"https://raw.githubusercontent.com/c120487/00/main/js0.json"},
-{"name":"霜辉月明py 26","url":"https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"},
+//{"name":"电视直播🏪专用口 63","url":"http://52bsj.vip:98/1314"},
+{"name":"QQ32394351 146","url":"https://raw.githubusercontent.com/c120487/00/main/js0.json"}, //drpy2
+{"name":"霜辉月明py 26","url":"https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"}, //py
 {"name":"dlgt7 43","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
-{"name":"🐎VIP影视","url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"},
+//{"name":"🐎VIP影视","url":"https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg"},
 
 
 {"name":"全技 34","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
@@ -97,8 +99,7 @@
 {"name":"云星阿里 20","url":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8"},
 
 {"name":"老刘备 285","url":"https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
-{"name":"神器 99","url":"https://神器每日推送.tk/pz.json"},
-{"name":"ABC接口 158","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
+//{"name":"神器 99","url":"https://神器每日推送.tk/pz.json"},
 {"name":"小苹果 129","url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json"},
 {"name":"源享家 267","url":"http://000913.xyz/box/1128.json"},
 {"name":"🍱6666源共享","url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"},
@@ -111,7 +112,6 @@
 
 {"name":"Tangs 32","url":"https://cai777.cf/public/TVBox/tangs.json"},
 {"name":"Shuyuan 7","url":"http://shuyuan.miaogongzi.net/shuyuan/1668396598.txt"},
-{"name":"Meow 56","url":"http://miaotvs.cn/meow"},
 {"name":"🚙Habao 128","url":"https://raw.githubusercontents.com/habao260/zy/247b9c74d86881cbc6633b799a3ddf04e9b930c0/longge802.json"},
 {"name":"🚗ZY2 212","url":"https://download.kstore.space/download/2888/XB/zy2.json"},
 {"name":"🚗ZY3 452","url":"https://download.kstore.space/download/2888/XB/zy3.json"},
