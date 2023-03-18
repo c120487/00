@@ -5,13 +5,24 @@
 
 
 "lives":[
-{"name":"0515","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Gaotian","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "FongMi","type": 1,"url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"},
+{"name":"0515","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Gaotian","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"二哈","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/live/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+//{"name": "FongMi","type": 1,"url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo": "http://epg.51zmt.top:8000/{logo}"},
 {"name": "Jundie","type": 0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name": "Yoursmile","type": 0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"20230116","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/20230116.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"1028","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00live1028.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"宝盒•综合","type":0,"url":"http://telegram-feiyangdigital.v1.mk","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"20230116","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/20230116.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"1028","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live1028.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"肥猫•综合","type":0,"url":"http://我不是.肥猫.love:63/TV/zb.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"初秋语•综合","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"初秋语•哔哩","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/bili.m3u"},
+//{"name":"FongMi•综合","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+{"name":"YanG•综合","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"YanG•斗鱼","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u"},
+{"name":"YanG•虎牙","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u"},
 
 {"group": "redirect",
  "channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}],

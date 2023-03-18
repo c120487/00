@@ -1,12 +1,12 @@
 ﻿{"urls":[
-{"name":"China 0305","url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00c.txt"},
+{"name":"China 0305","url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00c.txt"},
 
-{"name":"Peter","url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/00tv1c.txt"},
-{"name":"Wendy","url":"https://gh-proxy.com/https://raw.githubusercontent.com/c120487/00/main/1028c.txt"},
+{"name":"Peter","url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tv1c.txt"},
+{"name":"Wendy","url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/1028c.txt"},
 
 
 {"name":"📌📌updated📌📌","url":""},
-{"name":"Fongmi 16","url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"Fongmi 16","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"Yoursmile 64","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"多多","url":"https://www.yydsys.top/duo/v.json"},
