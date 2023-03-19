@@ -31,9 +31,9 @@
 {"name":"dxawi1 25","url":"https://dxawi.github.io/0/1.json"},
 {"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
 
-{"name":"多多","url":"https://www.yydsys.top/duo/v.json"},
-{"name":"饭太硬","url":"http://饭太硬.ga/x/o.json"},
-{"name":"肥猫","url":"http://肥猫.love"},
+{"name":"多多","url":"https://yydsys.top/duo"},
+{"name":"饭太硬","url":"http://饭太硬.ga/tv"},
+{"name":"肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 {"name":"唐三","url":"https://hutool.ml/tang"},
 {"name":"MeowTV","url":"http://miaotvs.cn/meow"},
@@ -66,7 +66,7 @@
 //over18
 {"name":"🧯🧯🧯🧯🧯🧯","url":""},
 {"name":"Peter 261","url":"https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt"},
-{"name":"FongMi 73","url":"https://github.com/FongMi/CatVodSpider/raw/main/json/adult.json"},
+{"name":"FongMi 73","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"},
 {"name":"Gao(9918) 93","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"}, //XYQHiker
 {"name":"2hacc 125","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"},
 
