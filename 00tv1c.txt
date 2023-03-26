@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://gh-proxy.com/https://github.com/c120487/00/raw/main/jar/pc0227.jar",
+"spider":"https://gh-proxy.com/https://github.com/c120487/00/raw/main/jar/pc0326.jar",
 //"spider": "file://Download/pc0227.jar",
 //"spider":"clan://Download/pc0227.jar",
 
