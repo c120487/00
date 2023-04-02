@@ -36,7 +36,7 @@
 {"name":"Gao 小小 64","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xiaoxiao.json"}, //小小, 多直播源
 
 {"name":"巧技(9999) 31","url":"http://cdn.qiaoji8.com/tvbox.json"},
-{
+
 {"name":"heroakuP 720","url":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/ptest.json"}, //test all
 {"name":"heroakuD 712","url":"https://raw.githubusercontent.com/heroaku/TVboxo/main/Text/dtes.json"}, //test DRPY, xBPQ, JS, PY, XBiubiu, XBiu, XPF, XYQ
 {"name":"潇洒 1000","url":"https://download.kstore.space/download/2863/01.txt"},
@@ -47,7 +47,7 @@
 {"name":"🚙Habao 69","url":"https://raw.githubusercontent.com/habao260/zy/main/2023.json"},
 {"name":"ABC接口 68","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
 {"name":"小雅(js) 157","url":"http://101.34.67.237/config/2"}, //js
-"name":"📮6666源 151","url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg"},
+{"name":"📮6666源 151","url":"https://agit.ai/66666/mao/raw/branch/master/00/%E8%87%AA%E7%94%A8.jpg"},
 {"name":"蚂蚁论坛 455","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
 
 
