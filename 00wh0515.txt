@@ -5,24 +5,10 @@
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
-//test jar
-{"name":"🧪🧪Test🧪🧪","url":""},
-{"name":"Yoursmile Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
-{"name":"俊于 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00jundie.txt"},
-{"name":"Fongmi Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00fongmi.txt"},
-{"name":"大眼宝藏 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00dybz.txt"},
-{"name":"一木 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00Yimu.txt"},
-{"name":"月光宝盒 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00moon.txt"},
-{"name":"小河 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00xiaohe.txt"},
-{"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
-{"name":"Gao Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00gao.txt"},
-{"name":"小寶Xiaoh Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00FXZ.txt"},
-{"name":"SP293 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00SP293.txt"},
-{"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 
 //updated
 {"name":"📌📌updated📌📌","url":""},
-{"name":"Yoursmile 66","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"Yoursmile 67","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
 {"name":"Fongmi 13","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"大眼宝藏 49","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
@@ -186,6 +172,21 @@
 {"name":"🍘gitcode/kuukry 48","url":"https://gitcode.net/kuukey/a/-/raw/master/0.json"},
 {"name":"👙showbox","url":"https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt"},
 {"name":"👙懒人影院7","url":"https://apis.fanyeyun.com/down.php/2664dabf44e1b55919f481903a178cba.txt"},
+
+//test jar
+{"name":"🧪🧪Test🧪🧪","url":""},
+{"name":"Yoursmile Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00your.txt"},
+{"name":"俊于 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00jundie.txt"},
+{"name":"Fongmi Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00fongmi.txt"},
+{"name":"大眼宝藏 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00dybz.txt"},
+{"name":"一木 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00Yimu.txt"},
+{"name":"月光宝盒 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00moon.txt"},
+{"name":"小河 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00xiaohe.txt"},
+{"name":"多多 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00duo.txt"},
+{"name":"Gao Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00gao.txt"},
+{"name":"小寶Xiaoh Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00FXZ.txt"},
+{"name":"SP293 Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00SP293.txt"},
+{"name":"Bili HD Jar","url":"https://raw.githubusercontent.com/c120487/00/main/00bili.txt"},
 
 {"name":"","url":""}
 ]}
