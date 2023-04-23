@@ -15,7 +15,7 @@
 {"name":"二哈 73","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
 {"name":"dxawi0 50","url":"https://dxawi.github.io/0/0.json"},
 //{"name":"dxawi1 26","url":"https://dxawi.github.io/0/1.json"},
-{"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
+//{"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
 
 {"name":"饭太硬","url":"http://饭太硬.ga/tv"},
 {"name":"肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
@@ -33,6 +33,8 @@
 {"name":"Gao 精簡 65","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.txt"}, // 精简的源，jar的来源唐三的jar包
 {"name":"Gao(xBPQ) 170","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //纯xBPQ源，jar包和配置来源于菜妮丝
 {"name":"Gao(drpy) 231","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //资源来源于猫爪收集整理的道长drpy(js)资源
+{"name":"Gao(FM) 15","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"}, //资源来源于FM
+{"name":"Gao(XYQH) 120","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
 
 //no change since 0319
 {"name":"Gao 唐三 27","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"}, //完全来源于唐三的jar包和配置
