@@ -1,0 +1,8 @@
+{
+  "vodPic": "https://avatars.githubusercontent.com/u/111183856?v=4",
+  "drives": [
+{"name":"NAS","server":"http://192.168.31.12:5005/","user":"peter_chen_yl","pass":"woyaoni885"},
+{"name":"七米藍","server":"https://al.chirmyram.com/dav","user":"alist","pass":"alist"},
+{"name":"影視庫","server":"https://esir.eu.org/dav","user":"alist","pass":"alist"}
+  ]
+}

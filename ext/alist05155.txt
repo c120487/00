@@ -1,0 +1,18 @@
+{
+  "vodPic": "https://avatars.githubusercontent.com/u/111183856?v=4",
+ "drives": [
+ 
+ {"name":"9T","server":"https://drive.9t.ee"},
+ {"name":"木偶","server":"https://www.kugutsu.ml"},
+ {"name":"秋雨","server":"https://share.laowang.me","password":"s8;K^h[j<b"},
+ 
+{"name":"小雅","server":"http://alist.xiaoya.pro"},
+{"name":"觸光","server":"https://pan.ichuguang.com"},
+{"name":"一只魚","server":"https://alist.youte.ml"},
+{"name":"米奇","server":"https://anime.mqmmw.ga"},
+{"name":"神族九帝","server":"https://alist.shenzjd.com"},
+{"name":"梓澪","server":"https://zi0.cc"},
+{"name":"星梦","server":"https://pan.bashroot.top"},
+{"name":"七米蓝","server":"https://al.chirmyram.com"}
+  ]
+}
