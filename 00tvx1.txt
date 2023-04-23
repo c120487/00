@@ -16,22 +16,15 @@
 
 "categories":["福利","福利片","伦理片"],
 "sites":[
-{"key":"date","name":"️🚫🔞 0406 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
-
+{"key":"date","name":"️🚫🔞 0423 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili05155.json", "jar":"https://github.com/c120487/00/raw/main/jar/pc0330.jar"},
+{"key":"live","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter1$https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#FongMi$https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt#Gaotian$https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
 
-{"key":"ff001","name":"🔍豆瓣","type":3,"api":"https://github.com/c120487/00/raw/main/api/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/00/raw/main/ext/豆瓣.js"},
-
-{"key":"ff002","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter1$https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#FongMi$https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt#Gaotian$https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
-{"key":"ff003","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
-
+{"key":"Local","name":"🗃本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
+{"key":"WebDAV","name":"📀WebDAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/webdav05155.txt","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+{"key":"Alist","name":"🌐AList","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/alist05155.txt"},
 
 
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":0,"filterable":1,"ext":{"drives":[
- {"name":"9T","server":"https://drive.9t.ee"},
- {"name":"木偶","server":"https://www.kugutsu.ml"},
- {"name":"秋雨","server":"https://share.laowang.me","password":"s8;K^h[j<b"}
- ]}},
 
 {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
