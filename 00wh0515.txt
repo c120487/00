@@ -1,6 +1,6 @@
 ﻿{"urls":[
 
-{"name":"Peter 0423","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
+{"name":"Peter 0529","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
 {"name":"Wendy","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
 {"name":"F0814","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
@@ -10,12 +10,10 @@
 {"name":"📌📌updated📌📌","url":""},
 {"name":"Yoursmile 64","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"俊于 23","url":"http://home.jundie.top:81/top98.json"},
-{"name":"Fongmi 18","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
-{"name":"大眼宝藏 72","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
+{"name":"Fongmi 19","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"大眼宝藏 75","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 {"name":"二哈 73","url":"https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"},
-{"name":"dxawi0 54","url":"https://dxawi.github.io/0/0.json"},
-//{"name":"dxawi1 26","url":"https://dxawi.github.io/0/1.json"},
-//{"name":"一木 78","url":"https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json"},
+{"name":"XHDWC 55","url":"https://xhdwc.tk/0"},
 
 {"name":"饭太硬","url":"http://饭太硬.ga/tv"},
 {"name":"肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
@@ -23,18 +21,18 @@
 {"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 //{"name":"唐三","url":"https://hutool.ml/tang"},
 {"name":"MeowTV","url":"http://miaotvs.cn/meow"},
-{"name":"月光宝盒 82","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
+{"name":"月光宝盒 91","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 {"name":"乱世 105","url":"http://www.dmtv.ml/mao/single.json"},
 {"name":"吾愛 65","url":"http://52bsj.vip:98/wuai"},
-{"name":"ABC接口 63","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
+{"name":"ABC接口 64","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
 
-{"name":"Gao 飯太硬 75","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"}, //完全来源于WEWA（饭太硬）的jar包和配置
-{"name":"Gao 全面 150","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"}, //较全面的源，jar的来源于WEWA（饭太硬）的jar包
-{"name":"Gao 精簡 65","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.txt"}, // 精简的源，jar的来源唐三的jar包
-{"name":"Gao(xBPQ) 170","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //纯xBPQ源，jar包和配置来源于菜妮丝
-{"name":"Gao(drpy) 231","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //资源来源于猫爪收集整理的道长drpy(js)资源
-{"name":"Gao(FM) 15","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"}, //资源来源于FM
-{"name":"Gao(XYQH) 120","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
+{"name":"Gao 飯太硬 68","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"}, //完全来源于WEWA（饭太硬）的jar包和配置
+{"name":"Gao 全面 116","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"}, //较全面的源，jar的来源于WEWA（饭太硬）的jar包
+//{"name":"Gao 精簡 65","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.txt"}, // 精简的源，jar的来源唐三的jar包
+{"name":"Gao(xBPQ) 99","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //纯xBPQ源，jar包和配置来源于菜妮丝
+{"name":"Gao(drpy) 215","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //资源来源于猫爪收集整理的道长drpy(js)资源
+{"name":"Gao(FM) 19","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"}, //资源来源于FM
+{"name":"Gao(XYQH) 143","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
 
 //no change since 0319
 {"name":"Gao 唐三 27","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"}, //完全来源于唐三的jar包和配置
