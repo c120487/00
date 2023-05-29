@@ -28,11 +28,11 @@
 
 {"name":"Gao 飯太硬 68","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"}, //完全来源于WEWA（饭太硬）的jar包和配置
 {"name":"Gao 全面 116","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"}, //较全面的源，jar的来源于WEWA（饭太硬）的jar包
-//{"name":"Gao 精簡 65","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.txt"}, // 精简的源，jar的来源唐三的jar包
-{"name":"Gao(xBPQ) 99","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //纯xBPQ源，jar包和配置来源于菜妮丝
-{"name":"Gao(drpy) 215","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //资源来源于猫爪收集整理的道长drpy(js)资源
+{"name":"Gao 唐三 26","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"}, // 精简的源，jar的来源唐三的jar包
 {"name":"Gao(FM) 19","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"}, //资源来源于FM
 {"name":"Gao(XYQH) 143","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
+{"name":"Gao(xBPQ) 99","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //纯xBPQ源，jar包和配置来源于菜妮丝
+{"name":"Gao(drpy) 215","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //资源来源于猫爪收集整理的道长drpy(js)资源
 
 //no change since 0319
 {"name":"Gao 唐三 27","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"}, //完全来源于唐三的jar包和配置
