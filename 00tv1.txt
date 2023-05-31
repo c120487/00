@@ -90,7 +90,7 @@
 {"key":"dd003","name":"🕷海兔","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.haitu.tv/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"dd005","name":"🕷COKEMV","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"dd006","name":"🕷99itv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://99itv.net/show/{cateId}--------{catePg}---.html"},
-{"key":"dd004","name":"🧸OLE","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevodtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
+{"key":"dd004","name":"🕷OLE","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevodtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
 
 
 
