@@ -26,7 +26,7 @@
 	{"name":"Guo54","type":0,"url":"https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"},
 	{"name":"GaoTian","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
 	{"name":"YanG","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
-	{"name":"Swag","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/00live0515swag.m3u"},
+	{"name":"Swag","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live0515swag.m3u"},
 	
 	{"name":"0515","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
