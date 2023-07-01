@@ -1,6 +1,6 @@
 ﻿{"urls":[
 
-{"name":"Peter 0610","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
+{"name":"Peter 0701","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
 {"name":"Peter 295","url":"https://raw.githubusercontent.com/c120487/00/main/0515.txt"},
 {"name":"Wendy 203","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
 {"name":"F0814 199","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
@@ -12,7 +12,7 @@
 {"name":"南风 65","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"蜂蜜 20","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"唐三","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
-{"name":"饭太硬","url":"http://饭太硬.ga/tv"},
+{"name":"饭太硬","url":"http://饭太硬.ml/tv"},
 {"name":"肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
 {"name":"Demo","url":"http://xhww.fun:63/小米/DEMO.json"},
 {"name":"多多","url":"https://yydsys.top/duo"},
