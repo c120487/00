@@ -9,7 +9,7 @@
 
 //updated
 {"name":"📌📌updated📌📌","url":""},
-{"name":"南风 65","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"南风 68","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"蜂蜜 20","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
 {"name":"唐三","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
 {"name":"饭太硬","url":"http://饭太硬.ml/tv"},
