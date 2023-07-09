@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://github.com/c120487/00/raw/main/jar/pc709.jar",
+"spider":"https://github.com/c120487/00/raw/main/jar/pc0709.jar",
 //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 	
 
