@@ -18,20 +18,21 @@
 {"name":"多多","url":"https://yydsys.top/duo"},
 
 //with date
-{"name":"大眼宝藏 81","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
-{"name":"小胡 114","url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json"},
+{"name":"大眼宝藏 80","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
+//{"name":"小胡 114","url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json"},
 
 
-{"name":"dxasi0 61","url":"https://xhdwc.tk/0"},
-{"name":"运输车 110","url":"https://weixine.net/ysc.json"},
-{"name":"荷城茶秀 46","url":"https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json"},
-{"name":"胖鸭 37","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
+{"name":"dxasi0 54","url":"https://xhdwc.tk/0"},
+{"name":"运输车 111","url":"https://weixine.net/ysc.json"},
+//{"name":"荷城茶秀 46","url":"https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json"},
+{"name":"胖鸭 46","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
 {"name":"乐享 14","url":"https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"},
 {"name":"恋影 88","url":"https://www.lianyingtv.com/fast/fast"},
 {"name":"ABC接口 68","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
 {"name":"小雅(js) 52","url":"http://101.34.67.237/config/1"}, //js
-{"name":"佰欣园 153","url":"https://raw.iqiq.io/chengxueli818913/maoTV/main/44.txt"},
-{"name":"全技 29","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
+//{"name":"佰欣园 153","url":"https://raw.iqiq.io/chengxueli818913/maoTV/main/44.txt"},
+{"name":"全技 27","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
+{"name":"香雅情 167","url":"https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json"},
 
 
 {"name":"夜魔","url":"https://download.kstore.space/download/3313/mao/ymz"},
@@ -43,25 +44,25 @@
 
 
 //Copy
-{"name":"Gao 飯太硬 68","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"}, //完全来源于WEWA（饭太硬）的jar包和配置
-{"name":"Gao 全面 119","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0820.json"}, //较全面的源，jar的来源于WEWA（饭太硬）的jar包
-{"name":"Gao 唐三 30","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"}, // 精简的源，jar的来源唐三的jar包
+{"name":"Gao 大而全 119","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"}, //较全面的源，jar的来源于WEWA（饭太硬）的jar包
+{"name":"Gao 小而精 34","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"}, //jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
+{"name":"Gao 飯太硬 67","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"}, //完全来源于WEWA（饭太硬）的jar包和配置
+{"name":"Gao 唐三 37","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"}, // 精简的源，jar的来源唐三的jar包
 {"name":"Gao(FM) 20","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"}, //资源来源于FM
-{"name":"Gao(XYQH) 173","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
-{"name":"Gao(xBPQ) 91","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/xBPQ.json"}, //纯xBPQ源，jar包和配置来源于菜妮丝
-{"name":"Gao(drpy) 189","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //资源来源于猫爪收集整理的道长drpy(js)资源
-
+{"name":"Gao(XYQH) 167","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
+{"name":"Gao(xBPQ) 91","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"}, // XYQ源，jar包和配置来源于香雅情。
+{"name":"Gao(drpy) 222","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //XBPQ源，jar包和配置来源于小米小爆脾气
 
 
 
 //no update 0610
 {"name":"俊佬 23","url":"http://home.jundie.top:81/top98.json"},
-{"name":"二哈 73","url":"https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json"},
+//{"name":"二哈 73","url":"https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json"},
 
 //strange
 {"name":"小苹果 2","url":"https://agit.ai/leevi/apps/raw/branch/main/xpg.json"},
 {"name":"小马 412","url":"https://szyyds.cn/tv/x.json"},
-{"name":"刺桐 326","url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json"},
+//{"name":"刺桐 326","url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json"},
 {"name":"夕晨 242","url":"https://calendre.top/TVBox/YXHC.json"},
 {"name":"蚂蚁论坛 446","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
 
