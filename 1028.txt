@@ -7,7 +7,8 @@
 
 "sites": [
 //Name and personal sites
-{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"fffollow","name":"👍1028","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title1028.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"ffBBB","name":"🌐Bilibili(0406)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili1028.json"},
 
@@ -15,7 +16,9 @@
 //
 //
 //Basic sites,filterable
-{"key":"ff001","name":"🔍豆瓣","type":3,"api":"https://github.com/c120487/00/raw/main/api/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/00/raw/main/ext/豆瓣.js"},
+//{"key":"ff001","name":"🔍豆瓣","type":3,"api":"https://github.com/c120487/00/raw/main/api/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/00/raw/main/ext/豆瓣.js"},
+{"key":"ff001","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/drpy.js"},
+
 {"key":"ff002","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"0406$https://raw.githubusercontent.com/c120487/00/main/00live1028.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 {"key":"ff003","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 
@@ -29,20 +32,23 @@
 //
 //
 //Major sites, jar
+{"key":"aa006","name":"🐞星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,	"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"aa001","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa002","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa003","name":"🐞明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa004","name":"🐞厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa005","name":"🐞哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"aa006","name":"🐞新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"aa006","name":"🐞新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 
 
+{"key":"bb005","name":"🐝77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bb001","name":"🐝海外看","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bb004","name":"🐝FOX","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"bb006","name":"🐝快車","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"name":"🐝77韩剧","key":"bb005","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🐝淘片影视","key":"bb002","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"🐝映迷","key":"bb003","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"bb002","name":"🐝淘片影视","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"bb003","name":"🐝映迷","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
+
 
 
 {"key":"dd001","name":"🕷大師兄","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html"},
