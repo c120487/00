@@ -1,11 +1,22 @@
 ﻿{"urls":[
 
-{"name":"Peter 0709","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
+{"name":"Peter 0714","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
 {"name":"Peter 295","url":"https://raw.githubusercontent.com/c120487/00/main/0515.txt"},
 {"name":"Wendy 203","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
 {"name":"F0814 199","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
+//
+{"name":"KVY 28","url":"https://agit.ai/kvymin/TV/raw/branch/master/Box.json"},
+{"name":"4K影 48","url":"http://www.lyyytv.cn/yt/yt.json"},
+{"name":"愛TV純4K 15","url":"https://gitee.com/pdscxz/tv/raw/master/video/4k.json"},
+{"name":"愛TV4K 32","url":"https://gitee.com/pdscxz/tv/raw/master/video/tv4k.json"},
+{"name":"愛TV 25","url":"https://gitee.com/pdscxz/tv/raw/master/001.json"},
+{"name":"好人 57","url":"https://xhdwc.tk/0"},
+{"name":"源享家230713","url":"https://源享家.ml/230713"},
+{"name":"源享家2324","url":"https://源享家.ml/23424"},
+{"name":"码上放生","url":"http://www.bestpvp.site/关注码上放生"},
+//
 
 //updated
 {"name":"📌📌updated📌📌","url":""},
