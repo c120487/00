@@ -1,53 +1,62 @@
 ﻿{"urls":[
 
-{"name":"Peter 0714","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
+{"name":"Peter 0722","url":"https://raw.githubusercontent.com/c120487/00/main/00tv1.txt"},
 {"name":"Peter 295","url":"https://raw.githubusercontent.com/c120487/00/main/0515.txt"},
 {"name":"Wendy 203","url":"https://raw.githubusercontent.com/c120487/00/main/1028.txt"},
 {"name":"F0814 199","url":"https://raw.githubusercontent.com/c120487/00/main/00814.txt"},
 {"name":"F0315","url":"https://raw.githubusercontent.com/c120487/00/main/00315.txt"},
 
+//荐片
+{"name":"多多","url":"https://yydsys.top/duo"},
+{"name":"道長 168","url":"https://pastebin.com/raw/5NHaxyGR"},
+{"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
+{"name":"小米","url":"http://xhww.fun:63/小米/DEMO.json"},
+{"name":"小雅(js) 52","url":"http://101.34.67.237/config/1"}, //js
+{"name":"dxawi 53","url":"https://xhdwc.tk/0"},
+{"name":"南风 66","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"高天流雲 226","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //XBPQ源，jar包和配置来源于小米小爆脾气
+
+
+
 //
-{"name":"KVY 28","url":"https://agit.ai/kvymin/TV/raw/branch/master/Box.json"},
 {"name":"4K影 48","url":"http://www.lyyytv.cn/yt/yt.json"},
 {"name":"愛TV純4K 15","url":"https://gitee.com/pdscxz/tv/raw/master/video/4k.json"},
-{"name":"愛TV4K 32","url":"https://gitee.com/pdscxz/tv/raw/master/video/tv4k.json"},
-{"name":"愛TV 25","url":"https://gitee.com/pdscxz/tv/raw/master/001.json"},
-{"name":"好人 57","url":"https://xhdwc.tk/0"},
-{"name":"源享家230713","url":"https://源享家.ml/230713"},
-{"name":"源享家2324","url":"https://源享家.ml/23424"},
+//{"name":"源享家230713","url":"https://源享家.ml/230713"},
+//{"name":"源享家2324","url":"https://源享家.ml/23424"},
 {"name":"码上放生","url":"http://www.bestpvp.site/关注码上放生"},
 //
 
 //updated
 {"name":"📌📌updated📌📌","url":""},
-{"name":"南风 68","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
-{"name":"蜂蜜 20","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"愛TV4K 35","url":"https://gitee.com/pdscxz/tv/raw/master/video/tv4k.json"},
+{"name":"愛TV 26","url":"https://gitee.com/pdscxz/tv/raw/master/001.json"},
+
+{"name":"饭太硬","url":"http://饭太硬.top/tv"},
+{"name":"肥猫","url":"http://肥猫.love"},
 {"name":"唐三","url":"https://gh.t4tv.hz.cz/newtang.bmp"},
-{"name":"饭太硬","url":"http://饭太硬.ml/tv"},
-{"name":"肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
-{"name":"Demo","url":"http://xhww.fun:63/小米/DEMO.json"},
-{"name":"多多","url":"https://yydsys.top/duo"},
+{"name":"蜂蜜 22","url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"},
+{"name":"俊佬 23","url":"http://home.jundie.top:81/top98.json"},
+{"name":"霜辉月明 26","url":"https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"}, //py
+{"name":"运输车 115","url":"https://weixine.net/ysc.json"},
+{"name":"KVY 28","url":"https://agit.ai/kvymin/TV/raw/branch/master/Box.json"},
+{"name":"胖鸭 52","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
 
 //with date
 {"name":"大眼宝藏 80","url":"https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"},
 //{"name":"小胡 114","url":"https://jihulab.com/xiaohutx/box/-/raw/main/0.json"},
 
 
-{"name":"dxasi0 54","url":"https://xhdwc.tk/0"},
-{"name":"运输车 111","url":"https://weixine.net/ysc.json"},
+
 //{"name":"荷城茶秀 46","url":"https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json"},
-{"name":"胖鸭 46","url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json"},
 {"name":"乐享 14","url":"https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"},
 {"name":"恋影 88","url":"https://www.lianyingtv.com/fast/fast"},
 {"name":"ABC接口 68","url":"https://agit.ai/n/b/raw/branch/a/b/c.json"},
-{"name":"小雅(js) 52","url":"http://101.34.67.237/config/1"}, //js
 //{"name":"佰欣园 153","url":"https://raw.iqiq.io/chengxueli818913/maoTV/main/44.txt"},
 {"name":"全技 27","url":"https://agit.ai/relax/adcc/raw/branch/master/tvbox.json"},
 {"name":"香雅情 167","url":"https://raw.githubusercontent.com/xyzjhe/XYQ0531/main/XYQTVBox.json"},
 
 
 {"name":"夜魔","url":"https://download.kstore.space/download/3313/mao/ymz"},
-{"name":"菜妮丝xBPQ","url":"https://tvbox.cainisi.cf"},
 {"name":"MeowTV","url":"http://miaotvs.cn/meow"},
 //{"name":"月光宝盒 91","url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0"},
 //{"name":"乱世 105","url":"http://www.dmtv.ml/mao/single.json"},
@@ -55,24 +64,22 @@
 
 
 //Copy
-{"name":"Gao 大而全 119","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"}, //较全面的源，jar的来源于WEWA（饭太硬）的jar包
-{"name":"Gao 小而精 34","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"}, //jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
-{"name":"Gao 飯太硬 67","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"}, //完全来源于WEWA（饭太硬）的jar包和配置
+{"name":"Gao 大而全 116","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json"}, //较全面的源，jar的来源于WEWA（饭太硬）的jar包
+{"name":"Gao 小而精 39","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"}, //jar包来源于Panda Groove的go包，其中泥巴、星星、推送等，需要替换成自己的代理url
+{"name":"Gao 飯太硬 66","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"}, //完全来源于WEWA（饭太硬）的jar包和配置
 {"name":"Gao 唐三 37","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json"}, // 精简的源，jar的来源唐三的jar包
-{"name":"Gao(FM) 20","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"}, //资源来源于FM
-{"name":"Gao(XYQH) 167","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
-{"name":"Gao(xBPQ) 91","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"}, // XYQ源，jar包和配置来源于香雅情。
-{"name":"Gao(drpy) 222","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"}, //XBPQ源，jar包和配置来源于小米小爆脾气
+{"name":"Gao(FM) 22","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json"}, //资源来源于FM
+{"name":"Gao(XYQH) 141","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, //资源来源于XYQH
+{"name":"Gao(xBPQ) 72","url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json"}, // XYQ源，jar包和配置来源于香雅情。
 
 
 
 //no update 0610
-{"name":"俊佬 23","url":"http://home.jundie.top:81/top98.json"},
 //{"name":"二哈 73","url":"https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json"},
 
 //strange
-{"name":"小苹果 2","url":"https://agit.ai/leevi/apps/raw/branch/main/xpg.json"},
-{"name":"小马 412","url":"https://szyyds.cn/tv/x.json"},
+//{"name":"小苹果 2","url":"https://agit.ai/leevi/apps/raw/branch/main/xpg.json"},
+//{"name":"小马 412","url":"https://szyyds.cn/tv/x.json"},
 //{"name":"刺桐 326","url":"https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json"},
 {"name":"夕晨 242","url":"https://calendre.top/TVBox/YXHC.json"},
 {"name":"蚂蚁论坛 446","url":"https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8"},
@@ -110,7 +117,6 @@
 
 {"name":"📝📝backup📝📝","url":""},
 {"name":"QQ32394351 146","url":"https://raw.githubusercontent.com/c120487/00/main/js0.json"}, //drpy2
-{"name":"霜辉月明py 26","url":"https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json"}, //py
 {"name":"dlgt7 43","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
 {"name":"老刘备 285","url":"https://raw.githubusercontent.com/liu673cn/box/main/m.json"},
 
