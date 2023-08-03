@@ -19,7 +19,7 @@
 
 
 //
-{"name":"4K影 48","url":"http://www.lyyytv.cn/yt/yt.json"},
+{"name":"影探 48","url":"http://www.lyyytv.cn/yt/yt.json"},
 {"name":"愛TV純4K 15","url":"https://gitee.com/pdscxz/tv/raw/master/video/4k.json"},
 //{"name":"源享家230713","url":"https://源享家.ml/230713"},
 //{"name":"源享家2324","url":"https://源享家.ml/23424"},
