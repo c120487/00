@@ -32,7 +32,8 @@
 //
 //
 //Major sites, jar
-{"key":"aa006","name":"🐞星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,	"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+{"key":"aa006","name":"🐝星星","type":3,"api":"csp_Star","searchable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+
 {"key":"aa001","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa002","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"aa003","name":"🐞明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
