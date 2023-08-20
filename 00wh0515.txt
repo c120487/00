@@ -28,8 +28,8 @@
 
 //updated
 {"name":"📌📌updated📌📌","url":""},
-{"name":"愛TV4K 35","url":"https://gitee.com/pdscxz/tv/raw/master/video/tv4k.json"},
-{"name":"愛TV 26","url":"https://gitee.com/pdscxz/tv/raw/master/001.json"},
+{"name":"愛TV4K 37","url":"https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"},
+{"name":"愛4K 19","url":"https://raw.githubusercontent.com/pdscxz/TV/main/video/4k.json"},
 
 {"name":"饭太硬","url":"http://饭太硬.top/tv"},
 {"name":"肥猫","url":"http://肥猫.love"},
