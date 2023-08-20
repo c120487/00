@@ -31,8 +31,8 @@
 //
 //
 //Basic sites,filterable
-{"key":"00Star","name":"🐝星星","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"00Dubo","name":"🐝獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.githubusercontent.com/c120487/CatVodSpider/main/json/duboku.json"},
+{"key":"00Star","name":"⭐星星","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+{"key":"00Dubo","name":"💂獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.githubusercontent.com/c120487/CatVodSpider/main/json/duboku.json"},
 {"key":"aa001","name":"🐞泥巴","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
 
 {"key":"00Voflix","name":"🐞Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
