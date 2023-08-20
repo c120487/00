@@ -124,12 +124,12 @@
 //
 //
 //VPN 
-{"key":"11jar","name":"🐞🐞jar🐞🐞","type":0,"api":""},  
+{"key":"00jar","name":"🐞🐞jar🐞🐞","type":0,"api":""},  
 {"key":"00Nbys","name":"🐞泥巴(VPN)","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"00NiNi","name":"🐞泥巴2(VPN)","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"00TRJ","name":"🐞唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1,"changeable": 1},
 {"key":"00If101","name":"🐞If101(VPN)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Cokemv","name":"🚗可乐(VPN)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"00Cokemv","name":"🚗可乐(VPN)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 
 //
 //
