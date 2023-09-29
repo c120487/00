@@ -13,10 +13,10 @@
 
 "sites": [
 //Date and personal sites
-{"key":"ffdate","name":"🐈‍🐈 0929 🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"ffdate","name":"🐈‍🐈 09291 🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
 //{"key":"date","name":"🐈‍🐈 0820 🐈‍🐈‍","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"fffollow","name":"👍0515","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title0515.json","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"ffLocal","name":"🗃本地播放","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
+{"key":"ffLocal","name":"🗃本地播放","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1},
 
 
 //
@@ -41,12 +41,12 @@
 {"key":"00App热剧","name":"🐱┃剧猫2┃4K","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/c120487/dr_py/main/libs/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/%E7%83%AD%E5%89%A7%E7%8C%AB.js"},
 
 
-{"key":"csp_Alistxy","name":"♻️┃Alist┃4K","type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[
-{"name":"💃小雅搜索1","server":"http://124.71.206.236:5678","version":3},
-{"name":"💃小雅搜索2","server":"http://112.10.205.74:5678","version":3},
-{"name":"💃小雅搜索3","server":"http://182.120.114.23:5678","version":3},
-{"name":"💃小雅搜索4","server":"https://222.248.200.97:8765","version":3}
-]}},
+//{"key":"csp_Alistxy","name":"♻️┃Alist┃4K","type":3,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/AListxy.jar","api":"csp_AListxy","searchable":1,"quickSearch":1,"ext":{"drives":[
+//{"name":"💃小雅搜索1","server":"http://124.71.206.236:5678","version":3},
+//{"name":"💃小雅搜索2","server":"http://112.10.205.74:5678","version":3},
+//{"name":"💃小雅搜索3","server":"http://182.120.114.23:5678","version":3},
+//{"name":"💃小雅搜索4","server":"https://222.248.200.97:8765","version":3}
+//]}},
 
 
 {"key":"00Voflix","name":"🐞Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
@@ -55,8 +55,6 @@
 {"key":"081907","name":"🐞可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00Ddrk","name":"🐞低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00YQKAPP","name":"🐞一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-//{"key":"00Ysgc","name":"🐞影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip"},
-//{"key":"00Ikanbot","name": "🐞愛看Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"00YGP","name":"🐞預告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 
 
@@ -98,7 +96,7 @@
 //Major sites, jar
 {"key":"aa002","name":"✈唐人街(VPN)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bb001","name":"✈海外看(VPN)","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"00HWK","name":"✈海外看2(VPN)","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"00HWK","name":"✈海外看2(VPN)","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"dd001","name":"🕷大師兄","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dsxys.pro/vodshow/{cateId}--------{catePg}---.html"},
