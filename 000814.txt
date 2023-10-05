@@ -1,16 +1,16 @@
 ﻿{
 "spider":"https://github.com/c120487/00/raw/main/jar/pc0819.jar",
-"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live1028.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live0814.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 
-"categories":["电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日韩剧","日本剧","韩国剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","日韩综艺","韩国综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
+"categories":["韩国综艺","日韩综艺","韩国剧","韩剧","日韩剧","电影","动作片","科幻片","奇幻片","喜剧片","爱情片","犯罪片","悬疑片","剧情片","战争片","纪录片","电视剧","欧美剧","美国剧","国产剧","日本剧","港台剧","台湾剧","香港剧","综艺","大陆综艺","国内综艺","动漫","动漫电影","动画电影","动漫片","动画片","欧美动漫","日韩动漫","日本动漫"],
 
 "sites": [
 //Name and personal sites
-{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
-//{"key":"date","name":"🏓🏓 1028 🏓🏓","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"fffollow","name":"👍1028","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title1028.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"ffBBB","name":"🌐Bilibili(1005)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili1028.json"},
+{"key":"date","name":"🐘🐘 0814 🐘🐘","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
+//{"key":"date","name":"🐘🐘 0814 🐘🐘","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+{"key":"fffollow","name":"👍0814","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title0814.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"ffBBB","name":"🌐Bilibili(1005)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili0814.json"},
 {"key":"ff003","name":"🏠本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
 
 
@@ -21,6 +21,7 @@
 {"key":"00Star","name":"⭐星星","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"00Dubo","name":"💂獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.githubusercontent.com/c120487/CatVodSpider/main/json/duboku.json"},
 {"key":"aa001","name":"🐞泥巴","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"0077hanju","name":"🪲77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00xiaobao","name":"🍀小寶","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/xiaobaotv.json"},
 {"key":"00JuMao","name":"🐱剧猫(4K)","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/c120487/dr_py/main/libs/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/%E7%83%AD%E5%89%A7%E7%8C%AB.js"},
 {"key":"00HWK","name":"✈海外看(VPN)","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -44,7 +45,6 @@
 
 
 {"key":"00kczy","name":"🪲快車","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"0077hanju","name":"🪲77韩剧","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"00lzi","name":"🪲量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 
@@ -61,7 +61,6 @@
 
 
 
-
 //
 //
 //主題
@@ -72,8 +71,7 @@
 //
 //
 {"key":"ff001","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/drpy.js"},
-
-{"key":"ff002","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"0406$https://raw.githubusercontent.com/c120487/00/main/00live1028.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
+{"key":"ff002","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"0406$https://raw.githubusercontent.com/c120487/00/main/00live0814.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 
 
 //
@@ -124,6 +122,8 @@
 {"key":"PanSearch","name":"🙀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+
+
 
 
 //
@@ -215,7 +215,6 @@
 {"key":"douban","name":"🅱豆瓣荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":1}
 ],
 
-
 //
 //
 //
@@ -255,7 +254,6 @@
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}
 ]}
 ],
-
 
 
 //
