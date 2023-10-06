@@ -34,10 +34,10 @@
 {"key":"00Star","name":"🐝星星","type":3,"api":"csp_Star","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 //{"key":"00YingShi","name":"🎞影視","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 //{"key":"aa001","name":"🐞泥巴","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"aa001","name":"🐝泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+{"key":"aa001","name":"🐝泥巴","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":1,"changeable":1,"jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"00xiaobao","name":"🍀小寶","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/xiaobaotv.json"},
-//{"key":"00JuMao","name":"🐱┃剧猫┃4K","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"},
-{"key":"00JuMao","name":"🐱剧猫(4K)","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/c120487/dr_py/main/libs/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/%E7%83%AD%E5%89%A7%E7%8C%AB.js"},
+{"key":"00JuMao","name":"🐱┃剧猫┃4K","type":3,"playerType":2,"api":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://notabug.org/ymz123/ymz/raw/master/Js/%e7%83%ad%e5%89%a7%e7%8c%ab.js"},
+//{"key":"00JuMao","name":"🐱剧猫(4K)","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/c120487/dr_py/main/libs/drpy2.min.js","changeable":0,"searchable":1,"quickSearch":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/%E7%83%AD%E5%89%A7%E7%8C%AB.js"},
 {"key":"00Dubo","name":"💂獨播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://raw.githubusercontent.com/c120487/CatVodSpider/main/json/duboku.json"},
 
 
