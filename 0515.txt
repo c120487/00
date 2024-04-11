@@ -200,7 +200,7 @@
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 
+      "filterable": 1
     },
 
 
